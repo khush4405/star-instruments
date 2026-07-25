@@ -1,0 +1,10 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <rect width="200" height="200" rx="20" fill="#F8FAFC"/>
+  <circle cx="100" cy="80" r="45" fill="#0A192F" opacity="0.08"/>
+  <path d="M80 100 L80 60 L120 60 L120 100" stroke="#1E3A8A" stroke-width="3" fill="none"/>
+  <rect x="90" y="80" width="20" height="25" rx="2" fill="#06B6D4" opacity="0.5"/>
+  <line x1="100" y1="45" x2="100" y2="60" stroke="#F97316" stroke-width="3"/>
+  <line x1="90" y1="50" x2="110" y2="50" stroke="#F97316" stroke-width="3"/>
+  <rect x="75" y="100" width="50" height="6" rx="3" fill="#1E3A8A" opacity="0.6"/>
+  <text x="100" y="160" text-anchor="middle" font-family="Inter,sans-serif" font-size="11" fill="#334155" font-weight="600">Erection Work</text>
+</svg>
