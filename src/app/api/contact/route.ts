@@ -30,8 +30,8 @@ export async function POST(request: Request) {
     const parsed = contactSchema.safeParse(body);
     
     if (!parsed.success) {
-      console.error("ZOD PARSE ERROR", parsed.error.errors, body);
-      const details = parsed.error.errors.map(e => `${e.path.join('.')}: ${e.message}`).join(', ');
+      console.error("ZOD PARSE ERROR", parsed.error.issues, body);
+      const details = parsed.error.issues.map(e => `${e.path.join('.')}: ${e.message}`).join(', ');
       return NextResponse.json({ error: `Invalid form data - ${details}` }, { status: 400 });
     }
 
