@@ -116,18 +116,18 @@ export async function POST(request: Request) {
       },
     });
 
-    // Run email sending in the background without blocking the UI response
-    Promise.allSettled([
+    // Await the email sending before returning so Vercel serverless doesn't kill the function early
+    const results = await Promise.allSettled([
       adminMailPromise,
       customerMailPromise,
-    ]).then(results => {
-      if (results[0].status === "rejected") {
-        console.error("[Nodemailer] Admin mail failed", results[0].reason);
-      }
-      if (results[1].status === "rejected") {
-        console.warn("[Nodemailer] Customer copy failed", results[1].reason);
-      }
-    });
+    ]);
+
+    if (results[0].status === "rejected") {
+      console.error("[Nodemailer] Admin mail failed", results[0].reason);
+    }
+    if (results[1].status === "rejected") {
+      console.warn("[Nodemailer] Customer copy failed", results[1].reason);
+    }
 
     return NextResponse.json({
       success: true,
