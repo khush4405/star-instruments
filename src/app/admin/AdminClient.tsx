@@ -20,7 +20,6 @@ export default function AdminClient({ initialData }: { initialData: any }) {
       if (!res.ok) throw new Error('Failed to save');
       alert('Success! Content saved to disk and is now live.');
     } catch (err) {
-      console.error(err);
       alert('Error saving content. Check console.');
     } finally {
       setIsSaving(false);
@@ -49,16 +48,15 @@ export default function AdminClient({ initialData }: { initialData: any }) {
           {[
             { id: 1, name: "1. Catalog Manager" },
             { id: 3, name: "2. Video Showcase" },
-            { id: 4, name: "3. Certificates" }
+            { id: 4, name: "3. Project Gallery" }
           ].map(tab => (
-            <div 
+            <div
               key={tab.id}
               onClick={() => setActiveTab(tab.id)}
-              className={`px-3 py-2 rounded-lg cursor-pointer transition-colors font-medium ${
-                activeTab === tab.id 
-                ? 'bg-blue-600/20 text-blue-400 border border-blue-600/30' 
+              className={`px-3 py-2 rounded-lg cursor-pointer transition-colors font-medium ${activeTab === tab.id
+                ? 'bg-blue-600/20 text-blue-400 border border-blue-600/30'
                 : 'text-slate-400 hover:text-slate-200 hover:bg-slate-800/50 border border-transparent'
-              }`}
+                }`}
             >
               {tab.name}
             </div>
@@ -76,16 +74,16 @@ export default function AdminClient({ initialData }: { initialData: any }) {
           <h2 className="text-lg font-semibold text-white">
             {activeTab === 1 && "Catalog & Products Manager (Multi-Tier)"}
             {activeTab === 3 && "Video Showcase Manager"}
-            {activeTab === 4 && "Certificates & Compliance Portal"}
+            {activeTab === 4 && "Project Gallery Manager"}
           </h2>
           <div className="flex items-center gap-3">
-            <button 
+            <button
               onClick={handleDownloadBackup}
               className="px-4 py-2 bg-slate-700 hover:bg-slate-600 text-white text-sm font-medium rounded-lg transition-colors"
             >
               Backup Current JSON
             </button>
-            <button 
+            <button
               onClick={handleSave}
               disabled={isSaving}
               className="px-4 py-2 bg-emerald-600 hover:bg-emerald-500 text-white text-sm font-bold rounded-lg transition-colors disabled:opacity-50"
@@ -94,7 +92,7 @@ export default function AdminClient({ initialData }: { initialData: any }) {
             </button>
           </div>
         </header>
-        
+
         {/* Tab Content Area */}
         <div className="flex-1 overflow-hidden relative">
           {activeTab === 1 && <CatalogManager data={data} setData={setData} />}

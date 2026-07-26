@@ -12,7 +12,7 @@ export async function POST(request: Request) {
     
     return NextResponse.json({ success: true, message: 'Content saved successfully' });
   } catch (error: any) {
-    console.error('Error saving content:', error);
-    return NextResponse.json({ success: false, error: error.message }, { status: 500 });
+    console.error('[SaveContent] Write failed');
+    return NextResponse.json({ success: false, error: 'Internal server error' }, { status: 500 });
   }
 }

@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { companyInfo } from "@/lib/data";
 import {
   Award,
@@ -106,69 +105,55 @@ export default function AboutPage() {
 
       {/* Founder Profile */}
       <section className="section-padding bg-eng-white">
-        <div className="max-w-6xl mx-auto">
-          <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
-            <div className="relative">
-              <div className="rounded-2xl overflow-hidden shadow-xl">
-                <Image
-                  src="/images/facility.png"
-                  alt="Star Instrument Engineers Facility"
-                  width={600}
-                  height={400}
-                  className="w-full h-auto object-cover"
-                />
-              </div>
-              {/* Floating badge */}
-              <div className="absolute -bottom-4 -right-4 px-5 py-3 bg-orange rounded-xl shadow-lg">
-                <span className="text-white font-bold text-sm">
-                  25+ Years of Excellence
-                </span>
-              </div>
-            </div>
+        <div className="max-w-3xl mx-auto text-center">
+          <h2 className="text-3xl md:text-4xl font-bold text-navy mb-4">
+            Founded by{" "}
+            <span className="text-orange">{companyInfo.founder}</span>
+          </h2>
+          <div className="flex items-center justify-center gap-2 text-slate-muted text-sm mb-6">
+            <MapPin size={16} className="text-cyan" />
+            {companyInfo.city}, {companyInfo.state}
+          </div>
+          <div className="space-y-4 text-slate text-sm md:text-base leading-relaxed">
+            <p>
+              Star Instrument Engineers was established in 2000 by Mr.
+              Vallabh Patel with a singular mission: to provide Indian
+              industries with world-class process instrumentation solutions
+              at competitive prices.
+            </p>
+            <p>
+              Starting from a small workshop in Ankleshwar GIDC, the
+              company has grown into a comprehensive instrumentation partner
+              Serving 500+ clients across pharma, chemical, oil & gas,
+              textiles, and power generation sectors.
+            </p>
+            <p>
+              Today, Star Instrument Engineers offers a complete range of
+              flow meters, level transmitters, temperature and pressure
+              instruments, analyzers, control valves, and turnkey erection
+              services — all backed by ISO 9001:2015 quality standards and
+              IBR certification.
+            </p>
+          </div>
 
-            <div>
-              <h2 className="text-3xl font-bold text-navy mb-4">
-                Founded by{" "}
-                <span className="text-orange">{companyInfo.founder}</span>
-              </h2>
-              <div className="flex items-center gap-2 text-slate-muted text-sm mb-6">
-                <MapPin size={16} className="text-cyan" />
-                {companyInfo.city}, {companyInfo.state}
-              </div>
-              <div className="space-y-4 text-slate text-sm leading-relaxed">
-                <p>
-                  Star Instrument Engineers was established in 2000 by Mr.
-                  Vallabh Patel with a singular mission: to provide Indian
-                  industries with world-class process instrumentation solutions
-                  at competitive prices.
-                </p>
-                <p>
-                  Starting from a small workshop in Ankleshwar GIDC, the
-                  company has grown into a comprehensive instrumentation partner
-                  serving 200+ clients across pharma, chemical, oil & gas,
-                  textiles, and power generation sectors.
-                </p>
-                <p>
-                  Today, Star Instrument Engineers offers a complete range of
-                  flow meters, level transmitters, temperature and pressure
-                  instruments, analyzers, control valves, and turnkey erection
-                  services — all backed by ISO 9001:2015 quality standards and
-                  IBR certification.
-                </p>
-              </div>
+          {/* Certifications */}
+          <div className="mt-8 flex flex-wrap justify-center gap-2">
+            {companyInfo.certifications.map((cert) => (
+              <span
+                key={cert}
+                className="flex items-center gap-1.5 px-4 py-2 bg-cyan/10 border border-cyan/20 rounded-full text-cyan text-xs font-semibold"
+              >
+                <CheckCircle size={14} />
+                {cert}
+              </span>
+            ))}
+          </div>
 
-              <div className="mt-6 flex flex-wrap gap-2">
-                {companyInfo.certifications.map((cert) => (
-                  <span
-                    key={cert}
-                    className="flex items-center gap-1.5 px-3 py-1.5 bg-cyan/10 border border-cyan/20 rounded-full text-cyan text-xs font-semibold"
-                  >
-                    <CheckCircle size={12} />
-                    {cert}
-                  </span>
-                ))}
-              </div>
-            </div>
+          {/* Orange Experience Badge */}
+          <div className="mt-6">
+            <span className="inline-block px-6 py-2.5 bg-orange text-white font-bold text-sm rounded-xl shadow-md">
+              25+ Years of Excellence
+            </span>
           </div>
         </div>
       </section>

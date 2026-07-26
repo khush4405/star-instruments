@@ -5,7 +5,7 @@
       "type": "folder",
       "title": "Phoenix Contact - Automation Products",
       "description": "SMPS, PLC, Relay Modules, Signal Conditioners, Surge Protection Devices (SPD), Terminal Blocks, I/O Modules, Industrial Ethernet Switches, Sensor/Actuator Cables, Human Machine Interface (HMI), Uninterruptible Power Supply (UPS), Energy Monitoring Devices, Circuit Breakers, Industrial Connectors, Power Distribution Blocks, Wireless Communication Modules, Safety Relays, Process Instrumentation, Remote I/O Systems",
-      "folderCover": "/images/products/photos/phoenix contact logo.png",
+      "folderCover": "/images/products/photos/phoenix-contact-logo.png",
       "imageClassName": "scale-100",
       "subFolders": [],
       "products": [
@@ -15,8 +15,8 @@
           "title": "Power Supplies",
           "shortDesc": "Reliable power supplies for DIN rail, panel, and rack mounting across industrial applications.",
           "fullDesc": "",
-          "imagePath": "/images/products/photos/power supplies.jpg",
-          "imageClassName": "/images/products/photos/power supplies.jpg",
+          "imagePath": "/images/products/photos/power-supplies.jpg",
+          "imageClassName": "/images/products/photos/power-supplies.jpg",
           "pdfPath": "",
           "externalLink": "https://www.phoenixcontact.com/en-in/products/power-supplies",
           "specs": []
@@ -87,7 +87,7 @@
           "title": "Industrial Ethernet switches",
           "shortDesc": "Industrial Ethernet switches with Gigabit, PoE, redundancy, and secure networking for harsh environments.",
           "fullDesc": "",
-          "imagePath": "/images/products/photos/Ethernet Switches.jpg",
+          "imagePath": "/images/products/photos/Ethernet-Switches.jpg",
           "imageClassName": "",
           "pdfPath": "",
           "externalLink": "https://www.phoenixcontact.com/en-in/products/industrial-communication/industrial-ethernet-switches",
@@ -112,7 +112,7 @@
       "type": "folder",
       "title": "Flow Measurement",
       "description": "Oval Gear Flow Meter, Vortex Flow Meter, Electromagnetic Flow Meter, Turbine Flow Meter, Helical Flow Meter, Swirl Flow Meter, Thermal Mass Flow Meter, Fuel Consumption Meter, Coriolis Mass Flow Meter, Flow Sensor, Digital Flow Meter",
-      "folderCover": "/images/products/photos/flow_measurement_cover_v3.jpg",
+      "folderCover": "/images/products/photos/flow measurement cover new.png",
       "imageClassName": "scale-100",
       "subFolders": [
         {
@@ -120,7 +120,7 @@
           "type": "folder",
           "title": "Oval Gear Flow Meter",
           "description": "High-accuracy oval gear flow meters for precise liquid measurement in demanding industrial applications.",
-          "folderCover": "/images/products/photos/oval gear.png",
+          "folderCover": "/images/products/photos/oval-gear.png",
           "imageClassName": "scale-100",
           "subFolders": [],
           "products": [
@@ -130,7 +130,7 @@
               "title": "Digital Oval Gear Flow Meter",
               "shortDesc": "Digital oval gear flow meter with high accuracy,real-time display,multiple outputs,and industrial reliability.",
               "fullDesc": "The Digital Oval Gear Flow Meter from Broil Sensotek Industries is a positive displacement volumetric flow meter engineered for precise liquid flow measurement across a wide range of industrial applications. It operates using two precision-machined oval gears that rotate within a measuring chamber, trapping and transferring a fixed volume of liquid with each revolution. This principle delivers high accuracy, excellent repeatability, and reliable performance, even with low flow rates and high-viscosity fluids.\nThe flow meter features an integrated digital display for real-time flow monitoring and supports multiple industrial communication and control outputs, including 4–20 mA, Pulse, RS-485, HART, Alarm, and Frequency outputs for seamless integration with PLC, DCS, and SCADA systems. It is available in mechanical, digital, pulse-output, and remote-display configurations to meet diverse process requirements.",
-              "imagePath": "/images/products/photos/oval gear 2.png",
+              "imagePath": "/images/products/photos/oval-gear-2.png",
               "imageClassName": "",
               "pdfPath": "star-instruments/public/Catalouge/OVAL-GEAR-FLOW-METER.pdf",
               "specs": [
@@ -242,7 +242,7 @@
               "title": "Oval Gear Flow Sensor",
               "shortDesc": "Pulse output oval gear flow sensor for precise liquid flow measurement and automation integration.",
               "fullDesc": "The Oval Gear Flow Sensor from Broil Sensotek Industries is a positive displacement volumetric flow sensor engineered for accurate measurement of liquid flow in industrial automation and process control applications. Operating on the twin oval gear principle, the sensor measures a fixed volume of liquid during each gear rotation and generates proportional pulse signals for highly repeatable and precise flow monitoring. It is particularly suited for both low- and high-viscosity liquids, maintaining excellent accuracy regardless of variations in viscosity or temperature.\n\nDesigned specifically for OEMs, batching systems, and industrial control applications, the sensor features pulse output with NPN and PNP options, enabling seamless integration with PLC, HMI, SCADA, DCS, and batch controllers. Its compact, robust construction ensures reliable operation in demanding industrial environments while providing low maintenance and long service life.\n\nThe flow sensor is available in DN4 to DN250 sizes with a measurement range from 0.1 to 3000 L/min, making it suitable for a broad spectrum of liquid flow applications. It delivers excellent repeatability and high measurement accuracy while supporting automation systems requiring real-time monitoring, process optimization, and predictive maintenance.\n\nTypical applications include oil, diesel, lubricants, petroleum products, chemicals, food processing, pharmaceuticals, batching systems, dispensing equipment, fuel monitoring, resin, adhesives, and other high-viscosity liquid processes, where dependable pulse-based flow measurement is essential for accurate control and operational efficiency.",
-              "imagePath": "/images/products/photos/oval gear sensor.png",
+              "imagePath": "/images/products/photos/oval-gear-sensor.png",
               "imageClassName": "",
               "pdfPath": "/Catalouge/OVAL-GEAR-FLOW-METER.pdf",
               "specs": [
@@ -432,7 +432,7 @@
               "title": "Digital Turbine Flow Meters",
               "shortDesc": "Digital turbine flow meter with LCD display, high accuracy, smart outputs, and battery or DC operation.",
               "fullDesc": "The Digital Turbine Flow Meter from Broil Sensotek Industries is a precision velocity-based liquid flow meter designed for accurate measurement of low-viscosity conductive and non-conductive liquids. It operates by converting the rotational speed of a precision turbine rotor into an electronic signal, which is processed by an intelligent transmitter to provide real-time flow rate, totalized flow, and process data on an integrated digital display.\n\nThe instrument features a high-visibility LCD display with instantaneous and cumulative flow indication, data logging capabilities, and optional pressure and temperature compensation. It supports multiple industrial communication protocols including Pulse, 4–20 mA, RS-485, HART, and Alarm outputs, enabling seamless integration with PLC, DCS, SCADA, and Industrial IoT systems. Available in battery-powered and externally powered versions, it provides reliable operation for both remote and fixed installations.\n\nConstructed using SS304, SS316, Cast Steel, and PTFE-lined materials, the digital turbine flow meter is suitable for demanding industrial environments. It offers high repeatability, fast response, low pressure loss, and long-term measurement stability, making it ideal for continuous process monitoring. Hazardous-area options include ATEX, Ex d, Ex ia, and Legal Metrology approvals for custody transfer and regulated applications.\n\nTypical applications include petroleum products, diesel, water, chemicals, pharmaceuticals, food & beverage, dairy, solvents, batching systems, industrial process control, and OEM equipment, where accurate digital flow monitoring and remote communication are essential.",
-              "imagePath": "/images/products/photos/turbine flow meter display.png",
+              "imagePath": "/images/products/photos/turbine-flow-meter-display.png",
               "imageClassName": "",
               "pdfPath": "/Catalouge/TURBINE-FLOW-METER.pdf",
               "specs": [
@@ -488,7 +488,7 @@
               "title": "Custody Transfer Turbine Flow Sensors and Meter",
               "shortDesc": "Custody transfer turbine flow sensor with ATEX certification for high-accuracy liquid measurement.",
               "fullDesc": "The Custody Transfer Turbine Flow Sensor from Broil Sensotek Industries is a high-precision velocity-based liquid flow sensor specifically engineered for custody transfer, fiscal metering, and commercial fluid measurement applications. It operates by converting the rotational speed of a precision turbine rotor into proportional pulse signals, providing highly accurate and repeatable flow measurement for financial transactions involving petroleum products, chemicals, and other high-value process liquids.\n\nDesigned for hazardous industrial environments, the sensor features ATEX-certified explosion-proof construction with corrosion-resistant materials and hardened turbine components for long service life. The sensor delivers real pulse outputs for direct integration with PLC, DCS, SCADA, batch controllers, and remote monitoring systems, enabling accurate billing, inventory management, and process automation. Its rugged construction ensures dependable operation under demanding process conditions while maintaining excellent long-term measurement stability.\n\nThe custody transfer turbine flow sensor is available with threaded and flanged process connections and supports operating pressures up to 250 bar with service temperatures from −20°C to +150°C. It offers ±1% linear accuracy, ±0.5% repeatability, and supports industrial communication options including Pulse, 4–20 mA, HART, RS-485, and Alarm outputs. Multiple protection options such as IP65, IP68, Ex d, Ex ia, and ATEX certifications make it suitable for explosive and hazardous locations.\n\nTypical applications include petroleum terminals, fuel loading skids, oil & gas facilities, chemical plants, refineries, pharmaceuticals, fuel monitoring, batching systems, and commercial custody transfer installations, where accurate, traceable, and legally compliant flow measurement is essential.",
-              "imagePath": "/images/products/photos/turbine flow meter.png",
+              "imagePath": "/images/products/photos/turbine-flow-meter.png",
               "imageClassName": "",
               "pdfPath": "/Catalouge/TURBINE-FLOW-METER.pdf",
               "specs": [
@@ -828,7 +828,7 @@
           "title": "Coriolis Mass Flow Meter",
           "shortDesc": "Coriolis mass flow meter for direct, high-accuracy measurement of mass flow, density, and temperature.",
           "fullDesc": "The Coriolis Mass Flow Meter from Broil Sensotek Industries is a premium flow measurement solution that provides direct measurement of mass flow, density, and temperature using the Coriolis effect. Unlike conventional volumetric flow meters, it measures mass flow independent of changes in fluid density, viscosity, pressure, or temperature, making it one of the most accurate technologies available for industrial process measurement.\n\nAvailable in straight tube, U-tube, and micro-bend designs with integrated or remote display options, the Coriolis meter is suitable for liquids, gases, and high-viscosity fluids. It supports advanced industrial communication protocols including 4–20 mA, Pulse, Alarm, HART, and RS-485, enabling seamless integration with PLC, DCS, SCADA, and process automation systems. The meter is widely used in oil & gas, chemical, pharmaceutical, food & beverage, sugar, dairy, pulp & paper, solvent, resin, paint, adhesive, and custody transfer applications where precision is critical.\n\nManufactured with high-quality SS316L and Hastelloy wetted parts, the instrument is designed for demanding industrial environments and is available with international hazardous-area certifications. Its ability to simultaneously measure mass flow, density, and temperature eliminates the need for multiple instruments, reducing installation costs while improving process efficiency and reliability.",
-          "imagePath": "/images/products/photos/coriolis flow meter.png",
+          "imagePath": "/images/products/photos/coriolis-flow-meter.png",
           "imageClassName": "",
           "pdfPath": "/Catalouge/OVAL-MASS-FLOW-METER-ULTRAMASS-gbn053e-141.pdf",
           "specs": [
@@ -945,7 +945,7 @@
       "type": "folder",
       "title": "Level Measurement",
       "description": "Level Transmitters, Level Switches, Ultrasonic Flow Meters, Flow Switches",
-      "folderCover": "/images/products/photos/level_measurement_cover.jpg",
+      "folderCover": "/images/products/photos/level measurement cover new.png",
       "imageClassName": "",
       "subFolders": [
         {
@@ -953,7 +953,7 @@
           "type": "folder",
           "title": "Level Transmitters",
           "description": "",
-          "folderCover": "/images/products/photos/level transmitters.png",
+          "folderCover": "/images/products/photos/level-transmitters.png",
           "imageClassName": "",
           "subFolders": [
             {
@@ -961,7 +961,7 @@
               "type": "folder",
               "title": "Radar Level Transmitter",
               "description": "",
-              "folderCover": "/images/products/photos/radar cover page.png",
+              "folderCover": "/images/products/photos/radar-cover-page.png",
               "imageClassName": "",
               "subFolders": [],
               "products": [
@@ -971,7 +971,7 @@
                   "title": "80 GHz FMCW Radar Level Transmitter",
                   "shortDesc": "The 80 GHz FMCW Radar Level Transmitter from Brotek Instruments delivers precise non-contact level measurement for liquids and solids. Its ultra-narrow beam and advanced FMCW technology ensure reliable performance in steam, dust, foam, and harsh industrial environments.",
                   "fullDesc": "The 80 GHz FMCW Radar Level Transmitter from Brotek Instruments is an advanced non-contact level measurement solution engineered for exceptional accuracy and reliability across a wide range of industrial applications. Operating in the 76–81 GHz frequency band, it utilizes Frequency Modulated Continuous Wave (FMCW) technology to provide precise, continuous level measurement for liquids, slurries, powders, and bulk solids, even under challenging process conditions.\n\nIts high operating frequency produces an extremely narrow beam angle, allowing accurate measurements in narrow tanks, vessels with internal obstructions, agitators, nozzles, and silos while minimizing false echoes. Advanced signal processing, intelligent echo filtering, and a high dynamic range ensure stable performance in environments containing dust, steam, foam, condensation, turbulence, or vapor, making it suitable for demanding industrial installations.\n\nThe transmitter supports measuring ranges up to 120 meters, offers millimeter-level accuracy, and features multiple communication protocols including 4–20 mA, HART, RS-485, and Modbus for seamless integration with PLC, DCS, SCADA, and IIoT systems. Available with threaded or flanged process connections, various antenna options, explosion-proof certifications, and rugged enclosures, it is widely used in chemical plants, oil & gas, water and wastewater treatment, food & beverage, pharmaceuticals, mining, power generation, pulp & paper, and bulk material handling industries.",
-                  "imagePath": "/images/products/photos/80 GHz FMCW Radar Level Transmitter.png",
+                  "imagePath": "/images/products/photos/80-GHz-FMCW-Radar-Level-Transmitter.png",
                   "imageClassName": "",
                   "pdfPath": "/Catalouge/Radar-level-meter.pdf",
                   "specs": [
@@ -1119,7 +1119,7 @@
                   "title": "120 GHz Radar Level Transmitter",
                   "shortDesc": "The 120 GHz FMCW Radar Level Transmitter from Brotek Instruments delivers ultra-precise non-contact level measurement for liquids and solids. Its millimeter-wave technology, narrow beam angle, and advanced signal processing ensure reliable performance in dust, steam, foam, and complex industrial environments",
                   "fullDesc": "The 120 GHz FMCW Radar Level Transmitter from Brotek Instruments is a next-generation non-contact level measurement solution engineered for high-precision industrial applications. Operating in the 120 GHz millimeter-wave frequency band, it utilizes Frequency Modulated Continuous Wave (FMCW) technology to provide continuous and highly accurate level measurement of liquids, slurries, powders, and bulk solids. Its high-frequency operation enables superior signal focus, reduced dead zone, and exceptional measurement stability.\n\nThe transmitter features an extremely narrow beam angle that minimizes interference from vessel walls, nozzles, agitators, and internal structures. Combined with advanced echo processing and intelligent noise suppression, it delivers stable and repeatable measurements even in dust, steam, condensation, foam, turbulence, and challenging process conditions. This makes it ideal for complex tanks, silos, reactors, and storage vessels where conventional level technologies may struggle.\n\nSupporting industrial communication protocols such as 4–20 mA, HART, RS-485, and Modbus, the transmitter integrates seamlessly with PLC, DCS, SCADA, and IIoT systems. Available with threaded and flanged process connections, explosion-proof enclosures, and rugged industrial construction, it is widely used in chemical processing, petrochemical plants, oil & gas, power generation, pharmaceuticals, food & beverage, mining, cement, and water treatment industries requiring dependable long-range level measurement.",
-                  "imagePath": "/images/products/photos/120 GHz Radar level transmitter.png",
+                  "imagePath": "/images/products/photos/120-GHz-Radar-level-transmitter.png",
                   "imageClassName": "",
                   "pdfPath": "/Catalouge/Radar-level-meter.pdf",
                   "specs": [
@@ -1191,7 +1191,7 @@
                   "title": "26 GHz Pulse Radar Level Transmitter",
                   "shortDesc": "The 26 GHz Pulse Radar Level Transmitter from Brotek Instruments provides accurate non-contact level measurement for solids and corrosive liquids. Its focused radar beam, pulse technology, and rugged design ensure reliable operation in dusty, corrosive, and demanding industrial environments.",
                   "fullDesc": "The 26 GHz Pulse Radar Level Transmitter from Brotek Instruments is a robust non-contact level measurement solution designed for accurate monitoring of solid materials and corrosive liquids in demanding industrial processes. Operating at a 26 GHz microwave frequency, it uses pulse radar technology to emit short-duration microwave signals that reflect from the material surface, enabling precise and continuous level measurement without physical contact. This design ensures reliable operation even in harsh environments where conventional sensors may be affected by dust, vapors, or aggressive chemicals.\n\nIts high-frequency radar provides a narrow beam angle, minimizing interference from vessel walls, internal structures, and agitators while delivering superior signal penetration through dust, vapor, condensation, and process fluctuations. The transmitter is suitable for measuring powders, cement, grains, fly ash, plastic pellets, chemicals, acids, alkalis, and other challenging media. With corrosion-resistant antenna options and advanced echo filtering, it maintains stable performance even in tall silos and chemically aggressive storage tanks.\n\nThe transmitter supports measuring ranges up to 80 meters and offers industrial communication protocols including 4–20 mA, HART, RS485, and Modbus for easy integration with PLC, DCS, and SCADA systems. Designed with rugged enclosures and explosion-proof certifications, it is widely used in cement, mining, chemical processing, food processing, agriculture, wastewater treatment, and bulk material handling industries requiring dependable long-range level measurement.",
-                  "imagePath": "/images/products/photos/26 GHz Pulse Radar Level Transmitter.png",
+                  "imagePath": "/images/products/photos/26-GHz-Pulse-Radar-Level-Transmitter.png",
                   "imageClassName": "",
                   "pdfPath": "/Catalouge/Radar-level-meter.pdf",
                   "specs": [
@@ -1259,7 +1259,7 @@
                   "title": "6 GHz Radar Level Gauge",
                   "shortDesc": "The 6 GHz Radar Level Gauge from Brotek Instruments delivers reliable non-contact level measurement for liquids, solids, powders, and viscous media. Its pulse radar technology, rugged construction, and stable performance ensure accurate measurement in demanding industrial environments.",
                   "fullDesc": "The 6 GHz Radar Level Gauge from Brotek Instruments is a reliable non-contact level measurement solution designed for continuous monitoring of liquids, pastes, granules, powders, and block materials. Operating at 6 GHz microwave frequency, it utilizes pulse radar technology to measure the time taken by microwave signals to travel to the material surface and return, ensuring stable and accurate level measurement without direct contact with the process medium.\n\nDesigned to perform under challenging industrial conditions, the transmitter is suitable for applications involving large temperature and pressure variations, inert gases, volatile media, corrosive liquids, and viscous products. It is available with rod and horn antennas in PTFE, stainless steel, and special metal constructions, providing compatibility with a wide variety of process materials. The low-energy microwave beam allows installation on both metallic and non-metallic tanks without affecting personnel or the environment.\n\nThe radar level gauge supports 4–20 mA/HART output, programmable LCD display, and both 2-wire and 4-wire power options for easy integration with PLC, DCS, and SCADA systems. With measuring ranges up to 35 meters, high repeatability, and explosion-proof certifications, it is widely used in chemical processing, food & beverage, water treatment, pharmaceuticals, mining, cement, oil & gas, and bulk material storage applications.",
-                  "imagePath": "/images/products/photos/6ghz level transmitter.png",
+                  "imagePath": "/images/products/photos/6ghz-level-transmitter.png",
                   "imageClassName": "",
                   "pdfPath": "/Catalouge/Radar-level-meter.pdf",
                   "specs": [
@@ -1339,7 +1339,7 @@
                   "title": "Guided Wave Radar Level Transmitter",
                   "shortDesc": "The Guided Wave Radar Level Transmitter from Brotek Instruments delivers highly accurate continuous level measurement for liquids, slurries, and bulk solids. Its TDR technology ensures reliable performance in foam, vapor, turbulence, and low dielectric media.",
                   "fullDesc": "The Guided Wave Radar Level Transmitter from Brotek Instruments is a high-precision level measurement solution designed for continuous monitoring of liquids, slurries, powders, and bulk solids. Operating on Time Domain Reflectometry (TDR) technology, the transmitter guides low-frequency microwave pulses along a probe and measures the return time of the reflected signal to accurately determine the material level. This technology provides dependable measurements even under challenging process conditions such as foam, vapor, turbulence, pressure variations, and low dielectric media.\n\nOperating at a frequency of 500 MHz to 1.8 GHz, the transmitter is available with single rod, single cable, coaxial tube, and PTFE/PVDF coated probes, making it suitable for a wide variety of tank geometries and industrial applications. Its measurement accuracy is unaffected by changes in pressure, temperature, density, or conductivity, ensuring stable and repeatable performance in high-temperature, high-pressure, and corrosive environments. The rugged construction, maintenance-free operation, and flexible installation options make it an ideal solution for demanding industrial processes.\n\nThe transmitter supports 4–20 mA/HART communication for seamless integration with PLC, DCS, and SCADA systems. With measuring ranges up to 30 meters, explosion-proof certifications, and robust IP-rated protection, it is widely used in chemical processing, oil & gas, power generation, food & beverage, pharmaceuticals, mining, pulp & paper, and water & wastewater treatment applications requiring reliable continuous level measurement.",
-                  "imagePath": "/images/products/photos/Guided Wave Radar Level Transmitter.png",
+                  "imagePath": "/images/products/photos/Guided-Wave-Radar-Level-Transmitter.png",
                   "imageClassName": "",
                   "pdfPath": "/Catalouge/Radar-level-meter.pdf",
                   "specs": [
@@ -1416,7 +1416,7 @@
               "type": "folder",
               "title": "Ultrasonic Level Transmitter",
               "description": "",
-              "folderCover": "/images/products/photos/ultrasonic level transmitter cover.png",
+              "folderCover": "/images/products/photos/ultrasonic-level-transmitter-cover.png",
               "imageClassName": "",
               "subFolders": [],
               "products": [
@@ -1426,7 +1426,7 @@
                   "title": "High-Performance Ultrasonic Level Meter with OLED Display",
                   "shortDesc": "The Ultrasonic Level Transmitter with 4–20 mA Output from Brotek Instruments provides reliable non-contact liquid level measurement. Featuring an OLED display, RS485 communication, and stable performance, it is ideal for water, wastewater, tanks, and industrial applications.",
                   "fullDesc": "The Ultrasonic Level Transmitter with 4–20 mA Output from Brotek Instruments is a high-performance non-contact level measurement device designed for accurate monitoring of liquid levels in industrial and environmental applications. Using ultrasonic sound waves, the transmitter measures the time taken for an emitted pulse to reflect from the liquid surface and return to the sensor, providing precise and maintenance-free level measurement without contacting the process medium. Its integrated OLED display ensures excellent visibility and simplifies on-site configuration, even in low-light conditions.\n\nDesigned for reliable operation in demanding environments, the transmitter incorporates digital filtering, dynamic echo recognition, and temperature compensation to deliver stable measurements despite changing process conditions. The instrument supports both level and distance measurement, allows programmable start and end points, and features backup and restoration settings for easy commissioning and maintenance. Its compact ABS enclosure and IP65 protection make it suitable for indoor and outdoor installations.\n\nThe transmitter provides 4–20 mA analog output along with RS485 communication, enabling seamless integration with PLC, DCS, SCADA, and industrial automation systems. Suitable for storage tanks, water and wastewater treatment plants, effluent treatment plants, canals, irrigation systems, and other liquid level applications, it offers dependable performance, simple installation, and long-term operational reliability.",
-                  "imagePath": "/images/products/photos/ultrasonic level transmitter.png",
+                  "imagePath": "/images/products/photos/ultrasonic-level-transmitter.png",
                   "imageClassName": "",
                   "pdfPath": "",
                   "specs": [
@@ -1498,7 +1498,7 @@
                   "title": "FLP Ultrasonic level transmitter with HART output",
                   "shortDesc": "The Ultrasonic Level Transmitter with HART Output from Brotek Instruments delivers precise non-contact level measurement with smart HART communication. Featuring temperature compensation, advanced diagnostics, and rugged construction, it ensures reliable industrial performance.",
                   "fullDesc": "The Ultrasonic Level Transmitter with HART Output from Brotek Instruments is an intelligent non-contact level measurement solution designed for accurate and continuous monitoring of liquids in demanding industrial applications. Utilizing high-performance ultrasonic technology, the transmitter measures the time taken by ultrasonic pulses to travel to the liquid surface and return, providing precise level measurement without contacting the process medium. The integrated temperature sensor continuously compensates for environmental temperature variations, ensuring stable and accurate measurements under changing operating conditions.\n\nDesigned for modern industrial automation, the transmitter incorporates HART communication for remote configuration, diagnostics, and seamless integration with PLC, DCS, SCADA, and asset management systems. Advanced signal processing with intelligent echo profiling filters false echoes caused by foam, turbulence, tank internals, or condensate, ensuring dependable performance in complex process environments. The corrosion-resistant sensor, nano-coated anti-condensation surface, and rugged die-cast aluminum enclosure provide long service life even in harsh industrial conditions.\n\nThe transmitter supports measuring ranges up to 15 meters with 4–20 mA/HART output, making it suitable for chemical storage tanks, water and wastewater treatment plants, food & beverage processing, pharmaceutical manufacturing, and other industrial liquid level applications. Its explosion-proof certification, SIL-3 safety rating, and IP66/IP68 protection ensure reliable and safe operation in hazardous environments.",
-                  "imagePath": "/images/products/photos/ultrasonic level transmitter 2.png",
+                  "imagePath": "/images/products/photos/ultrasonic-level-transmitter-2.png",
                   "imageClassName": "",
                   "pdfPath": "",
                   "specs": [
@@ -1578,7 +1578,7 @@
           "type": "folder",
           "title": "Level Switches",
           "description": "",
-          "folderCover": "/images/products/photos/Frequency sweep cover page.png",
+          "folderCover": "/images/products/photos/Frequency-sweep-cover-page.png",
           "imageClassName": "",
           "subFolders": [
             {
@@ -1586,7 +1586,7 @@
               "type": "folder",
               "title": "Frequency Sweep",
               "description": "",
-              "folderCover": "/images/products/photos/Frequency sweep cover page.png",
+              "folderCover": "/images/products/photos/Frequency-sweep-cover-page.png",
               "imageClassName": "",
               "subFolders": [],
               "products": [
@@ -1596,7 +1596,7 @@
                   "title": "Microwave Level Switch",
                   "shortDesc": "The Microwave Level Switch from Brotek Instruments provides reliable point level detection for liquids, solids, powders, and slurries. Using frequency sweep microwave technology, it delivers accurate switching unaffected by foam, condensate, residue, or material buildup.",
                   "fullDesc": "The Microwave Level Switch from Brotek Instruments is an intelligent point level detection device engineered for reliable monitoring of liquids, solids, powders, slurries, and viscous media. It utilizes advanced frequency sweep microwave technology to detect the presence of material at a predetermined switching point. Unlike conventional level switches, it is unaffected by foam, condensate, residue, conductivity, or material adhesion, making it an ideal solution for demanding industrial applications.\n\nThe switch incorporates a PEEK sensing element with a hygienic, dead-zone-free design suitable for CIP (Clean-in-Place), WIP (Wash-in-Place), and SIP (Sterilization-in-Place) processes. It is capable of detecting both conductive and non-conductive media with dielectric constants of 1.5 or higher, while offering stable operation in harsh environments. Available with threaded, sanitary, tri-clamp, and flanged process connections, the device supports standard and high-temperature applications up to 200°C with pressure ratings reaching 100 bar.\n\nSupporting NO, NC, NPN, PNP, and Relay outputs, the Microwave Level Switch integrates easily with PLC, DCS, and industrial control systems. Certified with SIL-3, CE, Explosion-Proof (Ex d), and IP66/Ex ia protection, it is widely used for high-level alarms, low-level alarms, dry-run protection, leakage detection, interface detection, and hopper or conveyor monitoring across chemical, food & beverage, pharmaceutical, wastewater, mining, and bulk material handling industries.",
-                  "imagePath": "/images/products/photos/microwave level switch.png",
+                  "imagePath": "/images/products/photos/microwave-level-switch.png",
                   "imageClassName": "",
                   "pdfPath": "/Catalouge/microwave.pdf",
                   "specs": [
@@ -1684,7 +1684,7 @@
                   "title": "High Temperature Frequency sweep Microwave Level Switch",
                   "shortDesc": "The High Temperature Frequency Sweep Microwave Level Switch from Brotek Instruments provides dependable point level detection in extreme process conditions. It delivers reliable switching for liquids, powders, and solids up to 250°C, unaffected by foam, viscosity, or conductivity.",
                   "fullDesc": "The High Temperature Frequency Sweep Microwave Level Switch from Brotek Instruments is a heavy-duty point level detection solution engineered for high-temperature and hazardous industrial applications. Utilizing advanced frequency sweep microwave technology, the switch accurately detects the presence or absence of liquids, powders, granules, slurries, and bulk solids by analyzing microwave signal reflections. Unlike conventional level switches, its measurement is unaffected by foam, viscosity, conductivity, residue, or material buildup, ensuring dependable performance in the most demanding process environments.\n\nSpecifically designed for extreme operating conditions, the switch is available with threaded, tri-clamp, sanitary clamp, welding sleeve, and flanged process connections, making it suitable for a wide range of industrial installations. Constructed with an SS316L enclosure and a PEEK sensing element, it supports process temperatures up to 250°C while maintaining excellent resistance to corrosion, wear, and aggressive media. The adjustable switching point and universal design allow one device to replace multiple conventional technologies such as vibrating fork, capacitance, and float level switches.\n\nThe switch offers NO, NC, NPN, PNP, and Relay outputs for seamless integration with PLC, DCS, and SCADA systems. Certified with Explosion-Proof (Ex), SIL, CE, and IP66/IP67 approvals, it is ideal for chemical processing, food & beverage, pharmaceuticals, power plants, water treatment, mining, and high-temperature storage vessels where reliable point level detection is essential for high-level alarms, low-level alarms, and pump dry-run protection.",
-                  "imagePath": "/images/products/photos/High Temperature Frequency sweep Microwave Level Switch.png",
+                  "imagePath": "/images/products/photos/High-Temperature-Frequency-sweep-Microwave-Level-Switch.png",
                   "imageClassName": "",
                   "pdfPath": "/Catalouge/microwave.pdf",
                   "specs": [
@@ -1860,7 +1860,7 @@
               "type": "folder",
               "title": "RF Admittance",
               "description": "",
-              "folderCover": "/images/products/photos/RF admittance.png",
+              "folderCover": "/images/products/photos/RF-admittance.png",
               "imageClassName": "",
               "subFolders": [],
               "products": [
@@ -1870,7 +1870,7 @@
                   "title": "RF admittance level switch",
                   "shortDesc": "The RF Admittance Level Switch from Brotek Instruments provides accurate point level detection for liquids, powders, granules, and slurries. Its intelligent RF capacitance technology ensures stable operation, high sensitivity, and immunity to material buildup and interference.",
                   "fullDesc": "The RF Admittance Level Switch from Brotek Instruments is a digital intelligent point level detection device designed for reliable monitoring of liquids, powders, granules, slurries, and conductive or non-conductive materials. Based on the principle of RF capacitance (admittance) measurement, the instrument continuously measures the capacitance between the sensing probe and the vessel wall using an advanced oscillating circuit. Variations in the material level change the capacitance value, allowing the integrated microcontroller to accurately detect the switching point and activate the configured output relay. This measurement method offers excellent stability, fast response, and high immunity to electromagnetic interference.\n\nThe switch features a real-time digital capacitance display with simple one-key calibration, enabling automatic setting of alarm points and reducing commissioning time. Its advanced RF admittance technology effectively eliminates false switching caused by probe coating, material buildup, hanging material, dust, or moisture, ensuring dependable performance even in difficult process conditions. A wide selection of SS316, PTFE, Ceramic, and Kynar probes makes the instrument suitable for corrosive, abrasive, high-temperature, and high-pressure applications up to 800°C with ceramic probes and pressures up to 10 MPa.\n\nThe RF Admittance Level Switch supports single-point alarm (DPDT), dual-point alarm (2 SPDT), and two-point liquid level control outputs for seamless integration with PLC, DCS, and SCADA systems. It is widely used in chemical and petrochemical plants, refineries, food & beverage processing, pharmaceutical manufacturing, mining, wastewater treatment, and bulk material handling for reliable high-level and low-level alarms and process automation.",
-                  "imagePath": "/images/products/photos/RF admittance.png",
+                  "imagePath": "/images/products/photos/RF-admittance.png",
                   "imageClassName": "",
                   "pdfPath": "/Catalouge/RF-Admittance-Level-Transmitter.pdf",
                   "specs": [
@@ -1958,7 +1958,7 @@
           "type": "folder",
           "title": "Ultrasonic Flow",
           "description": "",
-          "folderCover": "/images/products/photos/ultrasonic flow cover page.png",
+          "folderCover": "/images/products/photos/ultrasonic-flow-cover-page.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -1968,7 +1968,7 @@
               "title": "Clamp-on Type Ultrasonic Flow Meter",
               "shortDesc": "The Ultrasonic Flow Meter with Remote Display from Brotek Instruments delivers accurate non-invasive liquid flow measurement using transit-time technology. Its remote display, multiple communication outputs, and clamp-on sensors ensure reliable monitoring without pipeline modification.",
               "fullDesc": "The Ultrasonic Flow Meter with Remote Display from Brotek Instruments is a high-performance non-contact flow measurement system designed for continuous monitoring of liquid flow in closed pipelines. Utilizing advanced transit-time ultrasonic technology, the meter measures the time difference between upstream and downstream ultrasonic signals to calculate flow velocity with high accuracy. Since the clamp-on transducers are mounted externally, installation requires no pipe cutting, process shutdown, or interruption of flow, making it ideal for retrofit and maintenance applications.\n\nDesigned for industrial reliability, the flow meter is available in wall-mounted weatherproof, explosion-proof, panel-mounted, and inline display configurations. It supports both clamp-on and insertion-type transducers, enabling measurement across a wide range of pipe sizes and materials including steel, stainless steel, cast iron, copper, PVC, cement, aluminum, and fiberglass. Advanced digital signal processing, powerful anti-interference circuitry, external SD card data logging, and heat/energy measurement capability ensure stable performance even in electrically noisy environments.\n\nThe instrument offers RS485, Pulse, Relay, and 4–20 mA outputs for seamless integration with PLC, DCS, and SCADA systems. With measurement capability on pipe sizes from DN15 to DN6000, high measurement accuracy, and support for water, HVAC, chemical processing, oil & gas, food & beverage, power generation, and wastewater applications, it provides a dependable solution for permanent industrial flow monitoring and energy management.",
-              "imagePath": "/images/products/photos/clamp on ultrasonic flow meter.png",
+              "imagePath": "/images/products/photos/clamp-on-ultrasonic-flow-meter.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2048,7 +2048,7 @@
               "title": "Handheld ultrasonic flow meter",
               "shortDesc": "The Handheld Ultrasonic Flow Meter from Brotek Instruments delivers accurate portable flow measurement using transit-time technology. Its clamp-on sensors, rechargeable battery, and data logging capabilities enable fast, non-invasive flow analysis without interrupting process operations.",
               "fullDesc": "The Handheld Ultrasonic Flow Meter from Brotek Instruments is a portable, non-invasive flow measurement instrument designed for accurate monitoring of liquid flow in closed pipelines. Utilizing advanced transit-time ultrasonic technology, the meter measures the difference in ultrasonic signal travel time between upstream and downstream directions to calculate flow velocity with high precision. Its clamp-on transducers mount externally on the pipe, eliminating the need for pipe cutting, process shutdown, or flow interruption, making it ideal for temporary measurements, maintenance, commissioning, and system diagnostics.\n\nDesigned for field engineers and maintenance professionals, the handheld meter features a large backlit LCD display, intuitive keypad, built-in 24K data logger, and a lightweight ergonomic design for easy operation in demanding environments. Powered by a rechargeable AAA Ni-MH battery, it provides up to 12 hours of continuous operation, while the supplied AC charger enables convenient recharging. Multiple clamp-on transducer options allow measurement across pipe sizes from DN15 to DN6000, with compatibility for steel, stainless steel, cast iron, copper, PVC, cement, aluminum, fiberglass, and lined pipes.\n\nThe instrument offers RS232 communication for data transfer and supports high-accuracy flow measurement with excellent repeatability and strong resistance to electrical interference. It is widely used in water and wastewater treatment, HVAC systems, energy audits, chemical processing, oil & gas, food & beverage, irrigation, power plants, and OEM equipment testing, providing a dependable solution for portable flow verification and performance analysis.",
-              "imagePath": "/images/products/photos/Handheld ultrasonic flow meter.png",
+              "imagePath": "/images/products/photos/Handheld-ultrasonic-flow-meter.png",
               "imageClassName": "",
               "pdfPath": "/Catalouge/ATVUK-SFM-HH-2.pdf",
               "specs": [
@@ -2132,7 +2132,7 @@
               "title": "Open Channel Ultrasonic Flow Meter",
               "shortDesc": "The Open Channel Ultrasonic Flow Meter from Brotek Instruments delivers accurate non-contact flow measurement for rivers, canals, flumes, and weirs. With ultrasonic sensing, automatic flow calculation, and SCADA-ready outputs, it ensures reliable continuous monitoring.",
               "fullDesc": "The Open Channel Ultrasonic Flow Meter from Brotek Instruments is a high-precision, non-contact flow measurement solution designed for continuous monitoring of liquids flowing through open channels, rivers, canals, flumes, weirs, and partially filled pipes. It operates by transmitting ultrasonic pulses toward the liquid surface and measuring the echo return time to determine the liquid level. Using pre-programmed hydraulic equations and channel dimensions, the instrument automatically converts level measurements into accurate flow rate values without contacting the process medium.\n\nThe flow meter features automatic temperature compensation, intelligent signal processing, and support for all standard weirs and flumes, ensuring dependable performance under varying environmental conditions. With no moving parts, the system requires minimal maintenance while providing excellent long-term reliability in corrosive, humid, and outdoor installations. Its robust IP66 transmitter and IP68 ultrasonic sensor make it suitable for permanent field installations, while the LCD display offers clear visualization of flow rate, liquid level, and system status.\n\nThe instrument supports 4–20 mA analog output, RS485, and Modbus communication, allowing seamless integration with PLC, DCS, SCADA, and remote monitoring systems. It is widely used in wastewater treatment plants, irrigation canals, stormwater drainage systems, municipal water distribution, hydropower stations, industrial effluent monitoring, environmental monitoring, and mining applications, providing reliable and maintenance-free flow measurement for open channel systems.",
-              "imagePath": "/images/products/photos/Open Channel Ultrasonic Flow Meter.png",
+              "imagePath": "/images/products/photos/Open-Channel-Ultrasonic-Flow-Meter.png",
               "imageClassName": "",
               "pdfPath": "/Catalouge/openchannel-ultrasonic-flow-meter.pdf",
               "specs": [
@@ -2212,7 +2212,7 @@
               "title": "Portable Ultrasonic flow meter with printer",
               "shortDesc": "The Portable Ultrasonic Flow Meter from Brotek Instruments delivers accurate non-invasive liquid flow measurement with an integrated printer and SD card logging. Its clamp-on sensors, rechargeable battery, and transit-time technology ensure reliable field performance.",
               "fullDesc": "The Portable Ultrasonic Flow Meter from Brotek Instruments is a high-performance portable flow measurement instrument designed for accurate, non-invasive monitoring of liquid flow in closed pipelines. Utilizing advanced transit-time ultrasonic technology, the meter determines flow velocity by measuring the travel time difference of ultrasonic signals transmitted upstream and downstream. Its clamp-on transducers eliminate the need for pipe cutting, process shutdown, or interruption of flow, making it ideal for temporary measurements, commissioning, maintenance, energy audits, and system diagnostics.\n\nDesigned for demanding field applications, the flow meter features an integrated thermal printer and built-in SD card data logging, enabling instant report generation and long-term storage of measurement data without external devices. The rechargeable battery provides up to 20 hours of continuous operation, while the large LCD backlit display offers clear visualization of flow parameters. Optional clamp-on transducers support a wide range of pipe diameters and operating temperatures, making the instrument suitable for steel, stainless steel, cast iron, copper, PVC, aluminum, fiberglass, cement, and lined pipelines.\n\nThe instrument supports RS232, Pulse, Relay, and 4–20 mA outputs, allowing seamless integration with PLC, DCS, SCADA, and industrial automation systems. It also accepts pressure, temperature, and level inputs for advanced flow and heat energy measurement. Widely used in water and wastewater treatment, HVAC, chemical processing, oil & gas, power generation, food & beverage, irrigation, and industrial utilities, it provides reliable, maintenance-free flow measurement for both temporary and long-term applications.",
-              "imagePath": "/images/products/photos/Portable Ultrasonic flow meter with printer.png",
+              "imagePath": "/images/products/photos/Portable-Ultrasonic-flow-meter-with-printer.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2297,7 +2297,7 @@
           "type": "folder",
           "title": "Flow Switches",
           "description": "",
-          "folderCover": "/images/products/photos/flow switch.png",
+          "folderCover": "/images/products/photos/flow-switch.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -2307,7 +2307,7 @@
               "title": "Thermal Flow Switch",
               "shortDesc": "The Intelligent Thermal Flow Switch from Brotek Instruments provides precise flow monitoring for liquids, gases, and air. Using thermal dispersion technology, it delivers reliable switching, programmable settings, and maintenance-free operation for industrial automation systems.",
               "fullDesc": "The Intelligent Thermal Flow Switch from Brotek Instruments is an advanced thermal dispersion flow monitoring device designed for accurate detection of liquids, gases, and air in industrial process applications. The instrument employs a probe containing a heating element and dual temperature sensors. During no-flow conditions, a constant temperature difference is maintained between the sensors. As fluid begins to flow, heat is carried away from the heated sensor, and the resulting temperature difference is continuously measured by a high-precision microprocessor. When the measured flow reaches the programmed set point, the switch changes its output state to provide reliable flow indication and process protection.\n\nDesigned as a universal mass flow switch, the instrument measures both liquid and gas flow with the same sensing principle, eliminating moving parts and reducing maintenance requirements. It features programmable settings for alarm value, high/low alarm selection, delay time, zero and span adjustment, and damping factor, allowing easy adaptation to different process conditions. The rugged aluminum enclosure, SS316L wetted parts, and IP66/Ex ia protection ensure dependable performance in harsh industrial environments.\n\nThe switch provides a 220 VAC relay output for direct integration with PLC, DCS, SCADA, and industrial automation systems. Supporting flow rates up to 3 m/s for liquids and 30 m/s for gases, it is widely used in HVAC systems, air compressors, refrigeration plants, laser cooling systems, water-cooled welding machines, vacuum coating equipment, electric furnaces, polysilicon production, and general industrial process control where reliable flow detection is essential.",
-              "imagePath": "/images/products/photos/flow switch.png",
+              "imagePath": "/images/products/photos/flow-switch.png",
               "imageClassName": "",
               "pdfPath": "/Catalouge/flow-switch.pdf",
               "specs": [
@@ -2407,7 +2407,7 @@
       "type": "folder",
       "title": "Temperature Measurement",
       "description": "Process Heating Solutions, Electrical Ovens, Thermic Fluid Systems, Temperature Sensors, Process Control Instruments, Hot Air Generators, Flame Proof Instruments, Flow and Level Indicators, Electrical Furnaces, Flexible Heaters and Insulations",
-      "folderCover": "/images/products/photos/temperature_measurement_cover.jpg",
+      "folderCover": "/images/products/photos/temperature measurement cover new.png",
       "imageClassName": "",
       "subFolders": [
         {
@@ -2415,7 +2415,7 @@
           "type": "folder",
           "title": "Process Heating Solution",
           "description": "",
-          "folderCover": "/images/products/photos/heater cover image.png",
+          "folderCover": "/images/products/photos/heater-cover-image.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -2425,7 +2425,7 @@
               "title": "Industrial Hot Water Circulation System",
               "shortDesc": "The Industrial Hot Water Heater from Sensewell Instruments delivers efficient and uniform heating for process water applications. Built with high-quality heating elements and intelligent temperature control, it ensures reliable, energy-efficient operation across diverse industries.",
               "fullDesc": "The Industrial Hot Water Heater from Sensewell Instruments Pvt. Ltd. is a robust heating solution designed to provide continuous and efficient hot water for industrial processes. Engineered for reliable operation, the system is manufactured using premium-grade heating elements, high-quality insulation, and durable construction to ensure excellent thermal efficiency, reduced heat loss, and long service life. It is suitable for applications requiring controlled hot water generation for production, cleaning, processing, and utility services.\n\nThe heater incorporates intelligent temperature control with advanced safety features to maintain consistent outlet temperatures while protecting the equipment from overheating and dry-run conditions. Available in customized capacities and heating ratings, the unit can be designed to meet specific process requirements. Its rugged industrial construction ensures dependable performance even under continuous-duty operating conditions while minimizing maintenance requirements.\n\nThe Industrial Hot Water Heater is widely used in chemical processing, pharmaceutical manufacturing, food & beverage industries, textile processing, plastic industries, commercial laundries, hospitals, hotels, and general industrial utilities where a reliable supply of controlled hot water is essential. Designed for easy installation and integration into existing systems, it provides an efficient and economical heating solution for modern industrial applications.",
-              "imagePath": "/images/products/photos/industrial hot water.png",
+              "imagePath": "/images/products/photos/industrial-hot-water.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": []
@@ -2436,7 +2436,7 @@
               "title": "Flexible Bolt Heaters",
               "shortDesc": "The Flexible Bolt Heater is a compact, resistance-based heating element designed for rapid, internal heating of large stud bolts. It expands bolts uniformly from the inside out, enabling safe, fast removal and precise installation without galling.",
               "fullDesc": "In the world of industrial maintenance and shutdown operations, time is money. When you're working with massive machinery like turbines, pressure vessels, or large-diameter flanges, even something as small as a bolt can be the bottleneck that holds everything up. Enter the Flexible Bolt Heater – a compact, high-temperature heating device that helps make bolt removal and insertion faster, safer, and more precise.\n\nA flexible bolt heater is a resistance-based heating element, typically inserted into the hollow center of a stud bolt. Unlike surface heating methods, this device heats the bolt from the inside out, expanding it uniformly. Once expanded, the bolt is easier to remove, or in the case of installation, tightens naturally upon cooling to ensure optimal clamping force. This greatly minimizes mechanical stress on casings, avoids thread seizure during bolt removal, and prevents micro-fractures caused by over-tightening.",
-              "imagePath": "/images/products/photos/flexible bolt heaters.png",
+              "imagePath": "/images/products/photos/flexible-bolt-heaters.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2472,7 +2472,7 @@
               "title": " High-Density Bolt Heater",
               "shortDesc": "High-density bolt heaters are specialized electric heating elements that deliver intense, rapid heat to large, hollow bolts. With a high watt density of 50-100 W/in², they enable thermal expansion in just minutes for easier, precise tightening.",
               "fullDesc": "High-density bolt heaters are specialized, cartridge-style electric heating elements engineered to provide intense, rapid heat to large, hollow bolts or studs. By delivering a high watt density—typically 50 to 100 watts per square inch—these heaters can expand bolts to full capacity in just 5 to 30 minutes, significantly faster than standard tubular heating elements.\n\nThis rapid thermal expansion facilitates easier tightening or loosening in heavy-duty industrial applications, reducing downtime and minimizing the risk of galling or thread damage. These heaters operate by converting electrical energy into heat through an internal resistance coil, safely warming the bolt from the inside out. They are critical for maintenance, turnaround, and assembly in industries like power generation, petrochemical refineries, and heavy machinery manufacturing, where precise, high-stress bolt tensioning is essential for structural integrity.",
-              "imagePath": "/images/products/photos/high density bolt heater.png",
+              "imagePath": "/images/products/photos/high-density-bolt-heater.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2508,7 +2508,7 @@
               "title": "Air Heater (Without Fins)",
               "shortDesc": "Air heaters without fins are electric, bare-element tubular heaters built for harsh environments. Encased in durable alloys like stainless steel or Incoloy, their smooth design prevents clogging from dust or debris in high-velocity air streams.",
               "fullDesc": "Air heaters without fins, often referred to as tubular air heaters or bare-element heaters, are versatile electric heating elements typically constructed from stainless steel, Incoloy, or other high-temperature alloys. These heaters consist of a high-resistance nickel-chromium wire encased in a metal sheath, heavily insulated with high-purity magnesium oxide (MgO) for efficient heat transfer and optimal electrical insulation.\n\nUnlike finned heaters, these bare-element air heaters rely entirely on their exposed tubular surfaces to directly heat the surrounding air. The absence of fins results in a simpler, highly robust design perfectly suited for harsh industrial environments. Where debris, dust, or high air velocities could easily damage, clog, or restrict airflow through delicate finned structures, a smooth tubular heater continues to operate efficiently. Their durability and resistance to fouling make them ideal for rugged industrial drying, curing, and forced-air heating applications where reliability under heavy particulate loads is an absolute requirement.",
-              "imagePath": "/images/products/photos/air heater (without finns).png",
+              "imagePath": "/images/products/photos/air-heater-(without-finns).png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2544,7 +2544,7 @@
               "title": "Bundle Heater",
               "shortDesc": "Bundle heaters are robust, high-temperature electric heaters engineered for industrial furnaces. Built with circular ceramic discs encasing resistance elements, they deliver uniform heat distribution up to 1250°C for smelting and heavy-duty heating.",
               "fullDesc": "Bundle heaters are highly durable, engineered electric heaters specifically designed for high-temperature industrial furnace applications, delivering robust and efficient heating for intensive processes like aluminum smelting and steel galvanizing.\n\nThese advanced heaters consist of circular alumina ceramic discs that safely encase heavy-duty resistance heating elements. They are frequently paired with protective radiant tubes to maximize radiant heat transfer while simultaneously protecting the internal core from refractory corrosion, oxidation, and gas impurities. Constructed using specialized materials like ferritic alloys (capable of reaching 1250°C) or nickel-chromium (NiCr) alloys (up to 1100°C), bundle heaters ensure extreme durability under the harshest thermal conditions. The internal assembly includes a central structural rod for robust support and high-grade terminal rods (typically SS 310 or Incoloy) to guarantee reliable, long-lasting power delivery with minimal maintenance.",
-              "imagePath": "/images/products/photos/bunddle heater.png",
+              "imagePath": "/images/products/photos/bunddle-heater.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2581,7 +2581,7 @@
           "type": "folder",
           "title": "Temperature Sensors",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/temp-sensor-cover.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -2591,7 +2591,7 @@
               "title": "FLP Temperature Sensor",
               "shortDesc": "The FLP Temperature Sensor is an explosion-proof RTD/Thermocouple built for hazardous environments. Featuring a robust cast aluminum or stainless steel head with mineral protection, it is guaranteed flameproof for gas groups I, IIA, and IIB.",
               "fullDesc": "The FLP (Flame Proof) Temperature Sensor is engineered specifically for safe, reliable temperature measurement in highly hazardous and explosive environments. Designed with a blast-evidence enclosure, these sensors are constructed using robust die-cast aluminum heads equipped with heavy-duty mineral protection. Depending on the specific environmental requirements, the enclosures can also be precision-machined from solid metal, SS304, or SS316 stainless steel for maximum corrosion resistance and durability.\n\nOur standard FLP temperature sensors are rigorously tested and guaranteed flameproof (Ex-d certified) for operations in Gas Groups I, IIA, and IIB. They support a variety of sensor types, including highly accurate RTDs (PT100, PT1000) and versatile Thermocouples (Type K, J, T). The assembly comes complete with a certified flameproof head and specialized FLP cable glands (¾” ET, NPT, or M20) to ensure a fully sealed and secure connection, preventing any internal sparks from igniting external volatile gases.",
-              "imagePath": "/images/products/photos/flp temp sensor.png",
+              "imagePath": "/images/products/photos/flp-temp-sensor.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2720,7 +2720,7 @@
           "type": "folder",
           "title": "Process Control Instruments",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/process-control-cover.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -2730,7 +2730,7 @@
               "title": "Digital Temprature Indicator",
               "shortDesc": "The Digital Temperature Indicator Controller offers low-cost, accurate, and rugged On/Off control for general-purpose applications. Available in display sizes from 0.5″ to 4″, it features high visibility and extreme reliability.",
               "fullDesc": "Libratherm offers simple Digital Temperature Indicator Controllers, which are low-cost, accurate, rugged, and reliable instruments available for indication and On/Off control for general-purpose temperature control applications. Indicators are available in display sizes of 0.5″ to 4″ to suit long-distance factory visibility.\n\nOn/Off control is the simplest and most reliable controlling method. When used for heating control, the temperature sensed by the connected sensor (Thermocouple or RTD) is compared with the set point. When the temperature exceeds this set point, the heater is turned OFF, and when it drops, the heater is turned ON. This logic is easily reversed for cooling applications (compressors or chillers). Special models are available for applications requiring variable hysteresis, allowing a single device to operate at two different set points. Some models are also available in robust flameproof enclosures for use in hazardous environments.\n\nKey Features:\n\nElegant appearance and compact in size\nAccuracy better than ± 0.5 % of the full scale\nAccepts standard type of thermocouple or RTD (Pt-100)\nControl output Relay, TRIAC, or DC pulse for external SSR\nUses high quality potentiometer and membrane switches\n Applications\n    Heat treatment, Furnace / Oven control\n    Food processing\n    Constant temperature Baths & Environmental chambers\n    Plastic / Packaging / Pharmacy industry\n    Cold Storage and Chilling plants\n    Laboratory equipment",
-              "imagePath": "/images/products/photos/temp indicator.png",
+              "imagePath": "/images/products/photos/temp-indicator.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2830,7 +2830,7 @@
               "title": "Temperature Transmitter",
               "shortDesc": "Industrial Temperature Transmitters convert low-level sensor signals (RTD/Thermocouple) into a robust, noise-immune 4-20mA output. Available in compact head-mounted or DIN rail designs for seamless integration into any PLC/DCS.",
               "fullDesc": "Sensewell’s Industrial Temperature Transmitters are high-precision, 2-wire devices engineered to amplify and convert low-level signals from temperature sensors (such as RTDs and Thermocouples) into a standardized, noise-immune 4-20mA analog output. This is highly critical for industrial environments where sensor signals must be transmitted over long distances to a central PLC, SCADA, or DCS system without degradation, voltage drop, or electromagnetic interference (EMI).\n\nDesigned for maximum reliability and ease of installation, our transmitters are available in extremely compact head-mounted enclosures (fitting seamlessly into standard DIN Form B connection heads) or modular 35mm DIN-rail mount configurations for control cabinets. They feature excellent cold-junction compensation, high accuracy, and wide operating voltage ranges, ensuring stable and linear temperature conversion across demanding factory conditions.",
-              "imagePath": "/images/products/photos/temp transmitter.png",
+              "imagePath": "/images/products/photos/temp-transmitter.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2882,7 +2882,7 @@
               "title": "PID Controller",
               "shortDesc": "The Universal PID Controller is a powerful, state-of-the-art instrument designed for precise industrial process control. Featuring robust hardware for noisy environments, it utilizes Proportional, Integral, and Derivative actions to eliminate error.",
               "fullDesc": "Sensewell introduces a state-of-the-art, truly universal, and powerful PID Controller featuring proprietary in-house design. A PID controller utilizes three sophisticated control actions: Proportional (reacting to current error), Integral (correcting past cumulative errors), and Derivative (predicting future errors based on rate of change). These combined actions automatically adjust output signals to valves, actuators, or solid-state relays, ensuring your system reaches and maintains the exact desired setpoint efficiently with zero overshoot.\n\nDeveloped with an advanced microcontroller, both the hardware and software are explicitly ruggedized to operate flawlessly in electrically noisy industrial environments. The controller is incredibly versatile, finding heavy application in Industrial Ovens, Muffle Furnaces, B.O.D. Incubators, Humidity Chambers, Sterilizers, Blood Bank Equipment, Constant Temperature Baths, Plastic Moulding, Thyristor Heat Controllers, Motor Controllers, and complex Valve Control systems.",
-              "imagePath": "/images/products/photos/pid controller.png",
+              "imagePath": "/images/products/photos/pid-controller.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -2962,7 +2962,7 @@
               "title": "Portable Temperature Indicator",
               "shortDesc": "The Portable Temperature Indicator is a compact, handheld device designed for accurate, on-the-spot temperature measurement. Essential for field use, it easily connects to standard thermocouples and RTDs for real-time monitoring.",
               "fullDesc": "The Sensewell Portable Temperature Indicator is a compact, robust, and highly accurate handheld device designed to measure and display real-time temperature readings from external sensors. Engineered specifically for field use, this instrument is an essential diagnostic tool for service engineers, maintenance personnel, and process technicians who require instant, on-the-spot temperature measurement across various industrial zones without relying on fixed control panels.\n\nIt features a large, easy-to-read digital LED or LCD display and is highly versatile, connecting directly to standard thermocouples (K, J, T, R, S) via built-in jacks or RTDs (PT100/PT1000) through a 3-pin socket. With optional dual-channel inputs for simultaneous readings and data hold features, this battery-operated device ensures reliable troubleshooting in tight spaces and low-light environments.",
-              "imagePath": "/images/products/photos/portable indicator.png",
+              "imagePath": "/images/products/photos/portable-indicator.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3050,7 +3050,7 @@
               "title": "Process Indicator",
               "shortDesc": "The Process Indicator is a versatile, panel-mounted digital display unit that converts analog or digital signals into readable values. Essential for real-time monitoring of critical variables like temperature, pressure, flow rate, and RPM.",
               "fullDesc": "The Sensewell Process Indicator is a highly accurate, panel-mounted digital display unit engineered to receive low-level analog or digital signals from sensors, transmitters, or controllers and convert them into clearly readable engineering values for real-time monitoring.\n\nIt is an indispensable tool in industrial automation, used extensively to display critical process variables such as temperature, pressure, level, flow rate, and machinery speed (RPM). Designed for maximum visibility on the factory floor, it features a bright 4-digit or 6-digit LED/LCD display. The unit easily integrates into existing control architectures, accepting a vast range of inputs (4-20mA, 0-10VDC, RTD, Thermocouples) and offering optional relay outputs for threshold alarms or MODBUS communication for direct SCADA and PLC integration.",
-              "imagePath": "/images/products/photos/process indicator.png",
+              "imagePath": "/images/products/photos/process-indicator.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3139,7 +3139,7 @@
           "type": "folder",
           "title": "Flow & Level Indicator",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/flow-indicator-cover.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -3149,7 +3149,7 @@
               "title": "Acrylic & Glass Tube Rotameter",
               "shortDesc": "Acrylic Glass Tube Rotameters are precision-machined from clear acrylic blocks for maximum visibility and ruggedness. They feature highly accurate, inline flow measurement with standard accuracies of 1.5% to 1% at full scale.",
               "fullDesc": "Sensewell’s Acrylic Rotameters are highly durable flow measurement devices, precision-machined directly from solid, clear acrylic blocks. This single-block construction provides maximum operational visibility, exceptional ruggedness, and a streamlined, modular appearance.\n\nEngineered for precise flow control, these rotameters are fitted with high-quality needle valves and stable floats (available in Stainless Steel, Teflon, or PVC) to ensure highly accurate readings. In larger models, specialized guide rods are provided to maintain absolute float stability under high-velocity flows. Due to their neat, modular design, these units are ideal for direct panel mounting, though standard inline installation is equally supported. Each unit is individually calibrated at our works using air and water at standard conditions, utilizing highly reliable empirical conversions to calibrate for other specialized industrial fluids.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/Acrylic-&-Glass-Tube-Rotameter.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3193,7 +3193,7 @@
               "title": "Sight Glass",
               "shortDesc": "Sight Glasses, often referred to as Liquid Level Gauges, are critical observational instruments used to visually monitor fluid flow, levels, or specific processes inside closed pipes, tanks, and pressure vessels in industrial settings.",
               "fullDesc": "Sensewell’s industrial Sight Glasses (traditionally known in boiler terminology as Liquid Level Gauges) are critical observational instruments designed to provide a clear, safe window into a closed process system. They allow operators and engineers to visually monitor and verify fluid levels, continuous flow, color, clarity, and overall process conditions inside sealed pipes, tanks, or pressurized vessels without compromising the system's integrity.\n\nWhile the term 'sight glass' broadly refers to any observation unit, our comprehensive range covers every specific industrial application. This includes highly durable Liquid Level Gauges for monitoring tank capacities, Inline Sight Flow Indicators for verifying fluid movement in pipelines, and specialized Illuminated and Weld-Pad Sight Glasses for dark or high-pressure reactor vessels. Engineered with heavy-duty industrial glass and robust metal housings, these units are essential for ensuring process safety and operational efficiency.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/sight-glass.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3253,7 +3253,7 @@
               "title": "Float & Board Type Level Indicator",
               "shortDesc": "The Float & Board Level Indicator is an economical, easy-to-install mechanical measurement device. Utilizing a highly visible gauge board and target, it clearly displays liquid tank levels to an accuracy of 25 mm.",
               "fullDesc": "Sensewell’s Float & Board Type Level Indicator is a highly durable, economical, and easy-to-install mechanical measurement device. It is designed to provide clear, immediate visual indication of liquid levels inside atmospheric and low-pressure storage vessels. The system operates on a simple, highly reliable principle: as the liquid level in the tank rises or falls, the internal float moves correspondingly. This movement is transmitted via a mechanical cable system, which directly drives an external indicator target up and down a prominently mounted gauge board on the side of the tank.\n\nThe resulting liquid level is displayed clearly in centimeters on the gauge board, offering a reliable visual accuracy of 25 mm. Engineered for versatility, the standard model features a durable aluminum gauge board and a stainless steel (STS) float. It can be easily installed on both in-service and out-of-service tanks, requiring absolutely no external power or electrical wiring to operate.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/Float-&-Board-Type-Level-Indicator.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3313,7 +3313,7 @@
               "title": "Reflex & Transparent Level Indicator",
               "shortDesc": "Reflex and Transparent Level Indicators are highly robust, direct-reading liquid level measurement devices designed specifically for high-pressure and high-temperature industrial applications.",
               "fullDesc": "Sensewell’s Reflex and Transparent Level Indicators are robust, direct-reading liquid level measurement instruments engineered specifically for demanding industrial applications involving high pressures and extreme temperatures. These units provide a highly reliable, visual verification of fluid levels directly at the tank or vessel.\n\nReflex Type Indicators utilize a single-sided reflex glass and a heavy-duty cover plate with a slotted window. The internal prism structure of the glass causes the liquid portion to appear starkly dark while the vapor/gas portion reflects light (appearing silvery-white), making it extremely easy to read the liquid level at a glance from a distance.\n\nTransparent Type Indicators feature heavy-duty cover plates and toughened glass on both the front and back of the gauge, with a center-slotted window. This allows light to pass entirely through the gauge, making it ideal for direct observation of fluid color, clarity, liquid-liquid interfaces, or when paired with an Illuminator accessory for dark environments.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/Reflex-&-Transparent-Level-Indicator.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3365,7 +3365,7 @@
               "title": "Tubular & Magnetic Level Indicator",
               "shortDesc": "The Tubular Level Indicator is a highly reliable, lightweight device for direct reading in atmospheric or low-pressure tanks. It features a heavy-duty Borosilicate glass tube fully protected by a 2mm thick S.S. channel box section.",
               "fullDesc": "Sensewell’s Tubular Type Level Indicator is a simple, highly reliable instrument engineered for direct liquid level reading in atmospheric or pressurized tank applications (up to 5 Kg/cm²). Designed as a safer, modern alternative, these indicators completely eliminate the problematic threaded joints found in conventional gauge glass cocks, which are notorious for hazardous chemical leaks that can damage surrounding equipment and endanger human life.\n\nThe indicator features top and bottom liquid chambers machined from solid bar stock. The core of the unit, a boiler-quality Borosilicate glass tube, is fully encased and protected by an ultra-rugged box section made from 2mm thick Stainless Steel (S.S.) C-channel. This protective housing is so strong that the glass remains perfectly intact even if a person stands directly on the supported indicator. Significantly lighter than Reflex or Transparent gauges, this unit offers exceptional durability, positive leak tightness via 100% PTFE (Teflon) packing, and simple installation for continuous process monitoring.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/Tubular-&-Magnetic-Level-Indicator.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3413,7 +3413,7 @@
               "title": "Float Magnetic Level Switch",
               "shortDesc": "The Magnetic Float Level Switch is a highly popular and reliable point-level sensor used to detect the presence or absence of liquids. Utilizing buoyancy and magnetism, it triggers a hermetically sealed reed switch for precise level control.",
               "fullDesc": "Sensewell’s Magnetic Float Level Switch is one of the most reliable and popular point-level sensing devices used for detecting the precise presence or absence of liquids across a wide range of industrial applications and vessels (tanks, bins, troughs, standpipes, etc.).\n\nThe switch operates seamlessly on the fundamental principles of buoyancy and magnetism. It consists of a specialized float containing an internal magnetic element that rides freely up and down a hollow stem as the fluid level changes. The float's volume and weight are precisely engineered to match the specific gravity (density) of the target fluid. Inside the hollow stem is a hermetically sealed reed switch, positioned at a user-defined actuation point. As the buoyant magnetic float travels past this point, the magnetic field actuates the internal reed switch, instantly sending a highly reliable electrical signal to a PLC, alarm, or pump control system. Float travel is securely contained by retaining clips.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/Float-Magnetic-Level-Switch.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3462,7 +3462,7 @@
           "type": "folder",
           "title": "Flame Proof Instruments",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/flame-proof-cover.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -3472,7 +3472,7 @@
               "title": "FLP DIGITAL MULTICHANNEL TEMPERATURE INDICATOR",
               "shortDesc": "The FLP Digital Multichannel Temperature Indicator is a rugged, flameproof monitoring system designed for hazardous areas. It safely monitors multiple temperature zones simultaneously while providing critical high/low alarms.",
               "fullDesc": "Sensewell’s FLP Digital Multichannel Temperature Indicator is a highly robust, multi-zone temperature monitoring system engineered specifically for deployment in hazardous, explosive, or highly volatile industrial environments. Housed in a heavy-duty, certified Flameproof (FLP) enclosure, this unit ensures absolute protection against explosive gases, volatile dust, and aggressive chemical atmospheres.\n\nDesigned for maximum operational safety and efficiency, the multichannel system allows operators to monitor multiple temperature points (typically 4, 6, 8, 12, or 16 channels) from a single, centralized unit. It features a high-brightness dual LED display showing both the Process Value (PV) and the active channel number. Operators can utilize automatic scanning with programmable dwell times or manually toggle through channels via rugged push-buttons. Highly versatile, it seamlessly accepts standard RTDs (Pt100) and various Thermocouple inputs, making it an indispensable safety instrument for petrochemical plants, oil refineries, and pharmaceutical manufacturing facilities.",
-              "imagePath": "/images/products/photos/flame proof 1.png",
+              "imagePath": "/images/products/photos/flame-proof-1.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3564,7 +3564,7 @@
               "title": "FLP Digital Temperature Controller",
               "shortDesc": "Explore our comprehensive range of robust, certified Flameproof (FLP) Process Control Instruments, explicitly engineered for absolute safety, accuracy, and precision in hazardous, explosive, and highly volatile industrial zones.",
               "fullDesc": "Sensewell’s Flameproof (FLP) Instruments are engineered to deliver uncompromising safety, accuracy, and reliability in the world's most hazardous industrial environments. Specifically designed for critical applications in petrochemical plants, oil and gas refineries, pharmaceutical manufacturing, and volatile chemical processing, our FLP enclosures are built from heavy-duty cast aluminum or iron and are fully certified (CMRI/ATEX) to withstand internal explosions without igniting the surrounding volatile atmosphere.\n\nOur comprehensive FLP product line includes advanced Digital Multichannel Temperature Indicators, highly precise PID Temperature Controllers, automated Temperature Scanners, reliable Annunciators, heavy-duty Drives, and specialized Flame Proof Sensors. Each instrument is meticulously manufactured to IP65/IP66 protection standards, ensuring seamless operation, real-time process monitoring, and fail-safe control in zones prone to explosive gases (Gas Groups IIA, IIB, IIC) and combustible dust.",
-              "imagePath": "/images/products/photos/flame proof 2.png",
+              "imagePath": "/images/products/photos/flame-proof-2.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3604,7 +3604,7 @@
               "title": "FLP DIGITAL TEMPERATURE SCANNER",
               "shortDesc": "The FLP Digital Temperature Scanner is a highly advanced multi-channel monitoring system housed in a certified flameproof enclosure. Engineered for explosive environments, it continuously cycles through multiple sensor inputs for real-time safety.",
               "fullDesc": "Sensewell’s FLP Digital Temperature Scanner is a highly advanced, microcontroller-based monitoring instrument engineered to continuously scan and display temperature readings from multiple process points. Housed in an ultra-rugged, certified Flameproof (FLP) enclosure (constructed from heavy-duty Aluminum LM-6 or Stainless Steel), this unit is intrinsically designed to operate flawlessly in hazardous Zones 1 & 2 without risking the ignition of surrounding flammable gases or volatile vapors.\n\nBy utilizing an automated scanning system, this unit eliminates the need for multiple single-channel devices, greatly simplifying control panel design and reducing costs. The scanner seamlessly cycles through all connected sensors (RTD Pt-100 or various Thermocouples) at programmable intervals (1–60 seconds), displaying real-time data on a high-visibility LED/LCD display. Equipped with high/low relay alarm outputs and optional RS485 Modbus for SCADA integration, it is the ultimate temperature safety monitor for Oil & Gas refineries, Petrochemical plants, and Pharmaceutical reactors.",
-              "imagePath": "/images/products/photos/flame proof 3.png",
+              "imagePath": "/images/products/photos/flame-proof-3.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3688,7 +3688,7 @@
               "title": "FLP ANNOUNCIATOR",
               "shortDesc": "The FLP Annunciator is a critical alarm system housed in a certified flameproof enclosure. Designed for explosive atmospheres, it monitors multiple process parameters and alerts operators with high-visibility visuals and loud audible alarms.",
               "fullDesc": "Sensewell’s FLP Annunciator is a highly critical, multi-channel alarm system engineered to monitor complex process parameters (temperature, pressure, level) and instantly alert operators to abnormal conditions in hazardous industrial zones. Housed in a heavy-duty Aluminum LM-6 or Stainless Steel Flameproof enclosure, it is explicitly certified (CIMFR, ATEX, IECEx) to ensure that internal sparks or heat do not ignite surrounding explosive gases (Gas Groups I, IIA, IIB, IIC) or combustible dust.\n\nEquipped with an advanced microcontroller, the system seamlessly accepts 4 to 48 input channels from various sensors and control switches. Upon detecting a process fault, it triggers a sequence of programmable alarms: bright, color-coded LED/Lamp indicators (e.g., red for critical, amber for warning) combined with a highly audible internal buzzer/hooter (80–100 dB) to ensure operator attention in noisy factories. Operators can acknowledge alarms via rugged push-buttons, safely silencing the audible alert while the visual indicator remains active until the underlying fault is fully resolved.",
-              "imagePath": "/images/products/photos/flame proof 4.png",
+              "imagePath": "/images/products/photos/flame-proof-4.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3768,7 +3768,7 @@
               "title": "CONTROL PANEL",
               "shortDesc": "Industrial automation control panels serve as the 'brains' of modern production. Evolving from basic manual switches to complex digital ecosystems, they are essential for maintaining safety, precision, and consistency across diverse manufacturing.",
               "fullDesc": "Sensewell’s Industrial Automation Control Panels serve as the central 'brains' of modern production facilities. Evolving far beyond basic manual switches into complex digital ecosystems, these panels are essential for maintaining absolute safety and consistency in thermal processing and automated manufacturing.\n\nWe engineer fully customized control panels based on the unique demands of your sector. Whether you require standard PLC Control Panels to manage entire plant sequences, ultra-precise PID Control Panels utilizing feedback loops to maintain temperatures within ± 0.5°C, or Variable Frequency Drive (VFD) Panels to optimize airflow and energy consumption, Sensewell delivers. Our modern systems integrate 'Smart' IoT technologies for remote monitoring, predictive maintenance, and automatic data logging to ensure strict compliance with regulatory standards like HACCP and 21 CFR Part 11.",
-              "imagePath": "/images/products/photos/control panel.png",
+              "imagePath": "/images/products/photos/control-panel.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3832,7 +3832,7 @@
               "title": "FLP DRIVE",
               "shortDesc": "The FLP Drive is a robust Variable Frequency Drive (VFD) housed in a certified flameproof enclosure. Engineered for hazardous locations, it provides precise, safe motor control in environments where explosive gases or combustible dust are present.",
               "fullDesc": "Sensewell’s FLP Drive is an advanced Variable Frequency Drive (VFD) engineered specifically for providing precise motor control in the world's most demanding and hazardous industrial environments. Because standard VFDs generate heat and potential electrical arcs, they cannot be deployed in volatile zones. Our FLP Drive solves this by encasing high-performance VFD electronics inside a heavy-duty, CMRI / ATEX / PESO certified Flameproof enclosure (cast aluminum or iron) designed to withstand internal explosions without igniting the surrounding atmosphere.\n\nIdeal for Zone 1 and Zone 2 hazardous locations, the FLP Drive allows operators to safely control the speed and torque of heavy induction and synchronous motors (ranging from 0.5 HP up to 250 HP) in areas where flammable gases, chemical vapors, or combustible dusts are constantly present. The unit features built-in FLP push buttons, digital displays, and comprehensive electrical protections, making it an essential automation component for petrochemical plants, refineries, and distilleries.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/flame-proof-5.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3908,7 +3908,7 @@
               "title": "FLP DIGITAL TEMPERATURE INDICATOR",
               "shortDesc": "The FLP Digital Temperature Indicator is a high-precision monitoring device housed in a robust, certified flameproof enclosure. Designed for hazardous areas, it safely measures and displays real-time temperature data from RTDs and Thermocouples.",
               "fullDesc": "Sensewell’s FLP Digital Temperature Indicator is a high-precision, microcontroller-based device engineered specifically to measure and display real-time temperature readings in the world's most hazardous and explosive industrial environments. The core electronics are securely housed in a rugged, heavy-duty Flameproof (FLP) enclosure (cast aluminum LM-6 or stainless steel), designed to completely contain any internal electrical sparks or heat. This ensures absolute safety in atmospheres classified as Zone 1 or Zone 2 (Gas Groups IIA, IIB, IIC).\n\nFully certified to meet stringent safety standards (CIMFR, ATEX), this indicator seamlessly accepts signals from standard RTDs (Pt-100), Thermocouples (J, K, T, R, S), or 4-20mA analog inputs. The onboard microcontroller guarantees exceptional accuracy through advanced software calibration and cold junction compensation. The high-visibility LED or LCD display provides clear, precise readouts even in smoky or low-light factory conditions, making it an indispensable safety instrument for oil refineries, chemical processing, and petrochemical plants.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/flame-proof-6.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -3997,7 +3997,7 @@
           "type": "folder",
           "title": "Electrical Oven",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/oven-cover-page.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -4007,7 +4007,7 @@
               "title": "Customized Vacuum Oven",
               "shortDesc": "The Customised Vacuum Oven is engineered for delicate drying processes where oxidation must be eliminated. By drying samples in a complete vacuum or inert gas atmosphere, it ensures zero surface reactions for highly sensitive materials.",
               "fullDesc": "Sensewell’s Customised Vacuum Ovens are specifically engineered to dry delicate or sensitive samples without the risk of oxidation, residue, or thermal degradation. Unlike general-purpose ovens, a vacuum oven is the ideal choice when materials must be dried in the complete absence of atmosphere (vacuum condition) or in the presence of an inert atmosphere (such as Argon, Nitrogen, or Clean Dry Air).\n\nOur vacuum ovens are equipped with dual precise needle valves: a Vacuum Port for connecting the high-capacity vacuum pump, and an Inert Gas Port for connection to gas cylinders for safe purging. The internal chamber temperature is meticulously controlled via an advanced microprocessor PID or HMI controller. These ovens are highly acclaimed by experts in pharmaceutical, food processing, and advanced metallurgy for drying tiny components, removing flammable solvents, and curing oxygen-sensitive materials safely. Each system delivers exceptional heat transfer, rapid heat-up times, and features integrated over-temperature protection.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_0.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4083,7 +4083,7 @@
               "title": "POWDER COATING & PAINT DRYING OVEN",
               "shortDesc": "Sensewell’s Powder Coating & Paint Drying Ovens are designed for maximum efficiency and cost-effective operation. Built with high accuracy and fan-assisted circulation, they deliver excellent stability for perfect curing results.",
               "fullDesc": "At Sensewell Instruments, we design, manufacture, and supply large-capacity, multipurpose Powder Coating and Paint Drying Ovens tailored for industrial finishing applications. Engineered for maximum thermal efficiency and cost-effective operation, our ovens provide exceptional temperature stability (50°C to 250°C) with high-accuracy fan-assisted air circulation to ensure a flawless, even cure across all coated parts.\n\nThe exterior is constructed from heavy-duty sheet steel, finished in an easy-to-clean powder-coated paint. Internally, the chamber is fabricated from mild steel coated with aluminum (CLAD), with a premium stainless steel chamber available as an option for specialized applications. To meet diverse production line requirements, we offer highly customizable door configurations, including single-side doors, dual-sided double doors for pass-through operations, and vertical lift doors. Heating systems can be configured as Direct Gas-Fired or Indirect Gas-Fired, all managed by specially designed control panel boards equipped with 24/7 real-time clocks and automated countdown timers.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_1.jpg",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4131,7 +4131,7 @@
               "title": "CONVEYER BELT OVEN",
               "shortDesc": "Sensewell’s Conveyor Belt Ovens are engineered for continuous, high-volume production. Utilizing advanced motion paths, they deliver perfectly even baking, curing, or drying for large-scale industrial and commercial applications.",
               "fullDesc": "Sensewell’s Conveyor Belt Ovens are heavy-duty, continuous-process thermal systems explicitly engineered for high-volume, automated production lines. Unlike static batch ovens, conveyor ovens allow continuous product flow, significantly accelerating manufacturing throughput while maintaining absolute thermal consistency across every single part.\n\nDesigned for maximum industrial versatility, our highly powerful conveyor ovens can be customized to utilize continuous or indexing motion. We design bespoke systems featuring horizontal, vertical, inclined, or complex spiral motion paths to perfectly integrate with your existing factory floor plan. Manufactured using premium, high-durability thermal materials, these ovens feature precise adjustable temperature zones. Highly efficient and rigorously safe, they are the ultimate thermal processing solution for large-scale baking, drying, curing, and annealing applications.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_2.jpg",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4175,7 +4175,7 @@
               "title": "Welding Electrode Oven",
               "shortDesc": "The Welding Electrode Oven (Rod Oven) is a specialized heating device designed to store welding electrodes at precise temperatures. This eliminates atmospheric moisture absorption, preventing severe weld defects like porosity and cracking.",
               "fullDesc": "Welding Electrode Oven (also widely known as a Rod Oven) is a highly specialized thermal storage device engineered to ensure absolute structural integrity during heavy-duty welding operations. Welding electrodes are highly susceptible to absorbing moisture from the surrounding atmosphere, which directly leads to catastrophic weld defects such as hydrogen-induced cracking, porosity, and poor fusion.\n\nOur Rod Ovens eliminate this risk by maintaining welding electrodes at precisely controlled, elevated temperatures (capable of reaching up to 600°C). Built for extreme durability on demanding job sites, the oven features a heavy-duty Stainless Steel or Powder-Coated body packed with high-temperature thermal insulation for maximum energy efficiency. Operators can precisely control the internal temperature via an Adjustable Thermostat or an advanced Digital PID Controller, while built-in Overheat Protection guarantees safe, continuous operation.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_3.jpg",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4235,7 +4235,7 @@
               "title": "Flux Heating Oven",
               "shortDesc": "The Flux Heating Oven is a top-loading, hopper-style electric oven designed specifically for rebaking granulated submerged arc welding flux. It ensures flux remains completely moisture-free for flawless, high-integrity welds.",
               "fullDesc": "Flux Heating Oven is a heavy-duty, floor-mounted, hopper-style electric oven engineered specifically for the critical task of drying, rebaking, and holding granulated submerged arc welding flux. When welding flux absorbs moisture from the atmosphere, it introduces hydrogen into the weld pool, causing severe structural defects. Our Flux Ovens eliminate this risk by maintaining the flux at highly precise temperatures ranging from ambient up to 400°C.\n\nDesigned for maximum operational efficiency on the factory floor, the oven features a top-loading mechanism for easy filling and a bottom outlet valve designed to dispense flux smoothly and completely without clogging. To prevent localized burning or thermal degradation of the flux, the internal chamber is expertly engineered so that there is absolutely no direct contact between the flux and the internal electrical heaters. The usable inner chamber is constructed from high-grade SS 304 material to prevent any contamination of the flux material.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_4.jpg",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4283,7 +4283,7 @@
               "title": "Tray Dryer Oven",
               "shortDesc": "The Tray Dryer Oven is a heavy-duty conventional drying system that utilizes forced convection to circulate hot air over multiple loaded trays. It is widely used in the pharmaceutical, chemical, and food industries for drying powders and granules.",
               "fullDesc": "Tray Dryer Oven is a heavy-duty, conventional drying system engineered for maximum efficiency in pharmaceutical, chemical, food processing, and textile manufacturing. Operating on the principle of forced convection, a high-efficiency heavy-duty blower evenly circulates hot air over multiple loaded trays, guaranteeing completely uniform drying of wet products such as powders, granules, and herbal extracts.\n\nConstructed for maximum thermal retention, the double-walled body is fabricated from CRCA Sheet steel, with the gap tightly packed with glass wool insulation to completely eliminate heat loss. The interior is coated with Heat Resistant Aluminum Paint (or pharmaceutical-grade SS304/SS316 polished finishes) to easily withstand long-duration industrial heating cycles. Tubular air heaters are strategically placed in the moving air path and safely interlocked with the blower. A microprocessor-based PID control panel provides highly precise thermal management.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_5.jpg",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4359,7 +4359,7 @@
               "title": "LABORATORY OVEN",
               "shortDesc": "The Laboratory Oven is a high-precision thermal processing unit designed for scientific, medical, and industrial laboratories. Engineered for uniform temperature distribution, it delivers highly reliable performance for heating, drying, and sterilizing.",
               "fullDesc": "Laboratory Oven is a highly advanced thermal processing unit engineered specifically to meet the stringent demands of scientific, medical, and industrial laboratories. Whether you are performing high-precision heating, biological culture drying, equipment sterilization, or rigorous thermal materials testing, our ovens are designed to provide absolute temperature uniformity and reliable thermal performance across a wide range of critical applications.\n\nManufactured using a powder-coated mild steel or stainless steel exterior, the internal chamber is fabricated from premium SS304 or SS316 stainless steel to prevent contamination and corrosion. The chamber is heavily insulated with high-grade glass wool or ceramic fiber to maximize energy efficiency. Operators can easily manage thermal cycles using the highly accurate Digital PID Temperature Controller, which regulates either natural convection or forced air circulation systems depending on the model. Every unit comes standard with critical safety features including over-temperature protection, door sensor interlocks, and alarm systems.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_6.jpg",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4447,7 +4447,7 @@
               "title": "FLUX / ELECTRODE DRYING OVEN",
               "shortDesc": "The Flux / Electrode Drying Oven is a specialized industrial heating system designed to bake, dry, and recondition welding flux and electrodes. It strictly prevents moisture absorption, ensuring compliance with AWS and ASME welding standards.",
               "fullDesc": "Flux / Electrode Drying Oven is a highly specialized industrial thermal processing unit engineered for the critical task of baking, drying, and reconditioning welding flux and electrodes prior to use. Welding flux is highly hygroscopic; if it absorbs atmospheric moisture, it directly introduces hydrogen into the weld pool, causing severe defects such as porosity, hydrogen-induced cracking, and ultimate weld failure. Our drying ovens strictly eliminate this risk.\n\nDesigned for heavy-duty industrial applications, these ovens feature customizable heating ranges from 50°C to 600°C. The internal chamber is meticulously heated via specially designed, large-surface-area Stainless Steel Tubular, Fin, or Nichrome Wire heaters to prevent any localized burnout. To ensure absolute thermal uniformity, forced air circulation is driven by heavy-duty axial flow or centrifugal blowers, with customizable cross-flow or vertical airflow systems based on the specific product load.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_7.jpg",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4515,7 +4515,7 @@
               "title": "DRYING OVEN",
               "shortDesc": "The Industrial Drying Oven is a highly efficient thermal processing unit designed to safely remove moisture from materials without degrading them. Available in multiple configurations, it ensures perfectly uniform drying for diverse applications.",
               "fullDesc": "Industrial Drying Ovens are highly versatile, precision thermal processing units explicitly engineered to safely and efficiently remove moisture from objects and materials without degrading or 'cooking' them. Whether used for industrial equipment sterilization, heavy-duty dehydration of food processing materials, or drying sensitive components in a manufacturing setting, our drying ovens deliver uncompromising thermal stability.\n\nBuilt with premium energy-efficient insulation and heavy-duty heating elements, these ovens drastically reduce power consumption while maintaining strict temperature uniformity across the entire chamber. Our drying ovens are manufactured in a wide range of sizes and custom configurations to meet the specific throughput requirements of any facility. Compliant with international laboratory and industrial safety standards, they provide a completely safe, highly durable, and easily maintainable thermal drying solution.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_8.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4575,7 +4575,7 @@
               "title": "PORTABLE ELECTRODE OVEN",
               "shortDesc": "The Portable Electrode Oven is a lightweight, easy-to-carry thermal device designed to protect stick electrodes from atmospheric moisture during transfer from holding ovens to active welding jobs.",
               "fullDesc": "Portable Electrode Drying Ovens are essential, lightweight thermal transport units designed to completely protect stick welding electrodes from absorbing atmospheric moisture during transit. While large holding ovens keep electrodes perfectly dry in the storage room, carrying them directly to the active welding site exposes them to humidity, which can instantly compromise weld integrity and cause severe hydrogen-induced cracking.\n\nFabricated using superior quality raw materials, our portable ovens meet rigorous international quality norms. Extremely light (weighing just 3kg) and ergonomically designed to be easily carried by hand across demanding job sites, these ovens allow welders to safely transfer standard 450mm electrodes directly to the workpiece. The internal chamber is meticulously maintained via an adjustable thermostat or digital controller (50°C to 300°C), ensuring the electrodes remain perfectly dry right up until the moment they strike the arc.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/oven_9.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4612,7 +4612,7 @@
           "type": "folder",
           "title": "Electrical Furnace",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/furnance_cover_image.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -4622,7 +4622,7 @@
               "title": "MUFFLE FURNACE (1700°C)",
               "shortDesc": "The 1700°C Muffle Furnace is a high-temperature thermal processing unit featuring an isolated ceramic chamber. It completely separates heating elements from the product, ensuring absolute purity and zero contamination during processing.",
               "fullDesc": "1700°C Muffle Furnace is an advanced, ultra-high-temperature thermal processing unit engineered for applications requiring absolute purity and precision. Operating at extreme temperatures, this furnace features a specialized 'muffle' design—a highly insulated internal ceramic or refractory chamber that physically separates the heating elements from the material being processed. This critical design prevents any contamination from combustion byproducts, gases, or soot, making it the ultimate solution for highly sensitive materials testing and processing.\n\nEncased in a heavy-duty metal housing, the chamber is surrounded by advanced heating elements and backed by state-of-the-art thermal insulation to resist extreme thermal shock and maximize energy efficiency. The furnace is driven by an advanced programmable digital controller, allowing operators to set precise temperature profiles, ramp rates, and dwell times for repeatable, highly accurate results. Built-in safety mechanisms, including over-temperature protection and automated shut-offs, guarantee safe operation even at peak temperatures.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/furnance_1.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4682,7 +4682,7 @@
               "title": "Lab Furnace",
               "shortDesc": "The Lab Furnace (Laboratory Muffle Furnace) is a high-temperature heating device engineered for precise analytical chemistry, metallurgy, and R&D. It provides exceptional temperature control and uniform heat distribution up to 1800°C.",
               "fullDesc": "Lab Furnace (also widely known as a Laboratory Muffle Furnace) is a highly specialized, high-temperature thermal processing device engineered specifically for advanced laboratory applications. Designed to meet the strict demands of analytical chemistry, metallurgy, ceramics, and advanced research and development (R&D), these furnaces provide exceptionally precise temperature control and absolute uniform heat distribution.\n\nAvailable in highly customizable configurations—including box-type, tube-type, and chamber-type designs—our lab furnaces can seamlessly integrate into any demanding testing environment. Depending on the specific processing requirements, they are engineered to reliably operate across a vast temperature spectrum, typically ranging from 100°C up to 1800°C. Whether utilized for delicate ashing processes, high-temperature sintering, or rigorous materials testing, these units deliver consistent, reproducible, and highly accurate thermal results.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/furnance_2.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4746,7 +4746,7 @@
               "title": "AMMONIA CRACKING FURNACE (TEMPERATURE UPTO 1150°C)",
               "shortDesc": "The Ammonia Cracking Furnace is a specialized industrial system that thermally decomposes ammonia into high-purity hydrogen and nitrogen. Operating up to 1150°C, it provides a safe, on-site hydrogen generation solution for heavy industry.",
               "fullDesc": "Ammonia Cracking Furnace is a highly specialized industrial thermal system explicitly designed to thermally decompose (crack) ammonia (NH₃) into its constituent elements: nitrogen (N₂) and hydrogen (H₂). The endothermic dissociation process occurs at extreme temperatures up to 1150°C in the presence of advanced nickel, iron, or ruthenium-based catalysts. This highly efficient reaction produces a consistent, high-yield gas mixture that is approximately 75% hydrogen and 25% nitrogen by volume.\n\nAs global industries push for rapid decarbonization, ammonia serves as an incredibly stable, high-density hydrogen carrier. Our cracking furnaces eliminate the immense logistical and safety hazards of transporting and storing highly flammable liquid hydrogen. By generating high-purity hydrogen directly on-site, these furnaces are the ultimate solution for large-scale metallurgical processing, chemical manufacturing, and advanced hydrogen fuel-cell power generation. The system is engineered with integrated heat recovery systems to maximize thermal energy efficiency.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/furnance_3.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4802,7 +4802,7 @@
               "title": "PIT FURNACE (TEMPERATURE UPTO 1100°C)",
               "shortDesc": "The Pit Furnace is a highly efficient, vertically oriented cylindrical heating system used for processing large, heavy, or elongated workpieces. It provides precise heat treatment up to 1100°C for annealing, carburizing, and nitriding.",
               "fullDesc": "Pit Furnace is an advanced, vertically oriented cylindrical thermal processing unit designed to handle large, heavy, and elongated industrial workpieces. Specifically engineered to be installed below ground level or in a pit, this furnace maximizes floor space while making it easy for overhead cranes and hoists to load and unload massive components. It is the premier choice for heavy-duty annealing, tempering, carburizing, nitriding, and hardening processes that critically enhance the mechanical properties of metals and alloys.\n\nThe furnace chamber is heavily insulated with premium refractory materials and features a specialized cylindrical design that ensures completely uniform heat distribution around the workpiece. It is equipped with advanced atmospheric control systems to introduce precise mixtures of nitrogen, argon, or carburizing gases, preventing oxidation and enabling highly specialized surface treatments. With capable temperatures reaching up to 1100°C, our Pit Furnaces deliver unparalleled structural heat treatment for heavy industry.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/furnance_4.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4862,7 +4862,7 @@
               "title": "Heat Treatment Furnace Temperature upto 1000°C",
               "shortDesc": "The 1000°C Heat Treatment Furnace is a heavy-duty industrial system designed to alter the mechanical properties of metals and alloys. It provides precise temperature control and atmospheric management for annealing, hardening, and tempering.",
               "fullDesc": "Heat Treatment Furnace is a highly advanced industrial thermal processing system engineered to precisely alter the physical and mechanical properties of metals, alloys, and composites. Essential for heavy industrial manufacturing, this furnace is utilized for critical heat treatment processes including annealing, hardening, tempering, normalizing, and carburizing. By strictly controlling both heating and cooling rates, our furnaces dramatically improve the hardness, ductility, and overall fatigue resistance of heavy-duty industrial components.\n\nThe furnace chamber is heavily insulated with premium refractory materials to withstand sustained high temperatures up to 1000°C (with custom options available up to 1400°C). Heating is driven by high-efficiency electric resistance heaters, gas burners, or induction coils. The system features advanced atmospheric control to introduce precise mixtures of nitrogen, argon, or carburizing gases—preventing unwanted oxidation while facilitating targeted chemical surface treatments. Coupled with managed cooling and quenching systems, it delivers uncompromising thermal precision.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/furnance_5.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4922,7 +4922,7 @@
               "title": "TUBE FURNACE (TEMPERATURE UPTO 1200°C)",
               "shortDesc": "The 1200°C Tube Furnace is an advanced thermal processing unit featuring a central quartz or alumina heating tube. It provides highly precise temperature and atmospheric control, ideal for materials synthesis and chemical vapor deposition.",
               "fullDesc": "1200°C Tube Furnace is a highly specialized electric thermal processing system engineered around a central cylindrical heating chamber (typically constructed from high-purity ceramic, alumina, or quartz). Designed for both advanced industrial research and precision manufacturing, this furnace allows operators to heat sensitive materials to extreme temperatures while maintaining absolute control over the internal processing atmosphere.\n\nBy utilizing integrated gas inlets and outlets, operators can easily introduce inert gases (such as Nitrogen or Argon), reactive gases, or create complete vacuum conditions. This strictly prevents sample oxidation or contamination during heating. The central tube is surrounded by heavy-duty electric resistance heaters (such as Kanthal or silicon carbide) and backed by premium refractory insulation to ensure completely uniform heating across the central 'hot zone'. A sophisticated digital control system allows for complex programmable heating profiles, making it essential for processes like chemical vapor deposition (CVD), nanomaterial synthesis, and pyrolysis.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/furnance_6.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -4986,7 +4986,7 @@
               "title": "Custom Built Vacuum Furnace (Temperature upto 1200°C)",
               "shortDesc": "The Custom Built Vacuum Furnace is a high-performance thermal processing system that heats materials in a controlled low-pressure environment up to 1200°C, completely preventing oxidation during annealing, brazing, and sintering.",
               "fullDesc": "Custom Built Vacuum Furnace is a specialized, high-performance industrial thermal processing unit designed to heat advanced materials in a highly controlled, low-pressure environment. By utilizing heavy-duty mechanical or diffusion pumps to completely evacuate air and other gases from the processing chamber, these furnaces completely prevent oxidation, scaling, and undesirable chemical reactions. Operating at extreme temperatures (customarily up to 1200°C), they are essential for processing high-performance materials like titanium, superalloys, and advanced stainless steels.\n\nThe robust stainless-steel vacuum chamber houses highly uniform heating elements (such as graphite, molybdenum, or tungsten). The system is coupled with an advanced Inert Gas Quenching system (Nitrogen/Argon) to strictly control cooling profiles and achieve exact material properties. Our vacuum furnaces guarantee exceptionally clean processing, vastly improved mechanical properties, and flawless surface finishes for critical aerospace, medical, and additive manufacturing components.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/furnance_7.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -5050,7 +5050,7 @@
       "type": "folder",
       "title": "Pressure Gauges & Transmitters ",
       "description": "Bourdon Type, Industrial Heavy Duty Pressure Gauge (IPG/BPG), Test Gauges / Master Pressure Gauge, Electric Contact Pressure Gauge, Economical Industrial Pressure Gauge, Safety Pressure Gauge, Utility Commercial Pressure Gauge, Diaphragm Operated Type, Schaffer Diaphragm Pressure Gauge, Compact Seal Pressure Gauge, Diaphragm Seal Pressure Gauge, Sanitary Pressure Gauge, Homogenizer Pressure Gauge, Capsule Operated, Compact Capsule Pressure Gauge, Chemical Seal, Compact Diaphragm Sealed (CDS),Maximum Reading Pointer Pressure Gauge (MRP), Electronic Pressure Gauges, Pressure Transmitter (PT), Digital Pressure Gauge",
-      "folderCover": "/images/products/photos/pressure_measurement_cover_v4.jpg",
+      "folderCover": "/images/products/photos/pressure measurement cover new.png",
       "imageClassName": "",
       "subFolders": [
         {
@@ -5058,7 +5058,7 @@
           "type": "folder",
           "title": "Bourdon Type",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/Bourdon Type.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -5068,7 +5068,7 @@
               "title": "INDUSTRIAL HEAVY DUTY PRESSURE GAUGE (IPG/ BPG)",
               "shortDesc": "The Heavy Duty Industrial Pressure Gauge (Bourdon Type) is engineered for demanding industrial environments. Featuring a weather-proof SS304 case and advanced blowout protection, it delivers highly accurate readings up to 2100 kg/cm².",
               "fullDesc": "The Industrial Heavy Duty Pressure Gauge (IPG/BPG) by Brinda Industries (LA Pressure Gauges) is a premier Bourdon-tube mechanical pressure instrument specifically designed for rigorous, high-stress industrial applications. Engineered for exceptional durability and precision, these gauges feature a heavy-duty Stainless Steel 304 weather-proof case (rated up to IP-65 with liquid filling) that protects the internal mechanisms from harsh environmental conditions, heavy vibration, and extreme industrial pulsation.\n\nThe core measuring system utilizes a robust SS316 or Brass Bourdon tube and socket, ensuring highly accurate pressure readings with 1% Full Scale Deflection. For maximum operational safety in high-pressure environments, the gauge is equipped with a built-in blow-off disc and engineered to safely withstand over-range pressures up to 30% above the maximum scale (capable of measuring up to 2100 kg/cm²). Available with optional liquid filling, these heavy-duty gauges provide unwavering performance across a wide array of dynamic industrial processes.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/pressure gauge.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -5144,7 +5144,7 @@
               "title": "ELECTRIC CONTACT PRESSURE GAUGE",
               "shortDesc": "The Electric Contact Pressure Gauge combines reliable Bourdon tube measurement with integrated electrical switch contacts. It is designed to automatically make or break control circuits based on pointer position for dynamic process automation.",
               "fullDesc": "The Electric Contact Pressure Gauge by Brinda Industries (LA Pressure Gauges) bridges the gap between mechanical pressure indication and electrical process control. Operating on a robust Bourdon tube mechanism, this gauge features integrated electrical switch contacts that automatically make or break a control circuit based on the exact position of the indicating pointer. Because these contacts are fully adjustable over the entire pressure range, operators can set highly precise trigger points to activate alarms, automated pumps, or safety shutdown systems directly from the gauge.\n\nDesigned for severe industrial working conditions, the gauge features a heavy-duty SS304 weather-proof case. For applications involving rapid pressure changes, heavy vibration, or intense mechanical pulsation, the case is available with liquid filling (IP-65) to drastically extend the lifespan of both the movement and the sensitive contact switches. Capable of handling extreme pressures up to 2100 kg/cm² with 1% FSD accuracy, this instrument is essential for automated safety and process control in heavy industry.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/pressure electrical type.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -5224,7 +5224,7 @@
               "title": "MAXIMUM READING POINTER PRESSURE GAUGE (MRP)",
               "shortDesc": "The Maximum Reading Pointer Pressure Gauge (MRP) features a secondary drag pointer that continuously records the highest pressure reached during operation. Built on a heavy-duty SS304 platform, it tracks pressure spikes up to 2100 kg/cm².",
               "fullDesc": "The Maximum Reading Pointer Pressure Gauge (MRP) by Brinda Industries (LA Pressure Gauges) is a specialized mechanical instrument designed to record and physically display the highest pressure spike achieved during any operational cycle. It features a primary indicating pointer along with a secondary \"drag pointer.\" As system pressure increases, the primary pointer physically pushes the drag pointer up the scale. When pressure drops, the drag pointer remains locked at the absolute maximum value recorded, allowing operators to easily monitor system pressure spikes, surges, and historical maximums without requiring continuous digital logging.\n\nBuilt strictly on the foundation of our Heavy Duty Industrial Pressure Gauge series, the MRP gauge features a rugged Stainless Steel 304 weather-proof case (IP-55/56, upgradable to IP-65) and a highly accurate SS316 or Brass Bourdon tube. Capable of accurately tracking extreme pressures up to 2100 kg/cm² with 1% FSD accuracy, it is widely utilized across the chemical, petrochemical, and heavy machinery industries for crucial safety and operational monitoring.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/pressure maximum gauge.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -5301,7 +5301,7 @@
           "type": "folder",
           "title": "Diaphragm Operated Type",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/diaphragm pressure gauge cover.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -5311,7 +5311,7 @@
               "title": "SCHAEFER DIAPHRAGM PRESSURE GAUGE",
               "shortDesc": "The Schaffer Diaphragm Pressure Gauge is engineered for measuring extremely low pressures of air and gases containing solid particles. It provides highly accurate readings for ranges from 100 mmWC to 10,000 mmWC.",
               "fullDesc": "The Schaffer Diaphragm Pressure Gauge by Brinda Industries (LA Pressure Gauges) is a specialized mechanical pressure instrument engineered specifically for measuring low-pressure air, gases, and liquids containing suspended solid particles. Unlike standard Bourdon tubes which can easily clog, this gauge utilizes a robust circular diaphragm clamped securely between a pair of heavy-duty flanges. When pressure is applied, the physical displacement of the diaphragm is directly transferred via a precision mechanical link to the movement, ensuring highly accurate readings even with sludgy or particulate-heavy media.\n\nBuilt for demanding environments, the gauge features a weather-proof SS304 case (IP-55/56 rating, upgradable to IP-65) and a highly corrosion-resistant SS316L diaphragm. This rugged construction provides a built-in over-range protection of 1.3 times the maximum scale. It is the ideal measurement solution for low-pressure ranges spanning from 100 mmWC up to 10,000 mmWC, making it indispensable for liquid level measurement, fuel pumps, and heavy sludge pump monitoring.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/SCHAEFER DIAPHRAGM PRESSURE GAUGE.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -5383,7 +5383,7 @@
               "title": "Compact Capsule Pressure Gauge",
               "shortDesc": "The Compact Capsule Pressure Gauge replaces bulky manometers for precise, low-pressure air and gas measurement. Featuring dual laser-welded SS316L diaphragms, it achieves ±1.6% accuracy from 100 mmWC to 10,000 mmWC.",
               "fullDesc": "The Compact Capsule Pressure Gauge (CPG) by Brinda Industries (LA Pressure Gauges) is a highly specialized mechanical instrument engineered specifically for accurate, low-pressure measurement of air and gases. Designed as a modern, space-saving alternative to bulky traditional liquid manometers, this gauge provides exceptional sensitivity without sacrificing heavy industrial durability. The core sensing element consists of a precision capsule made from two laser-welded Stainless Steel (SS316L or Brass) diaphragms housed entirely within the gauge case.\n\nWhen low pressure enters the system, the capsule expands precisely, translating micro-pressure changes into highly accurate dial readings (±1.6% accuracy). Built with all-SS internals and a robust SS304 or drawn steel case, the gauge offers built-in over-range protection (safely withstanding 1.3 times the maximum scale). Protected against environmental factors with an IP-55/65 rating, it is widely utilized across the chemical and petrochemical sectors for critical low-pressure air and gas monitoring.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/Compact seal pressure gauge.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -5460,7 +5460,7 @@
           "type": "folder",
           "title": "Capsule Operated Type",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/compact capsule.png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -5470,7 +5470,7 @@
               "title": "COMPACT CAPSULE PRESSURE GAUGE (CPG)",
               "shortDesc": "The Compact Capsule Pressure Gauge replaces bulky manometers for precise, low-pressure air and gas measurement. Featuring dual laser-welded SS316L diaphragms, it achieves ±1.6% accuracy from 100 mmWC to 10,000 mmWC.",
               "fullDesc": "The Compact Capsule Pressure Gauge (CPG) by Brinda Industries (LA Pressure Gauges) is a highly specialized mechanical instrument engineered specifically for accurate, low-pressure measurement of air and gases. Designed as a modern, space-saving alternative to bulky traditional liquid manometers, this gauge provides exceptional sensitivity without sacrificing heavy industrial durability. The core sensing element consists of a precision capsule made from two laser-welded Stainless Steel (SS316L or Brass) diaphragms housed entirely within the gauge case.\n\nWhen low pressure enters the system, the capsule expands precisely, translating micro-pressure changes into highly accurate dial readings (±1.6% accuracy). Built with all-SS internals and a robust SS304 or drawn steel case, the gauge offers built-in over-range protection (safely withstanding 1.3 times the maximum scale). Protected against environmental factors with an IP-55/65 rating, it is widely utilized across the chemical and petrochemical sectors for critical low-pressure air and gas monitoring.",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/compact capsule.png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -5527,7 +5527,7 @@
           "type": "folder",
           "title": "Chemical Seal",
           "description": "",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/COMPACT DIAPHRAGM SEALED (CDS).png",
           "imageClassName": "",
           "subFolders": [],
           "products": [
@@ -5537,7 +5537,7 @@
               "title": "COMPACT DIAPHRAGM SEALED (CDS)",
               "shortDesc": "The Compact Diaphragm Seal isolator protects sensitive gauge internals from corrosive, highly viscous, and high-temperature process media up to 600 kg/cm². Featuring all-stainless-steel construction and a TIG-welded diaphragm.",
               "fullDesc": "The Compact Diaphragm Sealed (CDS) unit by Brinda Industries (LA Pressure Gauges) is a specialized chemical seal designed to completely isolate the sensitive internal measuring elements of pressure gauges and pressure switches from harsh process fluids. It is the premier protective solution for applications involving highly corrosive media, extremely viscous fluids, sludges, sedimentation, or exceptionally high-temperature processes that would otherwise severely damage standard Bourdon tubes or capsule mechanisms.\n\nThe core of the CDS unit is an AISI 316 SS diaphragm that is precision TIG Argon Arc welded directly to the heavy-duty AISI 304 SS body. This permanent, seamless weld ensures absolute physical separation between the process medium and the internal transmitting fluid (Silicon Oil DC-200), entirely preventing cross-contamination or pressure leakages. Engineered as a highly compact, space-saving isolation solution, the CDS supports dynamic pressure ranges extending from -1 up to 600 kg/cm² and continuous process temperatures up to 200°C.\n\nIsolation of delicate gauges from highly corrosive chemical fluids\nAccurate pressure measurement of highly viscous fluids and heavy sludges\nIndustrial processes involving high particulate sedimentation\nHigh-temperature fluid processing pipelines and thermal vessels\nSanitary and contamination-free pharmaceutical processing setups",
-              "imagePath": "/images/products/photos/no-image.png",
+              "imagePath": "/images/products/photos/COMPACT DIAPHRAGM SEALED (CDS).png",
               "imageClassName": "",
               "pdfPath": "",
               "specs": [
@@ -5630,22 +5630,6 @@
               "value": "Sizes from 3mm to M30 | Sensing distances 0.6mm to 15mm | Flush/Non-flush"
             },
             {
-              "label": "SIES (Compact Block)",
-              "value": "Rectangular miniature design | Typical sensing distances 1.5mm to 2mm"
-            },
-            {
-              "label": "SIEH (High-Pressure)",
-              "value": "Stainless steel housing | Withstands continuous hydraulic pressure (up to 500 bar)"
-            },
-            {
-              "label": "SIEF (Factor 1 Series)",
-              "value": "Uniform sensing range for all metals | Inherently immune to magnetic welding fields"
-            },
-            {
-              "label": "Electrical Connections",
-              "value": "Open Cable, M8 Quick Disconnect Plug, or M12 Quick Disconnect Plug options"
-            },
-            {
               "label": "Enclosure Protection",
               "value": "IP65, IP67, and IP69K (Washdown ready depending on specific series)"
             },
@@ -5669,6 +5653,68 @@
       "date": "2026-06-29T12:58:15.326Z"
     }
   ],
-  "videos": [],
-  "certificates": []
+  "videos": [
+    {
+      "id": "1785048214881",
+      "title": "Smart Programmable Relays - PLC Logic System Overview - Phoenix Contact",
+      "youtubeId": "g3iPFiLnqYg",
+      "category": "PLC-Next technology",
+      "thumbnail": "https://img.youtube.com/vi/g3iPFiLnqYg/maxresdefault.jpg",
+      "thumbnailPath": "https://img.youtube.com/vi/g3iPFiLnqYg/maxresdefault.jpg"
+    },
+    {
+      "id": "1785048455332",
+      "title": "Turbine flow meter with battery operated counter",
+      "youtubeId": "2LFILqmhGOM",
+      "category": "",
+      "thumbnail": "https://img.youtube.com/vi/2LFILqmhGOM/hqdefault.jpg",
+      "thumbnailPath": "https://img.youtube.com/vi/2LFILqmhGOM/hqdefault.jpg"
+    },
+    {
+      "id": "1785048527615",
+      "title": "Phoenix Contact Relay Wiring Diagram | Phoenix Contact",
+      "youtubeId": "Y71F1J4FEi4",
+      "category": "Phoenix Contact",
+      "thumbnail": "https://img.youtube.com/vi/Y71F1J4FEi4/hqdefault.jpg",
+      "thumbnailPath": "https://img.youtube.com/vi/Y71F1J4FEi4/hqdefault.jpg"
+    }
+  ],
+  "galleryImages": [
+    {
+      "id": "g1",
+      "title": "Flow Meter Installation at Chemical Plant",
+      "category": "Installation",
+      "image": "/images/hero-bg.png"
+    },
+    {
+      "id": "g2",
+      "title": "Control Panel Assembly",
+      "category": "Manufacturing",
+      "image": "/images/facility.png"
+    },
+    {
+      "id": "g3",
+      "title": "Pressure Transmitter Calibration",
+      "category": "Calibration",
+      "image": "/images/hero-bg.png"
+    },
+    {
+      "id": "g4",
+      "title": "Plant Instrumentation Project",
+      "category": "Installation",
+      "image": "/images/facility.png"
+    },
+    {
+      "id": "g5",
+      "title": "Quality Testing Lab",
+      "category": "Quality",
+      "image": "/images/hero-bg.png"
+    },
+    {
+      "id": "g6",
+      "title": "Instrument Erection Work",
+      "category": "Installation",
+      "image": "/images/facility.png"
+    }
+  ]
 }

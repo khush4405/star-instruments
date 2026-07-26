@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Image from "next/image";
 import { Play } from "lucide-react";
 import fs from "fs";
 import path from "path";
@@ -43,37 +42,45 @@ export default async function VideosPage() {
       <section className="section-padding bg-eng-white">
         <div className="max-w-7xl mx-auto">
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {dynamicVideos.map((video) => (
-              <a
-                href={`https://www.youtube.com/watch?v=${video.youtubeId}`}
-                target="_blank"
-                rel="noopener noreferrer"
-                key={video.id}
-                className="group bg-white rounded-2xl border border-border/50 overflow-hidden card-hover block"
-              >
-                <div className="relative aspect-video">
-                  <Image
-                    src={video.thumbnailPath || '/images/placeholders/no-image.png'}
-                    alt={video.title}
-                    fill
-                    className="object-cover"
-                  />
-                  <div className="absolute inset-0 bg-navy/30 flex items-center justify-center group-hover:bg-navy/50 transition-colors">
-                    <div className="w-16 h-16 rounded-full bg-orange/90 flex items-center justify-center group-hover:scale-110 transition-transform shadow-xl">
-                      <Play size={28} className="text-white ml-1" />
+            {dynamicVideos.map((video) => {
+              const raw = String(video.youtubeId || '');
+              const match = raw.match(/^.*(youtu.be\/|v\/|u\/\w\/|embed\/|shorts\/|watch\?v=|\&v=)([^#\&\?]*).*/);
+              const cleanId = (match && match[2] && match[2].length === 11) ? match[2] : raw;
+              const thumbUrl = video.thumbnail || video.thumbnailPath || (cleanId ? `https://img.youtube.com/vi/${cleanId}/hqdefault.jpg` : '/images/placeholders/no-image.png');
+
+              return (
+                <a
+                  href={`https://www.youtube.com/watch?v=${cleanId}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  key={video.id}
+                  className="group bg-white rounded-2xl border border-border/50 overflow-hidden card-hover block"
+                >
+                  <div className="relative aspect-video bg-slate-900">
+                    <img
+                      src={thumbUrl}
+                      alt={video.title}
+                      className="w-full h-full object-cover"
+                    />
+                    <div className="absolute inset-0 bg-navy/30 flex items-center justify-center group-hover:bg-navy/50 transition-colors">
+                      <div className="w-16 h-16 rounded-full bg-orange/90 flex items-center justify-center group-hover:scale-110 transition-transform shadow-xl">
+                        <Play size={28} className="text-white ml-1" />
+                      </div>
                     </div>
                   </div>
-                </div>
-                <div className="p-5">
-                  <h3 className="text-navy font-bold text-sm mb-2 group-hover:text-orange transition-colors">
-                    {video.title}
-                  </h3>
-                  <p className="text-slate-muted text-xs leading-relaxed line-clamp-2">
-                    {video.description}
-                  </p>
-                </div>
-              </a>
-            ))}
+                  <div className="p-5">
+                    <h3 className="text-navy font-bold text-sm mb-2 group-hover:text-orange transition-colors">
+                      {video.title}
+                    </h3>
+                    {video.description && (
+                      <p className="text-slate-muted text-xs leading-relaxed line-clamp-2">
+                        {video.description}
+                      </p>
+                    )}
+                  </div>
+                </a>
+              );
+            })}
           </div>
         </div>
       </section>

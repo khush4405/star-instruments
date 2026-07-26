@@ -50,15 +50,16 @@ export interface Video {
 
 // ── Client Logos ──
 export const clients: ClientLogo[] = [
-  { id: "c1", name: "Adani Group", image: "/images/clients/client-1.svg" },
-  { id: "c2", name: "Reliance Industries", image: "/images/clients/client-2.svg" },
-  { id: "c3", name: "ONGC", image: "/images/clients/client-3.svg" },
-  { id: "c4", name: "Indian Oil", image: "/images/clients/client-4.svg" },
-  { id: "c5", name: "NTPC", image: "/images/clients/client-5.svg" },
-  { id: "c6", name: "Tata Chemicals", image: "/images/clients/client-6.svg" },
-  { id: "c7", name: "GAIL India", image: "/images/clients/client-7.svg" },
-  { id: "c8", name: "Gujarat Alkalis", image: "/images/clients/client-8.svg" },
-  { id: "c9", name: "Deepak Nitrite", image: "/images/clients/client-9.svg" },
+  { id: "c1", name: "Adani Group", image: "/images/logo/unnamed.jpg" },
+  { id: "c2", name: "Aarti Industries", image: "/images/logo/aarti industries.jpg" },
+  { id: "c3", name: "ONGC", image: "/images/logo/ONGC_Logo.svg" },
+  { id: "c4", name: "Cadila Pharmaceuticals", image: "/images/logo/cadila.jpg" },
+  { id: "c5", name: "NTPC", image: "/images/logo/National_Thermal_Power_logo.svg" },
+  { id: "c6", name: "Tata Chemicals", image: "/images/logo/tatachemicals.png" },
+  { id: "c7", name: "GAIL India", image: "/images/logo/GAIL.svg" },
+  { id: "c8", name: "Gujarat Alkalis", image: "/images/logo/gujarat-alkalies--600.png" },
+  { id: "c9", name: "Deepak Nitrite", image: "/images/logo/deepak nitrate.png" },
+  { id: "c10", name: "Meghmani Organics", image: "/images/logo/meghmani organics.png" },
 ];
 
 // ── Gallery Images ──
@@ -117,7 +118,7 @@ export const companyInfo = {
     yearsExperience: 25,
     installationsCompleted: 500,
     factoryTested: 100,
-    clientsSatisfied: 200,
+    clientsSatisfied: 500,
   },
 };
 

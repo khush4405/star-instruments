@@ -63,7 +63,7 @@ export default function ClientsCarousel() {
                   alt={client.name}
                   width={200}
                   height={80}
-                  className="object-contain grayscale opacity-60 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-500"
+                  className="object-contain transition-all duration-500 group-hover:scale-105"
                 />
               </div>
             ))}

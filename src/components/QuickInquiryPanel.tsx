@@ -6,6 +6,8 @@ import { Send, X, FileText, CheckCircle } from "lucide-react";
 export default function QuickInquiryPanel({ navCategories = [] }: { navCategories?: any[] }) {
   const [isOpen, setIsOpen] = useState(false);
   const [submitted, setSubmitted] = useState(false);
+  const [loading, setLoading] = useState(false);
+  const [errorMessage, setErrorMessage] = useState("");
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -15,23 +17,45 @@ export default function QuickInquiryPanel({ navCategories = [] }: { navCategorie
     message: "",
   });
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // In production, submit to Firebase
-    console.log("Inquiry submitted:", formData);
-    setSubmitted(true);
-    setTimeout(() => {
-      setSubmitted(false);
-      setIsOpen(false);
-      setFormData({
-        name: "",
-        email: "",
-        phone: "",
-        location: "",
-        productInterest: "",
-        message: "",
+    setLoading(true);
+    setErrorMessage("");
+
+    try {
+      const res = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          ...formData,
+          source: "quick_inquiry",
+        }),
       });
-    }, 3000);
+
+      const result = await res.json();
+
+      if (!res.ok) {
+        throw new Error(result.error || "Failed to submit inquiry.");
+      }
+
+      setSubmitted(true);
+      setTimeout(() => {
+        setSubmitted(false);
+        setIsOpen(false);
+        setFormData({
+          name: "",
+          email: "",
+          phone: "",
+          location: "",
+          productInterest: "",
+          message: "",
+        });
+      }, 3500);
+    } catch (err: any) {
+      setErrorMessage(err.message || "An unexpected error occurred.");
+    } finally {
+      setLoading(false);
+    }
   };
 
   return (
@@ -197,12 +221,25 @@ export default function QuickInquiryPanel({ navCategories = [] }: { navCategorie
                   />
                 </div>
 
+                {errorMessage && (
+                  <div className="p-3 rounded-xl bg-red-50 text-red-600 border border-red-200 text-xs leading-relaxed">
+                    {errorMessage}
+                  </div>
+                )}
+
                 <button
                   type="submit"
-                  className="w-full flex items-center justify-center gap-2 px-6 py-3 bg-orange hover:bg-orange-hover text-white font-semibold rounded-xl transition-all hover:shadow-lg hover:shadow-orange/20 active:scale-[0.98] text-sm"
+                  disabled={loading}
+                  className="w-full flex items-center justify-center gap-2 px-6 py-3 bg-orange hover:bg-orange-hover text-white font-semibold rounded-xl transition-all hover:shadow-lg hover:shadow-orange/20 active:scale-[0.98] text-sm disabled:opacity-50 disabled:cursor-not-allowed"
                 >
-                  <Send size={16} />
-                  Submit Inquiry
+                  {loading ? (
+                    <div className="w-5 h-5 border-2 border-white border-t-transparent rounded-full animate-spin" />
+                  ) : (
+                    <>
+                      <Send size={16} />
+                      Submit Inquiry
+                    </>
+                  )}
                 </button>
 
                 <p className="text-[10px] text-slate-muted text-center leading-relaxed">

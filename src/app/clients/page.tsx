@@ -39,7 +39,7 @@ export default function ClientsPage() {
                   alt={client.name}
                   width={180}
                   height={70}
-                  className="object-contain grayscale group-hover:grayscale-0 opacity-70 group-hover:opacity-100 transition-all duration-500"
+                  className="object-contain transition-all duration-500 group-hover:scale-105"
                 />
                 <span className="text-slate-muted text-xs font-medium group-hover:text-navy transition-colors text-center">
                   {client.name}
@@ -54,7 +54,7 @@ export default function ClientsPage() {
               And Many More...
             </h3>
             <p className="text-slate-muted text-sm max-w-lg mx-auto leading-relaxed">
-              Over 200+ clients across pharma, chemical, oil & gas, textiles,
+              Over 500+ clients across pharma, chemical, oil & gas, textiles,
               water treatment, and power generation industries trust Star
               Instrument Engineers for their process instrumentation needs.
             </p>

@@ -14,19 +14,21 @@ export default function ProductCard({
       className="group glass-card rounded-2xl overflow-hidden card-hover orange-underline-hover"
     >
       {/* Image Area */}
-      <div className="relative h-44 bg-gradient-to-br from-eng-white to-white flex items-center justify-center overflow-hidden">
-        <Image
-          src={category.image}
-          alt={category.name}
-          fill
-          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
-          className={`object-cover group-hover:scale-105 transition-transform duration-500 ${(category as any).imageClassName || ''}`}
-        />
-        {/* Category badge */}
-        <div className="absolute top-3 right-3 px-2.5 py-1 bg-navy/80 backdrop-blur-sm rounded-lg">
-          <span className="text-[10px] text-white font-semibold uppercase tracking-wider">
-            {category.subcategories.length} Types
-          </span>
+      <div className="p-3 pb-0">
+        <div className="relative h-60 bg-gradient-to-br from-eng-white to-white flex items-center justify-center overflow-hidden rounded-2xl">
+          <Image
+            src={category.image}
+            alt={category.name}
+            fill
+            sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+            className={`object-cover group-hover:scale-105 transition-transform duration-500 ${(category as any).imageClassName || ''}`}
+          />
+          {/* Category badge */}
+          <div className="absolute top-3 right-3 px-2.5 py-1 bg-navy/80 backdrop-blur-sm rounded-lg">
+            <span className="text-[10px] text-white font-semibold uppercase tracking-wider">
+              {category.subcategories.length} Types
+            </span>
+          </div>
         </div>
       </div>
 
