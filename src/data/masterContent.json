@@ -111,7 +111,7 @@
       "id": "broil-sensotek-flow-measurement",
       "type": "folder",
       "title": "Flow Measurement",
-      "description": "Oval Gear Flow Meter, Vortex Flow Meter, Electromagnetic Flow Meter, Turbine Flow Meter, Helical Flow Meter, Swirl Flow Meter, Thermal Mass Flow Meter, Fuel Consumption Meter, Coriolis Mass Flow Meter, Flow Sensor, Digital Flow Meter",
+      "description": "Oval Gear Flow Meter, Vortex Flow Meter, Electromagnetic Flow Meter, Turbine Flow Meter, Helical Flow Meter, Swirl Flow Meter, Thermal Mass Flow Meter, Fuel Consumption Meter, Coriolis Mass Flow Meter, Flow Sensor, Digital Flow Meter, Flow Switches",
       "folderCover": "/images/products/photos/flow measurement cover new.png",
       "imageClassName": "scale-100",
       "subFolders": [
@@ -539,6 +539,113 @@
               ]
             }
           ]
+        },
+        {
+          "id": "flow-switches",
+          "type": "folder",
+          "title": "Flow Switches",
+          "description": "",
+          "folderCover": "/images/products/photos/flow-switch.png",
+          "imageClassName": "",
+          "subFolders": [],
+          "products": [
+            {
+              "id": "thermal-flow-switch",
+              "type": "product",
+              "title": "Thermal Flow Switch",
+              "shortDesc": "The Intelligent Thermal Flow Switch from Brotek Instruments provides precise flow monitoring for liquids, gases, and air. Using thermal dispersion technology, it delivers reliable switching, programmable settings, and maintenance-free operation for industrial automation systems.",
+              "fullDesc": "The Intelligent Thermal Flow Switch from Brotek Instruments is an advanced thermal dispersion flow monitoring device designed for accurate detection of liquids, gases, and air in industrial process applications. The instrument employs a probe containing a heating element and dual temperature sensors. During no-flow conditions, a constant temperature difference is maintained between the sensors. As fluid begins to flow, heat is carried away from the heated sensor, and the resulting temperature difference is continuously measured by a high-precision microprocessor. When the measured flow reaches the programmed set point, the switch changes its output state to provide reliable flow indication and process protection.\n\nDesigned as a universal mass flow switch, the instrument measures both liquid and gas flow with the same sensing principle, eliminating moving parts and reducing maintenance requirements. It features programmable settings for alarm value, high/low alarm selection, delay time, zero and span adjustment, and damping factor, allowing easy adaptation to different process conditions. The rugged aluminum enclosure, SS316L wetted parts, and IP66/Ex ia protection ensure dependable performance in harsh industrial environments.\n\nThe switch provides a 220 VAC relay output for direct integration with PLC, DCS, SCADA, and industrial automation systems. Supporting flow rates up to 3 m/s for liquids and 30 m/s for gases, it is widely used in HVAC systems, air compressors, refrigeration plants, laser cooling systems, water-cooled welding machines, vacuum coating equipment, electric furnaces, polysilicon production, and general industrial process control where reliable flow detection is essential.",
+              "imagePath": "/images/products/photos/flow-switch.png",
+              "imageClassName": "",
+              "pdfPath": "/Catalouge/flow-switch.pdf",
+              "specs": [
+                {
+                  "label": "Made By",
+                  "value": "Brotek Instruments"
+                },
+                {
+                  "label": "Model No.",
+                  "value": "BI-TFS"
+                },
+                {
+                  "label": "Measurement Principle",
+                  "value": "Thermal Dispersion Mass Flow Switch"
+                },
+                {
+                  "label": "Enclosure Material",
+                  "value": "Aluminum"
+                },
+                {
+                  "label": "Wetted Parts",
+                  "value": "SS316L"
+                },
+                {
+                  "label": "Flow Rate (Liquid)",
+                  "value": "0 to 3 m/s"
+                },
+                {
+                  "label": "Flow Rate (Gas)",
+                  "value": "0 to 30 m/s"
+                },
+                {
+                  "label": "Switch Delay",
+                  "value": "0 to 3 Seconds"
+                },
+                {
+                  "label": "Output",
+                  "value": "Relay, 220 VAC, 16 A"
+                },
+                {
+                  "label": "Power Supply",
+                  "value": "12–33 VDC (24 VDC Ideal)"
+                },
+                {
+                  "label": "Power Consumption",
+                  "value": "Less than 150 mA"
+                },
+                {
+                  "label": "Protection",
+                  "value": "IP66 / Ex ia"
+                },
+                {
+                  "label": "Pressure Limit",
+                  "value": "10 bar"
+                },
+                {
+                  "label": "Process Temperature",
+                  "value": "−40°C to +80°C"
+                },
+                {
+                  "label": "Programming",
+                  "value": "Keyboard Configuration (Alarm Value, High/Low Alarm, Delay Time, Zero, Span & Damping Factor)"
+                },
+                {
+                  "label": "Process Connection",
+                  "value": "Thread / Sanitary / Tri-Clamp / Flange / Welding Sleeve"
+                },
+                {
+                  "label": "Explosion Proof",
+                  "value": "Ex d IIC T6 Gb"
+                },
+                {
+                  "label": "Safety Certification",
+                  "value": "SIL-3"
+                },
+                {
+                  "label": "Preheat Time",
+                  "value": "Less than 3 Minutes"
+                },
+                {
+                  "label": "Response Time",
+                  "value": "Less than 5 Seconds"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "Better than 5%"
+                }
+              ]
+            }
+          ]
         }
       ],
       "products": [
@@ -823,6 +930,62 @@
           ]
         },
         {
+          "id": "plastic-helical-flow-sensor-meter",
+          "type": "product",
+          "title": "Plastic Helical Flow Sensor & Meter",
+          "shortDesc": "Industrial flow sensors and digital flow meters for precise liquid measurement with advanced display and outputs.",
+          "fullDesc": "The Flow Sensor and Digital Flow Meter from Broil Sensotek Industries is a versatile flow measurement solution designed for accurate monitoring and control of liquids in industrial automation, OEM equipment, and process applications. Available as both a flow sensor and a complete digital flow meter, the product combines precision sensing with advanced electronics to provide reliable flow measurement, local indication, and seamless integration with automation systems.\n\nThe flow sensor offers compact construction, fast response, and multiple output options for direct interfacing with PLC, DCS, and SCADA systems. The digital flow meter incorporates a large LCD/LED display capable of showing instantaneous flow, totalized flow, and batch values, with user-programmable configuration and battery-powered or externally powered operation. Multiple communication options including Pulse, 4–20 mA, RS-485, HART, and Relay outputs enable flexible installation across a wide range of industrial processes.\n\nDesigned using durable industrial materials, these instruments are suitable for water, diesel, oils, chemicals, cooling water, lubrication systems, HVAC, utility monitoring, machine tools, and process control. Their high accuracy, rugged construction, easy installation, and low maintenance make them ideal for demanding industrial environments requiring dependable flow monitoring.",
+          "imagePath": "/images/products/photos/water_flow_meter_digital.png",
+          "imageClassName": "",
+          "pdfPath": "/Catalouge/Plastic-Helical-Flow-Meter.pdf",
+          "specs": [
+            {
+              "label": "Made By",
+              "value": "Broil Sensotek Industries"
+            },
+            {
+              "label": "Product Type",
+              "value": "Liquid Flow Sensor / Digital Flow Meter"
+            },
+            {
+              "label": "Accuracy",
+              "value": "Up to ±0.5% (Flow Sensor); Up to ±0.2% (Digital Flow Meter), model dependent"
+            },
+            {
+              "label": "Available Sizes",
+              "value": "DN4 – DN100 (Flow Sensor); DN4 – DN500 (Digital Flow Meter)"
+            },
+            {
+              "label": "Output Signal",
+              "value": "Pulse, NPN/PNP, 4–20 mA, RS-485 (Flow Sensor); Pulse, 4–20 mA, RS-485, HART, Relay Output (Digital Flow Meter)"
+            },
+            {
+              "label": "Power Supply",
+              "value": "Battery Powered / External Power (Model Dependent)"
+            },
+            {
+              "label": "Display",
+              "value": "Large LCD/LED Display with Instantaneous, Totalized & Batch Flow Indication"
+            },
+            {
+              "label": "Communication",
+              "value": "PLC, DCS & SCADA Compatible"
+            },
+            {
+              "label": "Applications",
+              "value": "Water, Oil, Diesel, Chemicals, OEM Equipment, Cooling Water, Lubrication Systems, HVAC, Utility Monitoring"
+            },
+            {
+              "label": "Installation",
+              "value": "Compact Design, Easy Installation & Maintenance"
+            },
+            {
+              "label": "Construction",
+              "value": "Durable Industrial Design for Harsh Environments"
+            }
+          ]
+        },
+        {
           "id": "coriolis-mass-flow-meter",
           "type": "product",
           "title": "Coriolis Mass Flow Meter",
@@ -881,62 +1044,6 @@
               "value": "ATEX / IECEx / NEPSI / UL / CSA"
             }
           ]
-        },
-        {
-          "id": "plastic-helical-flow-sensor-meter",
-          "type": "product",
-          "title": "Plastic Helical Flow Sensor & Meter",
-          "shortDesc": "Industrial flow sensors and digital flow meters for precise liquid measurement with advanced display and outputs.",
-          "fullDesc": "The Flow Sensor and Digital Flow Meter from Broil Sensotek Industries is a versatile flow measurement solution designed for accurate monitoring and control of liquids in industrial automation, OEM equipment, and process applications. Available as both a flow sensor and a complete digital flow meter, the product combines precision sensing with advanced electronics to provide reliable flow measurement, local indication, and seamless integration with automation systems.\n\nThe flow sensor offers compact construction, fast response, and multiple output options for direct interfacing with PLC, DCS, and SCADA systems. The digital flow meter incorporates a large LCD/LED display capable of showing instantaneous flow, totalized flow, and batch values, with user-programmable configuration and battery-powered or externally powered operation. Multiple communication options including Pulse, 4–20 mA, RS-485, HART, and Relay outputs enable flexible installation across a wide range of industrial processes.\n\nDesigned using durable industrial materials, these instruments are suitable for water, diesel, oils, chemicals, cooling water, lubrication systems, HVAC, utility monitoring, machine tools, and process control. Their high accuracy, rugged construction, easy installation, and low maintenance make them ideal for demanding industrial environments requiring dependable flow monitoring.",
-          "imagePath": "/images/products/photos/water_flow_meter_digital.png",
-          "imageClassName": "",
-          "pdfPath": "/Catalouge/Plastic-Helical-Flow-Meter.pdf",
-          "specs": [
-            {
-              "label": "Made By",
-              "value": "Broil Sensotek Industries"
-            },
-            {
-              "label": "Product Type",
-              "value": "Liquid Flow Sensor / Digital Flow Meter"
-            },
-            {
-              "label": "Accuracy",
-              "value": "Up to ±0.5% (Flow Sensor); Up to ±0.2% (Digital Flow Meter), model dependent"
-            },
-            {
-              "label": "Available Sizes",
-              "value": "DN4 – DN100 (Flow Sensor); DN4 – DN500 (Digital Flow Meter)"
-            },
-            {
-              "label": "Output Signal",
-              "value": "Pulse, NPN/PNP, 4–20 mA, RS-485 (Flow Sensor); Pulse, 4–20 mA, RS-485, HART, Relay Output (Digital Flow Meter)"
-            },
-            {
-              "label": "Power Supply",
-              "value": "Battery Powered / External Power (Model Dependent)"
-            },
-            {
-              "label": "Display",
-              "value": "Large LCD/LED Display with Instantaneous, Totalized & Batch Flow Indication"
-            },
-            {
-              "label": "Communication",
-              "value": "PLC, DCS & SCADA Compatible"
-            },
-            {
-              "label": "Applications",
-              "value": "Water, Oil, Diesel, Chemicals, OEM Equipment, Cooling Water, Lubrication Systems, HVAC, Utility Monitoring"
-            },
-            {
-              "label": "Installation",
-              "value": "Compact Design, Easy Installation & Maintenance"
-            },
-            {
-              "label": "Construction",
-              "value": "Durable Industrial Design for Harsh Environments"
-            }
-          ]
         }
       ]
     },
@@ -944,7 +1051,7 @@
       "id": "brotek-instruments-level-measurement",
       "type": "folder",
       "title": "Level Measurement",
-      "description": "Level Transmitters, Level Switches, Ultrasonic Flow Meters, Flow Switches",
+      "description": "Level Transmitters, Level Switches, Ultrasonic Flow Meters",
       "folderCover": "/images/products/photos/level measurement cover new.png",
       "imageClassName": "",
       "subFolders": [
@@ -2287,113 +2394,6 @@
                 {
                   "label": "Heat Measurement",
                   "value": "Supported with Clamp-On Temperature Transducer"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "id": "flow-switches",
-          "type": "folder",
-          "title": "Flow Switches",
-          "description": "",
-          "folderCover": "/images/products/photos/flow-switch.png",
-          "imageClassName": "",
-          "subFolders": [],
-          "products": [
-            {
-              "id": "thermal-flow-switch",
-              "type": "product",
-              "title": "Thermal Flow Switch",
-              "shortDesc": "The Intelligent Thermal Flow Switch from Brotek Instruments provides precise flow monitoring for liquids, gases, and air. Using thermal dispersion technology, it delivers reliable switching, programmable settings, and maintenance-free operation for industrial automation systems.",
-              "fullDesc": "The Intelligent Thermal Flow Switch from Brotek Instruments is an advanced thermal dispersion flow monitoring device designed for accurate detection of liquids, gases, and air in industrial process applications. The instrument employs a probe containing a heating element and dual temperature sensors. During no-flow conditions, a constant temperature difference is maintained between the sensors. As fluid begins to flow, heat is carried away from the heated sensor, and the resulting temperature difference is continuously measured by a high-precision microprocessor. When the measured flow reaches the programmed set point, the switch changes its output state to provide reliable flow indication and process protection.\n\nDesigned as a universal mass flow switch, the instrument measures both liquid and gas flow with the same sensing principle, eliminating moving parts and reducing maintenance requirements. It features programmable settings for alarm value, high/low alarm selection, delay time, zero and span adjustment, and damping factor, allowing easy adaptation to different process conditions. The rugged aluminum enclosure, SS316L wetted parts, and IP66/Ex ia protection ensure dependable performance in harsh industrial environments.\n\nThe switch provides a 220 VAC relay output for direct integration with PLC, DCS, SCADA, and industrial automation systems. Supporting flow rates up to 3 m/s for liquids and 30 m/s for gases, it is widely used in HVAC systems, air compressors, refrigeration plants, laser cooling systems, water-cooled welding machines, vacuum coating equipment, electric furnaces, polysilicon production, and general industrial process control where reliable flow detection is essential.",
-              "imagePath": "/images/products/photos/flow-switch.png",
-              "imageClassName": "",
-              "pdfPath": "/Catalouge/flow-switch.pdf",
-              "specs": [
-                {
-                  "label": "Made By",
-                  "value": "Brotek Instruments"
-                },
-                {
-                  "label": "Model No.",
-                  "value": "BI-TFS"
-                },
-                {
-                  "label": "Measurement Principle",
-                  "value": "Thermal Dispersion Mass Flow Switch"
-                },
-                {
-                  "label": "Enclosure Material",
-                  "value": "Aluminum"
-                },
-                {
-                  "label": "Wetted Parts",
-                  "value": "SS316L"
-                },
-                {
-                  "label": "Flow Rate (Liquid)",
-                  "value": "0 to 3 m/s"
-                },
-                {
-                  "label": "Flow Rate (Gas)",
-                  "value": "0 to 30 m/s"
-                },
-                {
-                  "label": "Switch Delay",
-                  "value": "0 to 3 Seconds"
-                },
-                {
-                  "label": "Output",
-                  "value": "Relay, 220 VAC, 16 A"
-                },
-                {
-                  "label": "Power Supply",
-                  "value": "12–33 VDC (24 VDC Ideal)"
-                },
-                {
-                  "label": "Power Consumption",
-                  "value": "Less than 150 mA"
-                },
-                {
-                  "label": "Protection",
-                  "value": "IP66 / Ex ia"
-                },
-                {
-                  "label": "Pressure Limit",
-                  "value": "10 bar"
-                },
-                {
-                  "label": "Process Temperature",
-                  "value": "−40°C to +80°C"
-                },
-                {
-                  "label": "Programming",
-                  "value": "Keyboard Configuration (Alarm Value, High/Low Alarm, Delay Time, Zero, Span & Damping Factor)"
-                },
-                {
-                  "label": "Process Connection",
-                  "value": "Thread / Sanitary / Tri-Clamp / Flange / Welding Sleeve"
-                },
-                {
-                  "label": "Explosion Proof",
-                  "value": "Ex d IIC T6 Gb"
-                },
-                {
-                  "label": "Safety Certification",
-                  "value": "SIL-3"
-                },
-                {
-                  "label": "Preheat Time",
-                  "value": "Less than 3 Minutes"
-                },
-                {
-                  "label": "Response Time",
-                  "value": "Less than 5 Seconds"
-                },
-                {
-                  "label": "Accuracy",
-                  "value": "Better than 5%"
                 }
               ]
             }

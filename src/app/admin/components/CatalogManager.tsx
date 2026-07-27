@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Folder, FileText, Plus, ChevronRight, Image as ImageIcon, Trash2, Edit2 } from 'lucide-react';
+import { Folder, FileText, Plus, ChevronRight, Image as ImageIcon, Trash2, Edit2, ArrowUp, ArrowDown } from 'lucide-react';
 
 export type Spec = { label: string; value: string };
 
@@ -132,6 +132,47 @@ export default function CatalogManager({ data, setData }: { data: any, setData: 
     setData(newData);
   };
 
+  const handleMoveFolder = (id: string, direction: 'up' | 'down') => {
+    const newData = { ...data };
+    let listToModify: any[] = [];
+    
+    if (activePath.length === 0) {
+      listToModify = newData.tree;
+    } else {
+      const { activeNode: targetNode } = getCurrentFolder(activePath, newData.tree);
+      if (targetNode) listToModify = targetNode.subFolders;
+    }
+
+    const idx = listToModify.findIndex((f: any) => f.id === id);
+    if (idx === -1) return;
+
+    if (direction === 'up' && idx > 0) {
+      [listToModify[idx - 1], listToModify[idx]] = [listToModify[idx], listToModify[idx - 1]];
+      setData(newData);
+    } else if (direction === 'down' && idx < listToModify.length - 1) {
+      [listToModify[idx], listToModify[idx + 1]] = [listToModify[idx + 1], listToModify[idx]];
+      setData(newData);
+    }
+  };
+
+  const handleMoveProduct = (id: string, direction: 'up' | 'down') => {
+    const newData = { ...data };
+    const { activeNode: targetNode } = getCurrentFolder(activePath, newData.tree);
+    if (!targetNode) return;
+
+    const listToModify = targetNode.products;
+    const idx = listToModify.findIndex((p: any) => p.id === id);
+    if (idx === -1) return;
+
+    if (direction === 'up' && idx > 0) {
+      [listToModify[idx - 1], listToModify[idx]] = [listToModify[idx], listToModify[idx - 1]];
+      setData(newData);
+    } else if (direction === 'down' && idx < listToModify.length - 1) {
+      [listToModify[idx], listToModify[idx + 1]] = [listToModify[idx + 1], listToModify[idx]];
+      setData(newData);
+    }
+  };
+
   return (
     <div className="flex h-full text-slate-200">
       {/* Left Pane - Tree */}
@@ -201,7 +242,7 @@ export default function CatalogManager({ data, setData }: { data: any, setData: 
               Folders ({currentList.length})
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
-              {currentList.map(folder => (
+              {currentList.map((folder, index) => (
                 <div key={folder.id} className="bg-slate-800 border border-slate-700 rounded-xl overflow-hidden group">
                   <div 
                     className="h-32 bg-slate-900 relative cursor-pointer"
@@ -221,8 +262,11 @@ export default function CatalogManager({ data, setData }: { data: any, setData: 
                       <p className="text-xs text-slate-400 mt-1 truncate" title={folder.description}>{folder.description || "No description"}</p>
                     </div>
                     <div className="flex gap-1 shrink-0">
-                      <button type="button" onClick={(e) => { e.stopPropagation(); setEditingItem(folder); setShowFolderModal(true); }} className="text-blue-400 hover:text-blue-300 p-2 bg-blue-500/10 hover:bg-blue-500/20 rounded-md transition-all" title="Edit Folder"><Edit2 size={16}/></button>
-                      <button type="button" onClick={(e) => { e.stopPropagation(); handleDelete(folder.id, false); }} className="text-red-400 hover:text-red-300 p-2 bg-red-500/10 hover:bg-red-500/20 rounded-md transition-all" title="Delete Folder"><Trash2 size={16}/></button>
+                      <button type="button" disabled={index === 0} onClick={(e) => { e.stopPropagation(); handleMoveFolder(folder.id, 'up'); }} className="text-slate-400 hover:text-white disabled:opacity-30 disabled:hover:text-slate-400 p-1.5 bg-slate-700/50 hover:bg-slate-700 rounded-md transition-all" title="Move Up"><ArrowUp size={14}/></button>
+                      <button type="button" disabled={index === currentList.length - 1} onClick={(e) => { e.stopPropagation(); handleMoveFolder(folder.id, 'down'); }} className="text-slate-400 hover:text-white disabled:opacity-30 disabled:hover:text-slate-400 p-1.5 bg-slate-700/50 hover:bg-slate-700 rounded-md transition-all mr-1" title="Move Down"><ArrowDown size={14}/></button>
+
+                      <button type="button" onClick={(e) => { e.stopPropagation(); setEditingItem(folder); setShowFolderModal(true); }} className="text-blue-400 hover:text-blue-300 p-1.5 bg-blue-500/10 hover:bg-blue-500/20 rounded-md transition-all" title="Edit Folder"><Edit2 size={16}/></button>
+                      <button type="button" onClick={(e) => { e.stopPropagation(); handleDelete(folder.id, false); }} className="text-red-400 hover:text-red-300 p-1.5 bg-red-500/10 hover:bg-red-500/20 rounded-md transition-all" title="Delete Folder"><Trash2 size={16}/></button>
                     </div>
                   </div>
                 </div>
@@ -249,7 +293,7 @@ export default function CatalogManager({ data, setData }: { data: any, setData: 
                   </tr>
                 </thead>
                 <tbody className="divide-y divide-slate-700/50">
-                  {activeProducts.map(product => (
+                  {activeProducts.map((product, index) => (
                     <tr key={product.id} className="hover:bg-slate-700/30">
                       <td className="px-4 py-3">
                         {product.imagePath ? (
@@ -263,8 +307,11 @@ export default function CatalogManager({ data, setData }: { data: any, setData: 
                       <td className="px-4 py-3 text-slate-400">{product.specs?.length || 0} rows</td>
                       <td className="px-4 py-3 text-right">
                         <div className="flex justify-end gap-1 shrink-0">
-                          <button type="button" onClick={(e) => { e.stopPropagation(); setEditingItem(product); setShowProductModal(true); }} className="text-blue-400 hover:text-blue-300 p-2 bg-blue-500/10 hover:bg-blue-500/20 rounded-md transition-all" title="Edit Product"><Edit2 size={16}/></button>
-                          <button type="button" onClick={(e) => { e.stopPropagation(); handleDelete(product.id, true); }} className="text-red-400 hover:text-red-300 p-2 bg-red-500/10 hover:bg-red-500/20 rounded-md transition-all" title="Delete Product"><Trash2 size={16}/></button>
+                          <button type="button" disabled={index === 0} onClick={(e) => { e.stopPropagation(); handleMoveProduct(product.id, 'up'); }} className="text-slate-400 hover:text-white disabled:opacity-30 disabled:hover:text-slate-400 p-1.5 bg-slate-700/50 hover:bg-slate-700 rounded-md transition-all" title="Move Up"><ArrowUp size={14}/></button>
+                          <button type="button" disabled={index === activeProducts.length - 1} onClick={(e) => { e.stopPropagation(); handleMoveProduct(product.id, 'down'); }} className="text-slate-400 hover:text-white disabled:opacity-30 disabled:hover:text-slate-400 p-1.5 bg-slate-700/50 hover:bg-slate-700 rounded-md transition-all mr-1" title="Move Down"><ArrowDown size={14}/></button>
+
+                          <button type="button" onClick={(e) => { e.stopPropagation(); setEditingItem(product); setShowProductModal(true); }} className="text-blue-400 hover:text-blue-300 p-1.5 bg-blue-500/10 hover:bg-blue-500/20 rounded-md transition-all" title="Edit Product"><Edit2 size={16}/></button>
+                          <button type="button" onClick={(e) => { e.stopPropagation(); handleDelete(product.id, true); }} className="text-red-400 hover:text-red-300 p-1.5 bg-red-500/10 hover:bg-red-500/20 rounded-md transition-all" title="Delete Product"><Trash2 size={16}/></button>
                         </div>
                       </td>
                     </tr>
