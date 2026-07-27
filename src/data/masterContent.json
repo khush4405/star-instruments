@@ -2405,7 +2405,7 @@
     {
       "id": "sensewell-instruments-temperature-measurement",
       "type": "folder",
-      "title": "Temperature Measurement",
+      "title": "Heating Solution & Temperature Measurement",
       "description": "Process Heating Solutions, Electrical Ovens, Thermic Fluid Systems, Temperature Sensors, Process Control Instruments, Hot Air Generators, Flame Proof Instruments, Flow and Level Indicators, Electrical Furnaces, Flexible Heaters and Insulations",
       "folderCover": "/images/products/photos/temperature measurement cover new.png",
       "imageClassName": "",
@@ -2571,6 +2571,98 @@
                 {
                   "label": "Ideal Use Case",
                   "value": "Aluminum smelting, steel galvanizing, and heavy-duty industrial furnaces"
+                }
+              ]
+            },
+            {
+              "id": "flexible-heaters-and-insulations",
+              "type": "product",
+              "title": "Flexible Heaters and Insulations",
+              "shortDesc": "A comprehensive range of industrial-grade, flexible heating and insulation solutions designed to perfectly fit around or beneath your equipment. These products provide reliable, uniform heat to maintain process temperatures, reduce material viscosity, and prevent freezing in harsh environments.",
+              "fullDesc": "Our Flexible Heaters and Insulations category offers a comprehensive suite of highly adaptable, industrial-grade thermal management solutions designed to meet the rigorous demands of modern manufacturing, processing, and storage facilities. Whether you need to maintain critical process temperatures, reduce the viscosity of thick fluids, prevent costly freezing in harsh cold-weather environments, or drastically minimize thermal loss to boost energy efficiency, our versatile product line delivers precise, uniform heat transfer exactly where it is needed most.\n\nEngineered to fit seamlessly around or beneath your most vital equipment, this category encompasses a wide variety of specialized form factors, including base drum heaters, custom-fit IBC (Intermediate Bulk Container) heaters, full-coverage heating jackets, and highly malleable silicone heating pads. Built from rugged, heat-resistant materials such as fiberglass-reinforced silicone rubber, durable steel housings, and weather-resistant industrial fabrics, these products are constructed to withstand exposure to harsh chemicals, moisture, extreme temperatures, and heavy mechanical wear.\n\nFor cylindrical storage and bulk liquid transport, our Drum Heaters, Base Drum Heaters, and Drum Heating Ovens provide comprehensive wrap-around or bottom-up conductive heating for standard 55-gallon steel or plastic drums. These units ensure that critical materials—such as oils, resins, adhesives, paints, and chemicals—remain at their optimal flow consistencies. Similarly, our IBC Heaters are tailored specifically for large cube-shaped tanks. They are widely utilized across the food & beverage, pharmaceutical, cosmetics, and petrochemical industries to maintain uniform product quality and prevent spoilage during long-term storage and handling.\n\nIn complex material handling and dispensing applications, our Hopper Heaters and flexible Heating Pads are invaluable. Applied directly to the exterior of silos, bins, chutes, pipes, and valves, they prevent bulk solids from clumping, bridging, or sticking to internal walls, ensuring a smooth, uninterrupted discharge. Featuring advanced wire-wound or etched foil heating elements, these flexible pads provide exceptionally even heat distribution and can be customized in shape, size, wattage, and voltage to accommodate complex surface geometries and tight, non-standard mounting spaces.\n\nTo complete your thermal management ecosystem, our Insulation Jackets (also known as removable insulation covers) and Heating Blankets offer superior heat retention and equipment protection. These tailored thermal blankets trap heat inside the application, drastically cutting power consumption and preventing temperature loss to the surrounding environment. Unlike permanent, hard-shell insulation, these jackets are designed to be easily removable and reusable, allowing operators quick and unhindered access for routine equipment inspection, maintenance, or repair.\n\nFrom simple freeze protection to complex, high-temperature composite curing, our flexible heating and insulation systems are designed to be paired with advanced temperature controllers and built-in thermostats. This guarantees safe, precise, and highly efficient thermal management across your entire operation, minimizing downtime and maximizing productivity.\n\n",
+              "imagePath": "/images/products/photos/Flexible Heaters and Insulations.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Product Name",
+                  "value": "Specification / Description"
+                },
+                {
+                  "label": "Heating Pad",
+                  "value": "Heavy-duty, flexible electric pads built for extreme conditions; ideal for heating pipes, tanks, machinery, and composite materials."
+                },
+                {
+                  "label": "Base Drum Heater",
+                  "value": "Flat heating units placed directly beneath standard 55-gallon drums to apply conductive, upward thermal transfer with precise temperature control."
+                },
+                {
+                  "label": "IBC Heater",
+                  "value": "Custom-fit electric heaters designed for Intermediate Bulk Containers (IBC) to maintain liquid temperatures, reduce viscosity, and prevent freezing."
+                },
+                {
+                  "label": "Hopper Heater",
+                  "value": "Flexible or rigid heating elements applied to hoppers, silos, or chutes to prevent material clumping, freezing, or sticking during discharge."
+                },
+                {
+                  "label": "Drum Heating Oven",
+                  "value": "Industrial-grade heaters (wrap-around, base, or full-jacket) engineered to apply uniform, controlled heat to 55-gallon metal or steel drums."
+                },
+                {
+                  "label": "Silicone Heating Pads",
+                  "value": "Highly customizable, flexible flat heaters made from fiberglass-reinforced silicone rubber for precise, even surface heating and tight temperature control."
+                },
+                {
+                  "label": "Insulation Jackets",
+                  "value": "Removable and reusable tailored thermal blankets that trap heat to minimize energy loss while allowing easy access for equipment maintenance."
+                },
+                {
+                  "label": "Heating Blanket",
+                  "value": "Durable, flexible heating wraps constructed with insulated wires embedded in silicone or fabric to provide safe, controlled warmth on varied surfaces."
+                },
+                {
+                  "label": "Heating Jackets",
+                  "value": "Advanced wrap-around thermal systems providing efficient, uniform heat for tanks, vessels, and pipes to maintain optimal process temperatures."
+                },
+                {
+                  "label": "Drum Heaters",
+                  "value": "Flexible silicone rubber heating bands that wrap circumferentially around drums, utilizing wire or etched foil for even heat distribution and chemical resistance."
+                }
+              ]
+            },
+            {
+              "id": "industrial-band-cast-in-heaters",
+              "type": "product",
+              "title": "Industrial Band & Cast-In Heaters",
+              "shortDesc": "A versatile range of high-performance heaters including Cast-In, Mica Band, and Ceramic Band configurations. Engineered for uniform heat transfer, rapid heat-up times, and continuous high-temperature industrial processes.",
+              "fullDesc": "Our premium selection of industrial heaters includes three highly specialized configurations designed for precise thermal processing across various applications:\n\nCast-In Heaters Precision-engineered by casting resistance elements (typically nickel-chrome) into aluminum, bronze, or other alloys. They provide incredibly uniform heat transfer and are ideal for applications requiring complex shapes or high thermal conductivity. Operating at temperatures up to 1200°F (649°C), they are widely used in plastic and metal processing.\n\nMica Band Heaters Cost-effective and highly efficient solutions for heating cylindrical surfaces. Utilizing mica sheets as insulation with embedded nickel-chrome resistance wires encased in a stainless-steel sheath (typically SS 304). Operating up to 900°F (482°C), they offer fast heat-up times with a maximum surface loading of 8 W/cm². Energy-saving models include ceramic fiber-insulated jackets, reducing heat loss by approximately 20%.\n\nCeramic Band Heaters Advanced heating elements designed for high-temperature and energy-efficient operations. Constructed with nickel-chrome resistance wires wound through interlocking ceramic tiles and insulated with high-temperature fiber, encased in a durable metal sheath (stainless or aluminized steel). Their unique design delivers excellent heat retention and uniform heat distribution while minimizing heat loss and power consumption, making them perfect for continuous industrial processes.",
+              "imagePath": "/images/products/photos/many heater.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Specification",
+                  "value": "Cast-In Heaters Mica Band Heaters Ceramic Band Heaters"
+                },
+                {
+                  "label": "Primary Material / Body",
+                  "value": "Aluminum/Bronze alloys Mica sheets & SS 304 Interlocking ceramic tiles"
+                },
+                {
+                  "label": "Heating Element",
+                  "value": "Embedded NiCr wire Embedded NiCr wire NiCr wire wound through ceramic"
+                },
+                {
+                  "label": "Max Operating Temp",
+                  "value": "Up to 1200°F (649°C) Up to 900°F (482°C) High temps (Continuous duty)"
+                },
+                {
+                  "label": "Key Benefits",
+                  "value": "Fits complex shapes Fast heat-up (8 W/cm²) Max efficiency & heat retention"
+                },
+                {
+                  "label": "Typical Applications",
+                  "value": "Plastic/metal processing Cylindrical surface heating Continuous high-temp processes"
                 }
               ]
             }
@@ -5590,10 +5682,455 @@
           "type": "folder",
           "title": "Pressure Transmitters",
           "description": "Cerabar PMP50 – Pressure Transmitter, Gauge Pressure Cerabar PMC11, Absolute and Gauge Pressure Cerabar PMP21, Deltabar PMD75B – Differential Pressure Transmitter",
-          "folderCover": "/images/products/photos/no-image.png",
+          "folderCover": "/images/products/photos/pressure transmitter cover.png",
           "imageClassName": "",
           "subFolders": [],
-          "products": []
+          "products": [
+            {
+              "id": "st0900-pressure-transmitter",
+              "type": "product",
+              "title": "ST0900-Pressure Transmitter",
+              "shortDesc": "High temperature pressure transmitter utilizing sapphire and sputtered film sensor cores, offering highly stable and reliable industrial networking signals with an accuracy of up to ±0.1%FS.",
+              "fullDesc": "The ST0900 series high temperature pressure transmitter selects a sapphire, sputtered film pressure sensor as its sensitive core. It outputs standard industrial application and networking signals through temperature compensation, digital circuit correction, and signal conditioning. Each product undergoes careful design, rigorous component screening, process verification and curing, cyclic loading stress, aging, and environmental simulation testing to ensure exceptional stability and reliability across extreme conditions.",
+              "imagePath": "/images/products/photos/pressure transmitter 1.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Model",
+                  "value": "ST0900 Series"
+                },
+                {
+                  "label": "Form of pressure",
+                  "value": "G, A, S"
+                },
+                {
+                  "label": "Range",
+                  "value": "-0.1MPa … 0kPa-10kPa … 100MPa"
+                },
+                {
+                  "label": "Overload capacity",
+                  "value": "≤2 times (＜10MPa) | ≤1.5 times (≥10MPa)"
+                },
+                {
+                  "label": "Electrical connection",
+                  "value": "Housman socket, cable direct outlet, Aviation socket, industrial terminal"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "± 0.1%FS (customized), ± 0.25%FS, ± 0.5%FS"
+                },
+                {
+                  "label": "Output signal",
+                  "value": "4mA-20mA, 0V-10VDC, I2C, RS485"
+                },
+                {
+                  "label": "Response time",
+                  "value": "≤3ms (10%-90%)"
+                },
+                {
+                  "label": "Measuring medium",
+                  "value": "Fluids compatible with titanium alloy"
+                },
+                {
+                  "label": "Applications",
+                  "value": "Petroleum, Electric power, Chemical, Medicine, Metallurgy, Food, Civil explosion, Environmental protection"
+                }
+              ]
+            },
+            {
+              "id": "st0500-pressure-transmitter",
+              "type": "product",
+              "title": "ST0500-Pressure Transmitter",
+              "shortDesc": "High-reliability industrial pressure transmitters featuring silicon, ceramic, sapphire, or sputtered thin-film sensor cores, adaptable for a wide range of industrial applications.",
+              "fullDesc": "The ST0500 series industrial pressure transmitter carefully selects highly reliable silicon pressure resistors, ceramic capacitors, sapphire, or sputtered thin-film pressure sensors as sensitive cores, tailored to the unique requirements of different industries. After undergoing rigorous temperature compensation, digital circuit correction, and signal conditioning, it delivers standard industrial application and networking signals. Every transmitter goes through strict component screening, process validation curing, cyclic loading stress relief, aging, and environmental simulation testing to guarantee maximum stability and dependability in the field.",
+              "imagePath": "/images/products/photos/pressure transmitter 2.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Model",
+                  "value": "CYB0500 Series Pressure Transmitters"
+                },
+                {
+                  "label": "Pressure form",
+                  "value": "Gauge pressure, absolute pressure, sealed gauge pressure"
+                },
+                {
+                  "label": "Range",
+                  "value": "-0.1MPa … 0kPa ～ 10kPa … 100MPa"
+                },
+                {
+                  "label": "Overload capacity",
+                  "value": "≤2 times (＜10MPa) | ≤1.5 times (≥10MPa)"
+                },
+                {
+                  "label": "Electrical connection",
+                  "value": "Industrial terminal blocks"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "±0.1%FS (customized), ±0.25%FS, ±0.5%FS"
+                },
+                {
+                  "label": "Output signal",
+                  "value": "4mA～20mA (HART protocol ready), 0V～10VDC, RS485, IIC"
+                },
+                {
+                  "label": "On-site display",
+                  "value": "4-digit LED / 4-digit LCD"
+                },
+                {
+                  "label": "Respond time",
+                  "value": "≤3ms (10%～90%)"
+                },
+                {
+                  "label": "Measuring medium",
+                  "value": "Fluids compatible with 304 SS, 316L SS, or ceramic"
+                },
+                {
+                  "label": "Applications",
+                  "value": "Coal mine, Oil field, Medicine, Chemical industry, Water services, Civil explosion, Shipping, Environment protection"
+                }
+              ]
+            },
+            {
+              "id": "st1800-pressure-transmitter",
+              "type": "product",
+              "title": "ST1800-Pressure Transmitter",
+              "shortDesc": "Micro differential pressure transmitter utilizing an advanced silicon MEMS chip with fully digital calibration for superior stability and temperature drift performance.",
+              "fullDesc": "The ST1800 series micro differential pressure transmitter adopts a highly advanced silicon MEMS micro pressure chip. After undergoing comprehensive temperature and linear compensation, signal amplification, V/I conversion, anti-surge, and reverse polarity protection, the transmitter accurately outputs industrial standard 4mA-20mA or other networking signals. With all-digital calibration and no movable potentiometers, its temperature drift performance and overall stability have been significantly improved. This series adopts two isolation protection methods: ranges under 5kPa are ideal for non-corrosive gas measurement, while ranges of 5kPa and above are perfectly suited for non-corrosive media compatible with stainless steel and sealing rings.",
+              "imagePath": "/images/products/photos/pressure transmitter 3.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Model",
+                  "value": "ST1800"
+                },
+                {
+                  "label": "Form of pressure",
+                  "value": "Differential pressure (D)"
+                },
+                {
+                  "label": "Range",
+                  "value": "0Pa～±100Pa, 500Pa … 1000Pa; 0kPa, 2kPa, 10kPa … 100kPa"
+                },
+                {
+                  "label": "Overload capacity",
+                  "value": "≤2 times"
+                },
+                {
+                  "label": "Static pressure",
+                  "value": "≤100kPa"
+                },
+                {
+                  "label": "Electrical connection",
+                  "value": "Cable direct outlet"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "±0.25%FS, ±0.5%FS, ±1.0%FS"
+                },
+                {
+                  "label": "Output signal",
+                  "value": "4mA～20mA, 0V～5VDC, 0V～10VDC, RS485, I2C"
+                },
+                {
+                  "label": "Response time",
+                  "value": "≤3ms (10%～90%)"
+                },
+                {
+                  "label": "Measuring medium",
+                  "value": "＜5kPa: non-corrosive gas | ≥5kPa: fluids compatible with SS316L silicon"
+                },
+                {
+                  "label": "Applications",
+                  "value": "HVAC, Textile, Chemical industry, Medicine, Metallurgy, Food, Electric power, Environmental protection"
+                }
+              ]
+            },
+            {
+              "id": "st4201-pressure-transmitter",
+              "type": "product",
+              "title": "ST4201-Pressure Transmitter",
+              "shortDesc": "A highly reliable, small form factor pressure transmitter featuring a silicon piezoresistive core with fully welded construction and excellent electromagnetic compatibility.",
+              "fullDesc": "The ST4201 type pressure transmitter is a compact, high-performance instrument. Utilizing a highly reliable silicon piezoresistive pressure sensor as its core, it outputs standard industrial application and networking signals following temperature compensation, digital circuit correction, and advanced signal conditioning. It features excellent electromagnetic compatibility and a fully welded construction equipped with a breathable membrane. Each unit undergoes rigorous component selection, process verification curing, cyclic loading stress relief, and environmental simulation testing to ensure exceptional stability, long-term reliability, and cost performance.",
+              "imagePath": "/images/products/photos/pressure transmitter 4.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Model",
+                  "value": "ST4201"
+                },
+                {
+                  "label": "Pressure type",
+                  "value": "Gauge pressure, absolute pressure, sealed gauge pressure"
+                },
+                {
+                  "label": "Range",
+                  "value": "0MPa ~ 1MPa ... 40MPa (customizable)"
+                },
+                {
+                  "label": "Overload capacity",
+                  "value": "≤ 1.5 times"
+                },
+                {
+                  "label": "Electrical connection",
+                  "value": "Hirschmann socket, aviation socket"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "±0.5%FS"
+                },
+                {
+                  "label": "Process connection",
+                  "value": "G¼ (other interfaces can be customized)"
+                },
+                {
+                  "label": "Output signal",
+                  "value": "4～20mA, 0～5VDC, 0～10VDC, I2C"
+                },
+                {
+                  "label": "Structural characteristics",
+                  "value": "Fully welded, gauge pressure product with breathable membrane"
+                },
+                {
+                  "label": "Measuring medium",
+                  "value": "Air, water, mixed oil and other fluids compatible with 316L stainless steel"
+                },
+                {
+                  "label": "Applications",
+                  "value": "Water Treatment, Refrigeration systems, Pumps and compressors, Hydraulic pneumatic, Measurement and control, Vessels, Machinery and equipment"
+                }
+              ]
+            },
+            {
+              "id": "st4300-pressure-transmitter",
+              "type": "product",
+              "title": "ST4300-Pressure Transmitter",
+              "shortDesc": "A small profile, rod-shaped pressure transmitter featuring a highly reliable metal sputtered thin-film sensor and a durable 17-4PH elastic stainless steel measuring component.",
+              "fullDesc": "The ST4300 series pressure transmitter is a compact, rod-shaped instrument designed for demanding environments. Adopting a highly reliable metal sputtered thin-film sensor as its sensitive core, it delivers standard signals for industrial applications and networking after undergoing rigorous temperature compensation, digital circuit correction, and signal conditioning. The medium measuring component is constructed from 17-4PH elastic stainless steel, offering exceptional resistance to harsh media. Each transmitter goes through meticulous design, component screening, process verification, cyclic loading stress relief, and environmental simulation testing to guarantee flawlessly stable and reliable performance.",
+              "imagePath": "/images/products/photos/pressure transmitter 5.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Model",
+                  "value": "ST4300"
+                },
+                {
+                  "label": "Form of pressure",
+                  "value": "Gauge pressure, absolute pressure"
+                },
+                {
+                  "label": "Range",
+                  "value": "0MPa～1MPa…150MPa"
+                },
+                {
+                  "label": "Overload capacity",
+                  "value": "≤200%FS (0～60MPa) | ≤150%FS (70～200MPa)"
+                },
+                {
+                  "label": "Electrical connection",
+                  "value": "Hirschmann socket, Aviation socket, cable direct outlet"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "±0.1%FS (customized), ±0.25%FS, ±0.5%FS"
+                },
+                {
+                  "label": "Output signal",
+                  "value": "4mA～20mA, 0V～5VDC, 0V～10VDC, I2C, RS485"
+                },
+                {
+                  "label": "Response time",
+                  "value": "≤3ms (10%～90%)"
+                },
+                {
+                  "label": "Measuring medium",
+                  "value": "Fluids compatible with 17-4PH stainless steel"
+                },
+                {
+                  "label": "Applications",
+                  "value": "Metallurgy, Gas Networks, Coal Mines, Oil Refining, Chemical Industry, Oil Pipelines, Shipping and Aerospace, Automatic Control"
+                }
+              ]
+            },
+            {
+              "id": "st4600-pressure-transmitter",
+              "type": "product",
+              "title": "ST4600-Pressure Transmitter",
+              "shortDesc": "A highly reliable ceramic piezoresistive pressure transmitter optimized for environmental protection, healthcare, and air conditioning and refrigeration systems.",
+              "fullDesc": "The ST4600 series pressure transmitter is specifically designed for environmental protection, medical and healthcare, air conditioning, refrigeration systems, and general industrial applications. It features a highly reliable ceramic piezoresistive pressure sensor as its core. Following strict temperature compensation, digital circuit correction, and advanced signal conditioning, it delivers standard industrial application and networking signals. Each unit undergoes meticulous design, component screening, process verification curing, cyclic loading stress relief, aging, and environmental simulation testing to ensure unparalleled stability and reliability.",
+              "imagePath": "/images/products/photos/pressure transmitter 4.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Model",
+                  "value": "ST4600"
+                },
+                {
+                  "label": "Form of pressure",
+                  "value": "Gauge pressure, absolute pressure"
+                },
+                {
+                  "label": "Range",
+                  "value": "-0.1MPa～0MPa … 40MPa"
+                },
+                {
+                  "label": "Overload capacity",
+                  "value": "200%FS"
+                },
+                {
+                  "label": "Breakdown pressure",
+                  "value": "300%FS"
+                },
+                {
+                  "label": "Electrical connection",
+                  "value": "Packard socket, Hirschmann socket, Aviation socket"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "±1%FS"
+                },
+                {
+                  "label": "Output signal",
+                  "value": "4mA～20mA, 0.5V～4.5VDC (others can be customized)"
+                },
+                {
+                  "label": "Response time",
+                  "value": "≤3ms (10%～90%)"
+                },
+                {
+                  "label": "Measuring medium",
+                  "value": "Liquids or gases compatible with ceramic, stainless steel, and brass"
+                },
+                {
+                  "label": "Applications",
+                  "value": "Air conditioning systems, Health care, Environmental protection, Refrigeration units, Piping systems, Automation control"
+                }
+              ]
+            },
+            {
+              "id": "st6200-pressure-transmitter",
+              "type": "product",
+              "title": "ST6200-Pressure Transmitter",
+              "shortDesc": "A high-performance, high-precision monocrystalline silicon pressure transmitter featuring an embedded intelligent signal processing module and standard HART communication.",
+              "fullDesc": "The ST6200 series monocrystalline silicon pressure transmitter is a high-performance, high-precision instrument. Adopting an advanced monocrystalline silicon production process and an embedded intelligent signal processing module, it delivers exceptional measurement accuracy and excellent long-term stability after rigorous temperature compensation. The transmitter features a 5-digit backlit LCD display, fast response rate, robust lightning protection, anti-interference capabilities, and integrated data backup and recovery functions. It supports 4-20mA standard industrial analog output along with the HART communication protocol for easy PC configuration. It is widely applied for highly stable pressure and liquid level measurement in petrochemical, power transmission, and other demanding fields.",
+              "imagePath": "/images/products/photos/pressure transmitter 6.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Model",
+                  "value": "ST6200 Monocrystalline Silicon Pressure Transmitter"
+                },
+                {
+                  "label": "Measurement medium",
+                  "value": "Liquid or gas"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "±0.1% (≥40KPa) / ±0.075% / ±0.1% / ±0.25%"
+                },
+                {
+                  "label": "Long-term stability",
+                  "value": "≤ 0.1%FS/year"
+                },
+                {
+                  "label": "Zero-point & Sensitivity drift",
+                  "value": "≤±0.01%FS/℃"
+                },
+                {
+                  "label": "Output signal",
+                  "value": "4~20mA, 4~20mA+HART (Configurable)"
+                },
+                {
+                  "label": "Power supply",
+                  "value": "24VDC (10.5~45 VDC general purpose)"
+                },
+                {
+                  "label": "Response time",
+                  "value": "10ms"
+                },
+                {
+                  "label": "Compensation temperature",
+                  "value": "-30℃ ~ 70℃"
+                },
+                {
+                  "label": "Measuring medium temp",
+                  "value": "Silicon oil filled: -40~120℃ | Fluorine oil filled: -45~160℃"
+                },
+                {
+                  "label": "Protection grade",
+                  "value": "IP66"
+                },
+                {
+                  "label": "Applicable Industries",
+                  "value": "Pulp & Paper, Shipbuilding, Petrochemical, Steel/Ceramics, City gas, Power"
+                }
+              ]
+            },
+            {
+              "id": "st0101-pressure-transmitter",
+              "type": "product",
+              "title": "ST0101-Pressure Transmitter",
+              "shortDesc": "A highly reliable pressure switch featuring a rugged stainless steel shell, customizable switching points, and fast response times for direct site monitoring.",
+              "fullDesc": "The STK0101 series pressure switch adopts our highly reliable pressure sensor as its core sensitive component. Following advanced digital circuit correction and signal conditioning, it outputs a standard relay contact switching signal, with the switching point easily configured to meet specific customer requirements. This series is perfectly designed to indicate, monitor, and control pressure situations directly at the installation site. Featuring high measurement accuracy, rapid response speeds, stable output, and exceptionally reliable performance, it is suitable for demanding industrial applications. Its sleek, compact stainless steel shell ensures maximum durability while remaining incredibly easy to install.",
+              "imagePath": "/images/products/photos/pressure transmitter 7.png",
+              "imageClassName": "",
+              "pdfPath": "",
+              "specs": [
+                {
+                  "label": "Model",
+                  "value": "STK0101"
+                },
+                {
+                  "label": "Form of pressure",
+                  "value": "Gauge pressure, absolute pressure"
+                },
+                {
+                  "label": "Range",
+                  "value": "-0.1kPa～0kPa～10kPa … 60Mpa"
+                },
+                {
+                  "label": "Operating voltage",
+                  "value": "12VDC ~ 30VDC"
+                },
+                {
+                  "label": "Medium temperature",
+                  "value": "-30℃ ～ 60℃"
+                },
+                {
+                  "label": "Output signal",
+                  "value": "Relay contact"
+                },
+                {
+                  "label": "Accuracy",
+                  "value": "±0.25%FS, ±0.5%FS"
+                },
+                {
+                  "label": "Response time",
+                  "value": "≤3ms (10%～90%)"
+                },
+                {
+                  "label": "Overload capacity",
+                  "value": "≤200%FS (<10MPa) | ≤150%FS (≥10MPa)"
+                },
+                {
+                  "label": "Measuring medium",
+                  "value": "Fluids compatible with SS304, SS316L, or ceramics"
+                },
+                {
+                  "label": "Applications",
+                  "value": "Industrial Site, Fire & Water systems, Deep Well Oil & Gas, Chemical Energy, Pipe Network Monitoring, Hydrological Surveys"
+                }
+              ]
+            }
+          ]
         }
       ],
       "products": []
@@ -5601,41 +6138,372 @@
     {
       "id": "pneumatic-products",
       "type": "folder",
-      "title": "Pneumatic Products",
-      "description": "Actuators, Cylinders, Linear cylinders, Rotary cylinders, Solenoid valves, Mechanical valves, Air filters, Pressure regulators, Lubricators, Pneumatic fittings, Pneumatic tubing",
-      "folderCover": "/images/products/photos/no-image.png",
+      "title": "Analytical Instruments & Pneumatic Products",
+      "description": "pH Sensors, ORP Sensors, TDS Sensors, Conductivity Sensors, Proximity Switches, and other analytical & pneumatic instruments",
+      "folderCover": "/images/products/photos/analytical instrument cover.png",
       "imageClassName": "",
       "subFolders": [],
       "products": [
         {
-          "id": "inductive-proximity-switches",
+          "id": "iot-digital-modbus-rs485-ph-sensor",
           "type": "product",
-          "title": "Inductive Proximity Switches",
-          "shortDesc": "Inductive Proximity Switches provide highly reliable, non-contact detection of metallic objects. Featuring standard cylindrical (SIEN), block (SIES), high-pressure (SIEH), and Factor 1 (SIEF) variants for diverse industrial automation.",
-          "fullDesc": "Comprehensive lineup of Inductive Proximity Switches delivers exceptionally reliable, non-contact detection of metallic objects across highly automated industrial environments. Designed for maximum operational longevity, these sensors feature fully potted solid-state electronics that make them highly resistant to extreme vibration, mechanical shock, and fluid ingress (achieving up to IP67 / IP69K ratings). They seamlessly integrate into both standard and highly specialized pneumatic or electric drive systems.\n\nThis product card highlights four premier series to cover any application requirement: 1. SIEN Series (Cylindrical): The industry standard cylindrical sensor. Available in threaded housings (M5 to M30) with standard or extended sensing ranges, ideal for general-purpose automation. 2. SIES Series (Block): A highly compact, rectangular sensor designed for space-constrained installations, frequently mounted directly on pneumatic actuators. 3. SIEH Series (High-Pressure): Specifically engineered for high-pressure environments, featuring a robust stainless-steel housing capable of withstanding extreme mechanical stress and direct hydraulic pressure. 4. SIEF Series (Factor 1): The ultimate multi-metal sensor. It provides a uniform sensing distance for all metals (aluminum, steel, copper, brass) without standard reduction factors, making it perfect for multi-material sorting and welding applications.\n\nAutomated assembly lines and general machine building positioning\nRobotic end-of-arm tooling and clamp position confirmation\nHigh-pressure hydraulic cylinder stroke monitoring (SIEH Series)\nAutomotive welding cells requiring strict magnetic field immunity (SIEF Series)\nMulti-metal sorting facilities requiring uniform detection ranges across different alloys (SIEF)",
-          "imagePath": "/images/products/photos/no-image.png",
+          "title": "IoT Digital Modbus RS485 pH Sensor",
+          "shortDesc": "A highly durable, stainless steel IoT pH sensor featuring an integrated microelectronics chip for direct Modbus RS485 signal output without the need for secondary instruments.",
+          "fullDesc": "The IOT-485-pH online digital water monitoring sensor seamlessly combines advanced microelectronics technology with a rugged industrial design. The IoT chip is packaged directly inside the sensor, enabling it to output a standard MODBUS RS485 signal directly without the need for secondary instruments to transmit data. Featuring a highly durable 304 stainless steel case, it ensures long-term reliability in harsh environments. This innovative design guarantees stable and reliable data transmission, zero signal loss over long distances, and convenient remote viewing capabilities. It is the ideal, cost-effective solution for real-time pH and temperature monitoring in aquaculture, wastewater treatment, river water, drinking water, and surface water applications.",
+          "imagePath": "/images/products/photos/ph sensor.png",
           "imageClassName": "",
           "pdfPath": "",
           "specs": [
             {
-              "label": "Sensor Category",
-              "value": "Inductive Proximity Sensors (Non-contact metal detection)"
+              "label": "Product name",
+              "value": "IOT-485-pH Online digital water monitoring sensor"
             },
             {
-              "label": "Output Configurations",
-              "value": "PNP or NPN (Available in Normally Open or Normally Closed configurations)"
+              "label": "Parameters",
+              "value": "pH, Temperature"
             },
             {
-              "label": "SIEN (Standard Cylindrical)",
-              "value": "Sizes from 3mm to M30 | Sensing distances 0.6mm to 15mm | Flush/Non-flush"
+              "label": "Measuring range",
+              "value": "0~14pH"
             },
             {
-              "label": "Enclosure Protection",
-              "value": "IP65, IP67, and IP69K (Washdown ready depending on specific series)"
+              "label": "Power",
+              "value": "9~36V DC"
             },
             {
-              "label": "Industry Certifications",
-              "value": "CE marked, cULus listed, and fully RoHS compliant"
+              "label": "Temperature range",
+              "value": "0℃~60℃"
+            },
+            {
+              "label": "Communication",
+              "value": "RS485 Modbus RTU"
+            },
+            {
+              "label": "Shell Material",
+              "value": "304 Stainless steel"
+            },
+            {
+              "label": "Sensing surface Material",
+              "value": "Glass ball"
+            },
+            {
+              "label": "Pressure",
+              "value": "0.3Mpa"
+            },
+            {
+              "label": "Screw type",
+              "value": "UP G1 Screw"
+            },
+            {
+              "label": "Connection",
+              "value": "Low noise cable directly connected"
+            },
+            {
+              "label": "Cable length",
+              "value": "Standard 5 meters (customizable)"
+            },
+            {
+              "label": "Application",
+              "value": "Aquaculture, Wastewater, Drinking water, River water, Surface water"
+            }
+          ]
+        },
+        {
+          "id": "conductivity-tds-salinity-resistivity-meter-ddg-2080pro",
+          "type": "product",
+          "title": "Conductivity TDS Salinity Resistivity Meter (DDG-2080Pro)",
+          "shortDesc": "A multifunctional industrial meter for measuring conductivity, resistivity, salinity, and TDS, featuring an IP65 protection grade and wide power supply compatibility.",
+          "fullDesc": "The DDG-2080Pro online conductivity meter is a highly versatile instrument designed for the industrial measurement of temperature, conductivity, resistivity, salinity, and total dissolved solids (TDS). Featuring comprehensive functions, stable performance, easy operation, low power consumption, and highly reliable construction, it uses precisely matched analog conductivity electrodes to ensure exceptional accuracy. With a rugged IP65 protection grade and a wide 90-260VAC power supply, it is widely utilized across demanding applications including thermal power generation, chemical processing, metallurgy, environmental protection, pharmaceuticals, biochemicals, food and beverage processing, and tap water monitoring.",
+          "imagePath": "/images/products/photos/tds sensor.png",
+          "imageClassName": "",
+          "pdfPath": "",
+          "specs": [
+            {
+              "label": "Model",
+              "value": "DDG-2080Pro"
+            },
+            {
+              "label": "Functions",
+              "value": "EC, Resistivity, Salinity, TDS"
+            },
+            {
+              "label": "Measuring range",
+              "value": "EC: 0.00uS-200mS | Resistivity: 0.00-20.00 MΩ | Salinity: 0.00-80.00 g/L(ppt) | TDS: 0-133000ppm"
+            },
+            {
+              "label": "Resolution",
+              "value": "EC: 0.01/0.1/1 | Resistivity: 0.01 | Salinity: 0.01 | TDS: 1"
+            },
+            {
+              "label": "Accuracy",
+              "value": "±2%F.S for all parameters"
+            },
+            {
+              "label": "Temp. compensation",
+              "value": "Pt 1000 / NTC10K"
+            },
+            {
+              "label": "Temp. range",
+              "value": "-10.0 to +130.0℃ (Resolution: 0.1℃, Accuracy: ±0.2℃)"
+            },
+            {
+              "label": "Matched electrode",
+              "value": "DDG-0.01 / DDG-0.1 / DDG-1.0 / DDG-10 / DDG-30"
+            },
+            {
+              "label": "Display",
+              "value": "Backlight, dot matrix"
+            },
+            {
+              "label": "Current output",
+              "value": "4-20mA"
+            },
+            {
+              "label": "Digital output",
+              "value": "RS485 Modbus RTU protocol"
+            },
+            {
+              "label": "Maximum relay contacts",
+              "value": "5A/250VAC, 5A/30VDC"
+            },
+            {
+              "label": "Waterproof grade",
+              "value": "IP65"
+            },
+            {
+              "label": "Power supply",
+              "value": "90 to 260 VAC (Power consumption < 4 watts)"
+            },
+            {
+              "label": "Installation",
+              "value": "Panel / wall / pipe installation"
+            },
+            {
+              "label": "Ambient temp range",
+              "value": "0 to +70℃"
+            },
+            {
+              "label": "Weight",
+              "value": "0.9Kg"
+            }
+          ]
+        },
+        {
+          "id": "exa300-explosion-proof-ph-orp-analyzer",
+          "type": "product",
+          "title": "EXA300 Explosion-proof pH/ORP Analyzer",
+          "shortDesc": "A rugged, two-wire explosion-proof pH/ORP analyzer featuring highly reliable 4-20mA communication and ultra-low power consumption for hazardous industrial environments.",
+          "fullDesc": "The EXA300 Explosion-proof pH/ORP Analyzer is a state-of-the-art online intelligent analog instrument independently developed and manufactured by Boqu Instrument Company. It communicates seamlessly with process equipment via a standard 4-20mA two-wire interface, offering rapid communication and highly accurate data transmission. Built specifically for harsh, hazardous applications, this maintenance-free instrument boasts complete functionality, stable performance, simple operation, ultra-low power consumption, and paramount safety and reliability. Paired with a precision analog signal pH/ORP electrode, it provides continuous monitoring of pH, ORP, and temperature, making it ideal for demanding applications in thermal power generation, chemical processing, metallurgy, environmental protection, pharmaceutical, biochemical, and water treatment industries.",
+          "imagePath": "/images/products/photos/ph  orp analyser.png",
+          "imageClassName": "",
+          "pdfPath": "",
+          "specs": [
+            {
+              "label": "Product Name",
+              "value": "Two-wire pH Online Analyzer"
+            },
+            {
+              "label": "Model",
+              "value": "EXA300"
+            },
+            {
+              "label": "Measuring Range",
+              "value": "pH: -2 to 16pH | ORP: -2000 to 2000mV | Temp: 0 to 130℃"
+            },
+            {
+              "label": "Accuracy",
+              "value": "±0.05pH | ±1mV | ±0.5℃"
+            },
+            {
+              "label": "Power Supply",
+              "value": "18 VDC - 30 VDC"
+            },
+            {
+              "label": "Power Consumption",
+              "value": "0.66W"
+            },
+            {
+              "label": "Output",
+              "value": "4-20mA (Two-wire)"
+            },
+            {
+              "label": "Communication Protocol",
+              "value": "4-20mA analog signal"
+            },
+            {
+              "label": "Shell Material",
+              "value": "Metal Aluminum Shell (Explosion-proof design)"
+            },
+            {
+              "label": "Waterproof Class",
+              "value": "IP65"
+            },
+            {
+              "label": "Storage Environment",
+              "value": "-40℃ ~ 70℃ | 0% ~ 95%RH (No condensation)"
+            },
+            {
+              "label": "Working Environment",
+              "value": "-20℃ ~ 50℃ | 0% ~ 95%RH (No condensation)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "dew-point-humidity-transmitters",
+      "type": "folder",
+      "title": "Dew Point & Humidity Transmitters",
+      "description": "",
+      "folderCover": "/images/products/photos/dew point transmitter cover.png",
+      "imageClassName": "",
+      "subFolders": [],
+      "products": [
+        {
+          "id": "hg602-g-corrosion-resistant-dew-point-transmitter",
+          "type": "product",
+          "title": "HG602-G Corrosion-Resistant Dew Point Transmitter",
+          "shortDesc": "A compact, inline dew point transmitter built with a 316L stainless steel sintered probe, engineered specifically for acidic, alkaline, and solvent-rich environments.",
+          "fullDesc": "The HG602-G is a highly durable, compact inline dew point transmitter explicitly built for demanding acidic, alkaline, and solvent-rich industrial environments. Featuring a rugged 316L stainless steel sintered probe with an advanced anti-corrosion coating and an IP65-rated aluminum housing, it provides superior long-term corrosion resistance and stability. It delivers exceptionally fast response times and highly accurate dew point measurements even under high humidity and high-pressure conditions (up to 16 bar). Equipped with an integrated sensor heating system to prevent condensation, it offers flexible dual output options including RS-485 (Modbus-RTU) and analog (4-20mA / 0-5V / 0-10V) for seamless integration into PLC, DCS, or SCADA systems. It is the ideal, cost-effective solution for lithium battery production, chemical processing, compressed air, and gas drying applications where unparalleled precision and durability are critical.",
+          "imagePath": "/images/products/photos/dew point transmitter 1.png",
+          "imageClassName": "",
+          "pdfPath": "",
+          "specs": [
+            {
+              "label": "Model",
+              "value": "HG602-G"
+            },
+            {
+              "label": "Dew Point Range",
+              "value": "-60 °C ~ +20 °C"
+            },
+            {
+              "label": "Dew Point Accuracy",
+              "value": "±3 °C (±5.4 °F) Td"
+            },
+            {
+              "label": "Temperature Range",
+              "value": "-40 °C ~ +60 °C"
+            },
+            {
+              "label": "Temperature Accuracy",
+              "value": "±0.2 °C (@ 23 °C)"
+            },
+            {
+              "label": "Temperature Stability",
+              "value": "≤ 0.1 °C / year"
+            },
+            {
+              "label": "Power Supply",
+              "value": "DC 10 V ~ 28 V (with reverse-polarity protection)"
+            },
+            {
+              "label": "Analog Output",
+              "value": "4–20 mA / 0–5 V / 0–10 V (select one)"
+            },
+            {
+              "label": "Digital Output",
+              "value": "RS485 (Modbus-RTU) – Temp, Dew Point, Humidity, PPM"
+            },
+            {
+              "label": "Response Time",
+              "value": "Fastest 1 s, adjustable via PLC"
+            },
+            {
+              "label": "Pressure Resistance",
+              "value": "Up to 16 bar"
+            },
+            {
+              "label": "Housing Protection",
+              "value": "IP65 (dustproof, moisture-proof, corrosion-resistant)"
+            },
+            {
+              "label": "Material",
+              "value": "316L stainless steel sintered probe, aluminum alloy housing"
+            },
+            {
+              "label": "Probe Connection",
+              "value": "G 1/2″ thread (supports customized flange / sampling adapter)"
+            },
+            {
+              "label": "Applications",
+              "value": "Lithium Battery, Chemical, Compressed Air, Gas Drying Systems"
+            }
+          ]
+        },
+        {
+          "id": "hg808-g-dew-point-transmitter-for-corrosive-environments",
+          "type": "product",
+          "title": "HG808-G Dew Point Transmitter for Corrosive Environments",
+          "shortDesc": "A rugged dew point transmitter built with a 316L stainless steel probe and IP65 aluminum housing to withstand highly corrosive industrial environments, including exposure to HF, HCl, NH₃, or VOCs.",
+          "fullDesc": "The HG808-G is specifically engineered with an integrated corrosion-resistant structure, utilizing a robust 316L stainless steel probe and a sealed cast-aluminum housing (IP65). It effectively resists strong acids, alkalis, electrolyte vapors, and chemical solvents, making it ideal for lithium battery, chemical processing, and pharmaceutical applications where standard sensors typically fail. This transmitter has undergone strict testing for oil-gas mixtures, chemical corrosion, and dust impact, and can withstand pipeline pressures up to 16 bar to ensure long-term stability in challenging process environments. It offers flexible signal outputs including digital RS485 (Modbus-RTU) for dew point, temperature, humidity, and PPM values, along with dual-channel analog outputs (4-20 mA, 0-5 V, or 0-10 V) for seamless, automated integration with PLC, DCS, or SCADA systems.",
+          "imagePath": "/images/products/photos/dew point transmitter 2.png",
+          "imageClassName": "",
+          "pdfPath": "",
+          "specs": [
+            {
+              "label": "Model",
+              "value": "HG808-G"
+            },
+            {
+              "label": "Measurement Parameters",
+              "value": "Dew Point, Temperature, Humidity, PPM (for reference)"
+            },
+            {
+              "label": "Dew Point Range",
+              "value": "-60 °C ~ +20 °C"
+            },
+            {
+              "label": "Dew Point Accuracy",
+              "value": "±3 °C Td (±5.4 °F)"
+            },
+            {
+              "label": "Temperature Range",
+              "value": "-20 °C ~ +60 °C"
+            },
+            {
+              "label": "Temperature Accuracy",
+              "value": "±0.2 °C (@ 23 °C)"
+            },
+            {
+              "label": "Temperature Stability",
+              "value": "≤ 0.1 °C / year"
+            },
+            {
+              "label": "Humidity Stability",
+              "value": "≤ 1 % RH / year"
+            },
+            {
+              "label": "Power Supply",
+              "value": "DC 12 V ~ 24 V (reverse-polarity protected)"
+            },
+            {
+              "label": "Analog Outputs",
+              "value": "Temperature + Dew Point – select one: 4-20 mA / 0-5 V / 0-10 V"
+            },
+            {
+              "label": "Digital Output",
+              "value": "RS485 (Modbus-RTU) – outputs temp, humidity, dew point, PPM"
+            },
+            {
+              "label": "Response Time",
+              "value": "Fastest response 1 second (adjustable via PLC)"
+            },
+            {
+              "label": "Pressure Resistance",
+              "value": "≤ 16 bar"
+            },
+            {
+              "label": "Protection Rating",
+              "value": "IP65 (dustproof and moisture-resistant)"
+            },
+            {
+              "label": "Housing Material",
+              "value": "Compact aluminum housing with industrial grade ESD & anti-reverse protection"
+            },
+            {
+              "label": "Applicable Probe Options",
+              "value": "Gas Sampling Unit or 316L Stainless Steel Sintered Protective Housing"
             }
           ]
         }
