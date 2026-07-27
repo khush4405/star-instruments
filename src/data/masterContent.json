@@ -6211,16 +6211,16 @@
         {
           "id": "conductivity-tds-salinity-resistivity-meter-ddg-2080pro",
           "type": "product",
-          "title": "Conductivity TDS Salinity Resistivity Meter (DDG-2080Pro)",
+          "title": "Conductivity TDS Salinity Resistivity Meter (STech-2080Pro)",
           "shortDesc": "A multifunctional industrial meter for measuring conductivity, resistivity, salinity, and TDS, featuring an IP65 protection grade and wide power supply compatibility.",
-          "fullDesc": "The DDG-2080Pro online conductivity meter is a highly versatile instrument designed for the industrial measurement of temperature, conductivity, resistivity, salinity, and total dissolved solids (TDS). Featuring comprehensive functions, stable performance, easy operation, low power consumption, and highly reliable construction, it uses precisely matched analog conductivity electrodes to ensure exceptional accuracy. With a rugged IP65 protection grade and a wide 90-260VAC power supply, it is widely utilized across demanding applications including thermal power generation, chemical processing, metallurgy, environmental protection, pharmaceuticals, biochemicals, food and beverage processing, and tap water monitoring.",
+          "fullDesc": "The STech-2080Pro online conductivity meter is a highly versatile instrument designed for the industrial measurement of temperature, conductivity, resistivity, salinity, and total dissolved solids (TDS). Featuring comprehensive functions, stable performance, easy operation, low power consumption, and highly reliable construction, it uses precisely matched analog conductivity electrodes to ensure exceptional accuracy. With a rugged IP65 protection grade and a wide 90-260VAC power supply, it is widely utilized across demanding applications including thermal power generation, chemical processing, metallurgy, environmental protection, pharmaceuticals, biochemicals, food and beverage processing, and tap water monitoring.",
           "imagePath": "/images/products/photos/tds sensor.png",
           "imageClassName": "",
           "pdfPath": "",
           "specs": [
             {
               "label": "Model",
-              "value": "DDG-2080Pro"
+              "value": "STech-2080Pro"
             },
             {
               "label": "Functions",
@@ -6291,9 +6291,9 @@
         {
           "id": "exa300-explosion-proof-ph-orp-analyzer",
           "type": "product",
-          "title": "EXA300 Explosion-proof pH/ORP Analyzer",
+          "title": "Stech-A003 pH/ORP Analyzer",
           "shortDesc": "A rugged, two-wire explosion-proof pH/ORP analyzer featuring highly reliable 4-20mA communication and ultra-low power consumption for hazardous industrial environments.",
-          "fullDesc": "The EXA300 Explosion-proof pH/ORP Analyzer is a state-of-the-art online intelligent analog instrument independently developed and manufactured by Boqu Instrument Company. It communicates seamlessly with process equipment via a standard 4-20mA two-wire interface, offering rapid communication and highly accurate data transmission. Built specifically for harsh, hazardous applications, this maintenance-free instrument boasts complete functionality, stable performance, simple operation, ultra-low power consumption, and paramount safety and reliability. Paired with a precision analog signal pH/ORP electrode, it provides continuous monitoring of pH, ORP, and temperature, making it ideal for demanding applications in thermal power generation, chemical processing, metallurgy, environmental protection, pharmaceutical, biochemical, and water treatment industries.",
+          "fullDesc": "The STech-A003 Explosion-proof pH/ORP Analyzer is a state-of-the-art online intelligent analog instrument independently developed and manufactured by Boqu Instrument Company. It communicates seamlessly with process equipment via a standard 4-20mA two-wire interface, offering rapid communication and highly accurate data transmission. Built specifically for harsh, hazardous applications, this maintenance-free instrument boasts complete functionality, stable performance, simple operation, ultra-low power consumption, and paramount safety and reliability. Paired with a precision analog signal pH/ORP electrode, it provides continuous monitoring of pH, ORP, and temperature, making it ideal for demanding applications in thermal power generation, chemical processing, metallurgy, environmental protection, pharmaceutical, biochemical, and water treatment industries.",
           "imagePath": "/images/products/photos/ph  orp analyser.png",
           "imageClassName": "",
           "pdfPath": "",
@@ -6304,7 +6304,7 @@
             },
             {
               "label": "Model",
-              "value": "EXA300"
+              "value": "STech-A003"
             },
             {
               "label": "Measuring Range",
