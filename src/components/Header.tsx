@@ -80,6 +80,7 @@ export default function Header({ navCategories = [] }: { navCategories?: any[] }
     : [];
 
   return (
+    <>
     <header
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${scrolled
         ? "glass-dark shadow-lg shadow-navy/20"
@@ -267,7 +268,7 @@ export default function Header({ navCategories = [] }: { navCategories?: any[] }
             </div>
           </div>
         )}
-      </div>
+    </header>
 
       {/* Mobile Menu */}
       {mobileOpen && (
@@ -338,6 +339,6 @@ export default function Header({ navCategories = [] }: { navCategories?: any[] }
           </nav>
         </div>
       )}
-    </header>
+    </>
   );
 }
