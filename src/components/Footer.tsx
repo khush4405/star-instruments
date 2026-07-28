@@ -133,7 +133,6 @@ export default function Footer({ navCategories = [] }: { navCategories?: any[] }
                 { href: "/", label: "Home" },
                 { href: "/about", label: "About Us" },
                 { href: "/products", label: "Products" },
-                { href: "/gallery", label: "Gallery" },
                 { href: "/videos", label: "Videos" },
                 { href: "/clients", label: "Our Clients" },
                 { href: "/contact", label: "Contact Us" },
